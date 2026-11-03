@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Deliver Us From Evil",
+      "url": "https://cdn-su-702108nd.thoughtmay.be/0/items/s_DeliverUsFromEvil/DeliverUsFromEvil.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:deliver-us-from-evil"
+      }
+    }
+  ]
+}

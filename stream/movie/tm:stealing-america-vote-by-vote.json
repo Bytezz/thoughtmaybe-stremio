@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Stealing America: Vote by Vote",
+      "url": "https://cdn-su-402008nd.thoughtmay.be/0/items/s1_StealingAmericaVoteByVote/StealingAmericaVoteByVote.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:stealing-america-vote-by-vote"
+      }
+    }
+  ]
+}

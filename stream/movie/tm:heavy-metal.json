@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Heavy Metal",
+      "url": "https://cdn-su-902106nd.thoughtmay.be/0/items/s1_HeavyMetal/HeavyMetal.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:heavy-metal"
+      }
+    }
+  ]
+}

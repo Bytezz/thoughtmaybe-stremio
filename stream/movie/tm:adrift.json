@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Adrift",
+      "url": "https://cdn-su-003008nd.thoughtmay.be/0/items/s_Adrift/Adrift.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:adrift"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Class Dismissed",
+      "url": "https://cdn-su-003006nd.thoughtmay.be/0/items/s_ClassDismissed/ClassDismissed.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:class-dismissed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Pax Americana",
+      "url": "https://cdn-su-002008nd.thoughtmay.be/0/items/s_PaxAmericana/PaxAmericana.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:pax-americana"
+      }
+    }
+  ]
+}

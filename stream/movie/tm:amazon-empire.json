@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Amazon Empire",
+      "url": "https://cdn-su-402106nd.thoughtmay.be/0/items/s_AmazonEmpire/AmazonEmpire.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:amazon-empire"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Biotech Revolution",
+      "url": "https://cdn-su-803008nd.thoughtmay.be/0/items/s1_TheBiotechRevolution/TheBiotechRevolution.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-biotech-revolution"
+      }
+    }
+  ]
+}

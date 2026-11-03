@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Beating The Bomb",
+      "url": "https://cdn-su-500108ai.thoughtmay.be/3/items/s2_BeatingTheBomb/BeatingTheBomb.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:beating-the-bomb"
+      }
+    }
+  ]
+}

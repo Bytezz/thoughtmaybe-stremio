@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Spin the Bottle",
+      "url": "https://cdn-su-203008nd.thoughtmay.be/0/items/s_SpinTheBottle/SpinTheBottle.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:spin-the-bottle"
+      }
+    }
+  ]
+}

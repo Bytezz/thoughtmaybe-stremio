@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Food, Inc. 2",
+      "url": "https://cdn-su-601008ai.thoughtmay.be/3/items/s_FoodInc2/FoodInc2.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:food-inc-2"
+      }
+    }
+  ]
+}

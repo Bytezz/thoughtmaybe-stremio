@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Idiot Cycle",
+      "url": "https://cdn-su-303008nd.thoughtmay.be/0/items/s0_TheIdiotCycle/TheIdiotCycle.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-idiot-cycle"
+      }
+    }
+  ]
+}

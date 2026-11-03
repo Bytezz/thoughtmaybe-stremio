@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Clothes to Die For",
+      "url": "https://cdn-su-102108nd.thoughtmay.be/0/items/s_ClothesToDieFor/ClothesToDieFor.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:clothes-to-die-for"
+      }
+    }
+  ]
+}

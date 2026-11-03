@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Love Me Long Time",
+      "url": "https://cdn-su-402108nd.thoughtmay.be/0/items/s1_LoveMeLongTime/LoveMeLongTime.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:love-me-long-time"
+      }
+    }
+  ]
+}

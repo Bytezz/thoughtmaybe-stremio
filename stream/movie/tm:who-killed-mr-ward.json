@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Who Killed Mr Ward",
+      "url": "https://cdn-su-903006nd.thoughtmay.be/0/items/s1_WhoKilledMrWard/WhoKilledMrWard.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:who-killed-mr-ward"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Surviving Progress",
+      "url": "https://cdn-su-203008nd.thoughtmay.be/0/items/s1_SurvivingProgress/SurvivingProgress.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:surviving-progress"
+      }
+    }
+  ]
+}

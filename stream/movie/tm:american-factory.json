@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "American Factory",
+      "url": "https://cdn-su-302108nd.thoughtmay.be/0/items/s_AmericanFactory/AmericanFactory.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:american-factory"
+      }
+    }
+  ]
+}

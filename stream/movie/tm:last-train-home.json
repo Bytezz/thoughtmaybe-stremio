@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Last Train Home",
+      "url": "https://cdn-su-203008nd.thoughtmay.be/0/items/s2_LastTrainHome/LastTrainHome.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:last-train-home"
+      }
+    }
+  ]
+}

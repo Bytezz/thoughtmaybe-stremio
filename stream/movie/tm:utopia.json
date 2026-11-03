@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Utopia",
+      "url": "https://cdn-su-103008nd.thoughtmay.be/0/items/s1_Utopia/Utopia.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:utopia"
+      }
+    }
+  ]
+}

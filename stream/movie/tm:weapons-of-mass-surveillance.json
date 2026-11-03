@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Weapons of Mass Surveillance",
+      "url": "https://cdn-su-303008nd.thoughtmay.be/0/items/s_WeaponsOfMassSurveillance/WeaponsOfMassSurveillance.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:weapons-of-mass-surveillance"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "WikiRebels",
+      "url": "https://cdn-su-703006nd.thoughtmay.be/0/items/s1_WikiRebels/WikiRebels.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:wikirebels"
+      }
+    }
+  ]
+}

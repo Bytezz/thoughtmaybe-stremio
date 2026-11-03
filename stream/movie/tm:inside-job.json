@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Inside Job",
+      "url": "https://cdn-su-302106nd.thoughtmay.be/0/items/s1_InsideJob/InsideJob.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:inside-job"
+      }
+    }
+  ]
+}

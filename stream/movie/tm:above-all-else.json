@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Above All Else",
+      "url": "https://cdn-su-303008nd.thoughtmay.be/0/items/s_AboveAllElse/AboveAllElse.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:above-all-else"
+      }
+    }
+  ]
+}

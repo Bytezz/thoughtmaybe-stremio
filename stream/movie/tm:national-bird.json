@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "National Bird",
+      "url": "https://cdn-su-302008nd.thoughtmay.be/0/items/s_NationalBirdDroneWars/NationalBirdDroneWars.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:national-bird"
+      }
+    }
+  ]
+}

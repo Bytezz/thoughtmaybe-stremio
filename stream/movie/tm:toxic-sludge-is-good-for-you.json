@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Toxic Sludge Is Good For You",
+      "url": "https://cdn-su-503006nd.thoughtmay.be/0/items/s1_ToxicSludge/ToxicSludge.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:toxic-sludge-is-good-for-you"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Albatross",
+      "url": "https://cdn-su-801309ai.thoughtmay.be/2/items/s_Albatross/Albatross.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:albatross"
+      }
+    }
+  ]
+}

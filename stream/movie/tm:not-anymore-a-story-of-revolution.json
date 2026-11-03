@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Not Anymore: A Story of Revolution",
+      "url": "https://cdn-su-903006nd.thoughtmay.be/0/items/s1_Syria/Syria.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:not-anymore-a-story-of-revolution"
+      }
+    }
+  ]
+}

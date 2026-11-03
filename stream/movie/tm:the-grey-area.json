@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Grey Area",
+      "url": "https://cdn-su-602008nd.thoughtmay.be/0/items/s_TheGreyArea/TheGreyArea.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-grey-area"
+      }
+    }
+  ]
+}

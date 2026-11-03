@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Queen of the Sun",
+      "url": "https://cdn-su-202106nd.thoughtmay.be/0/items/s_QueenOfTheSun/QueenOfTheSun.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:queen-of-the-sun"
+      }
+    }
+  ]
+}

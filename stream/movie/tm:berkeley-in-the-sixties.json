@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Berkeley in the Sixties",
+      "url": "https://cdn-su-103008nd.thoughtmay.be/0/items/s_BerkeleyInTheSixties/BerkeleyInTheSixties.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:berkeley-in-the-sixties"
+      }
+    }
+  ]
+}

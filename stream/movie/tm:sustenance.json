@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Sustenance",
+      "url": "https://cdn-su-700106ai.thoughtmay.be/15/items/s1_Sustenance/Sustenance.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:sustenance"
+      }
+    }
+  ]
+}

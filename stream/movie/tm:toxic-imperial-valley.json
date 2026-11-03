@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Toxic Imperial Valley",
+      "url": "https://cdn-su-302108nd.thoughtmay.be/0/items/s1_ToxicImperialValley/ToxicImperialValley.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:toxic-imperial-valley"
+      }
+    }
+  ]
+}

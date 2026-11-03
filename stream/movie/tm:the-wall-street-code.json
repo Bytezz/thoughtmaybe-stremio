@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Wall Street Code",
+      "url": "https://cdn-su-202006nd.thoughtmay.be/0/items/s1_TheWallStreetCode/TheWallStreetCode.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-wall-street-code"
+      }
+    }
+  ]
+}

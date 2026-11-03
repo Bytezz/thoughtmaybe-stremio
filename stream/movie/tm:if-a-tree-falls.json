@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "If A Tree Falls",
+      "url": "https://cdn-su-802008nd.thoughtmay.be/0/items/s2_IfATreeFalls/IfATreeFalls.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:if-a-tree-falls"
+      }
+    }
+  ]
+}

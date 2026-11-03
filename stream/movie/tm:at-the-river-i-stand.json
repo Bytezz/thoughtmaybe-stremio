@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "At the River I Stand",
+      "url": "https://cdn-su-209106ai.thoughtmay.be/27/items/s2_AtTheRiverIStand/AtTheRiverIStand.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:at-the-river-i-stand"
+      }
+    }
+  ]
+}

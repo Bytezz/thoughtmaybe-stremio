@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Taxi to The Dark Side",
+      "url": "https://cdn-su-403006nd.thoughtmay.be/0/items/s1_TaxiToTheDarkSide/TaxiToTheDarkSide.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:taxi-to-the-dark-side"
+      }
+    }
+  ]
+}

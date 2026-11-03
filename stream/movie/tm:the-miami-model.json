@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Miami Model",
+      "url": "https://cdn-su-302108nd.thoughtmay.be/0/items/s1_TheMiamiModel/TheMiamiModel.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-miami-model"
+      }
+    }
+  ]
+}

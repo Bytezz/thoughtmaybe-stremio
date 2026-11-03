@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Complicit",
+      "url": "https://cdn-su-603006nd.thoughtmay.be/0/items/s_Complicit/Complicit.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:complicit"
+      }
+    }
+  ]
+}

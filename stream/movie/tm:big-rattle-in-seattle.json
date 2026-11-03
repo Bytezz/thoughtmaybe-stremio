@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Big Rattle In Seattle",
+      "url": "https://cdn-su-306006ai.thoughtmay.be/18/items/s2_BigRattleInSeattle/BigRattleInSeattle.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:big-rattle-in-seattle"
+      }
+    }
+  ]
+}

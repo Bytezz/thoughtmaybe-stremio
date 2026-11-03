@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Thrown to the Wind",
+      "url": "https://cdn-su-402108nd.thoughtmay.be/0/items/s_ThrownToTheWind/ThrownToTheWind.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:thrown-to-the-wind"
+      }
+    }
+  ]
+}

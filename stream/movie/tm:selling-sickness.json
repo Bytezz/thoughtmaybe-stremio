@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Selling Sickness",
+      "url": "https://cdn-su-702106nd.thoughtmay.be/0/items/s1_SellingSickness/SellingSickness.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:selling-sickness"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Caught in the Crackdown",
+      "url": "https://cdn-su-406108ai.thoughtmay.be/1/items/s_CaughtInTheCrackdown/CaughtInTheCrackdown.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:caught-in-the-crackdown"
+      }
+    }
+  ]
+}

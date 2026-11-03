@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Truth in Numbers?",
+      "url": "https://cdn-su-903006nd.thoughtmay.be/0/items/s1_TruthInNumbers/TruthInNumbers.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:truth-in-numbers"
+      }
+    }
+  ]
+}

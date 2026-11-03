@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Underground",
+      "url": "https://cdn-su-202108nd.thoughtmay.be/0/items/s1_Underground/Underground.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:underground"
+      }
+    }
+  ]
+}

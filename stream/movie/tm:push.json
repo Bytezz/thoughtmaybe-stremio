@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Push",
+      "url": "https://cdn-su-303008nd.thoughtmay.be/0/items/s_Push/Push.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:push"
+      }
+    }
+  ]
+}

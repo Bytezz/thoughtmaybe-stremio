@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Truth Game",
+      "url": "https://cdn-su-403006nd.thoughtmay.be/0/items/s1_TheTruthGame/TheTruthGame.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-truth-game"
+      }
+    }
+  ]
+}

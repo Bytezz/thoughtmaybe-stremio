@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Enron — The Smartest Guys In The Room",
+      "url": "https://cdn-su-802106nd.thoughtmay.be/0/items/s2_Enron-TheSmartestGuysInTheRoom/Enron-TheSmartestGuysInTheRoom.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:enron-the-smartest-guys-in-the-room"
+      }
+    }
+  ]
+}

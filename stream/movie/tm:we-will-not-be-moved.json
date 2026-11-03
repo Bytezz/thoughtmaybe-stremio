@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "We Will Not Be Moved",
+      "url": "https://cdn-su-903008nd.thoughtmay.be/0/items/s1_WeWillNotBeMoved/WeWillNotBeMoved.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:we-will-not-be-moved"
+      }
+    }
+  ]
+}

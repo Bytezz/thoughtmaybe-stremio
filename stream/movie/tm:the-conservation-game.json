@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Conservation Game",
+      "url": "https://cdn-su-802108nd.thoughtmay.be/0/items/s_TheConservationGame/TheConservationGame.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-conservation-game"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Battle for Orgreave",
+      "url": "https://cdn-su-802008nd.thoughtmay.be/0/items/s1_TheBattleForOrgreave/TheBattleForOrgreave.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-battle-for-orgreave"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "American Commune",
+      "url": "https://cdn-su-502108nd.thoughtmay.be/0/items/s_AmericanCommune/AmericanCommune.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:american-commune"
+      }
+    }
+  ]
+}

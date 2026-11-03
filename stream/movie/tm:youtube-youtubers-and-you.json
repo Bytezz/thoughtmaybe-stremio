@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "YouTube, YouTubers and You",
+      "url": "https://cdn-su-803008nd.thoughtmay.be/0/items/s_YouTubeYouTubersAndYou/YouTubeYouTubersAndYou.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:youtube-youtubers-and-you"
+      }
+    }
+  ]
+}

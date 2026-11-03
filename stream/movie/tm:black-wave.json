@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Black Wave",
+      "url": "https://cdn-su-808008ai.thoughtmay.be/31/items/s2_BlackWave/BlackWave.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:black-wave"
+      }
+    }
+  ]
+}

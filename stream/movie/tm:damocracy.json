@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Damocracy",
+      "url": "https://cdn-su-902006nd.thoughtmay.be/0/items/s1_Damocracy/Damocracy.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:damocracy"
+      }
+    }
+  ]
+}

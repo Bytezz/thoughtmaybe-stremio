@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "About Woomera",
+      "url": "https://cdn-su-806008ai.thoughtmay.be/21/items/s2_AboutWoomera/AboutWoomera.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:about-woomera"
+      }
+    }
+  ]
+}

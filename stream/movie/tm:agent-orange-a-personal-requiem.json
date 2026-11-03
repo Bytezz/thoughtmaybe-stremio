@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Agent Orange: A Personal Requiem",
+      "url": "https://cdn-su-300106ai.thoughtmay.be/27/items/s2_AgentOrange/AgentOrange.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:agent-orange-a-personal-requiem"
+      }
+    }
+  ]
+}

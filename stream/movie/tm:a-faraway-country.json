@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "A Faraway Country",
+      "url": "https://cdn-su-205108ai.thoughtmay.be/4/items/s2_AFarawayCountry/AFarawayCountry.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:a-faraway-country"
+      }
+    }
+  ]
+}

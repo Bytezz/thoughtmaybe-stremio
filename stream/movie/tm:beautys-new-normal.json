@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Beauty’s New Normal",
+      "url": "https://cdn-su-202006nd.thoughtmay.be/0/items/s_BeautysNewNormal/BeautysNewNormal.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:beautys-new-normal"
+      }
+    }
+  ]
+}

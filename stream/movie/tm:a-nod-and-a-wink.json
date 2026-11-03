@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "A Nod and A Wink",
+      "url": "https://cdn-su-205008ai.thoughtmay.be/14/items/s2_ANodAndAWink/ANodAndAWink.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:a-nod-and-a-wink"
+      }
+    }
+  ]
+}

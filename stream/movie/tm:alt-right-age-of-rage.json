@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Alt-Right: Age of Rage",
+      "url": "https://cdn-su-303006nd.thoughtmay.be/0/items/s_AltRight-AgeOfRage/AltRight-AgeOfRage.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:alt-right-age-of-rage"
+      }
+    }
+  ]
+}

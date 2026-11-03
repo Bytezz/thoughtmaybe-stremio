@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Battle of Chernobyl",
+      "url": "https://cdn-su-202008nd.thoughtmay.be/0/items/s1_TheBattleOfChernobyl/TheBattleOfChernobyl.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-battle-of-chernobyl"
+      }
+    }
+  ]
+}

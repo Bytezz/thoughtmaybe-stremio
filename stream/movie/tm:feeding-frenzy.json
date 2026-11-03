@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Feeding Frenzy",
+      "url": "https://cdn-su-902008nd.thoughtmay.be/0/items/s_FeedingFrenzy/FeedingFrenzy.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:feeding-frenzy"
+      }
+    }
+  ]
+}

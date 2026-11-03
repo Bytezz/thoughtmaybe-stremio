@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Algorithms Rule Us All",
+      "url": "https://cdn-su-203006nd.thoughtmay.be/0/items/s_AlgorithmsRuleUsAll/AlgorithmsRuleUsAll.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:algorithms-rule-us-all"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "LA ’92",
+      "url": "https://cdn-su-602106nd.thoughtmay.be/0/items/s_LA92/LA92.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:la-92"
+      }
+    }
+  ]
+}

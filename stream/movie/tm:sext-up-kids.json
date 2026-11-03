@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Sext Up Kids",
+      "url": "https://cdn-su-903006nd.thoughtmay.be/0/items/s1_SextUpKids/SextUpKids.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:sext-up-kids"
+      }
+    }
+  ]
+}

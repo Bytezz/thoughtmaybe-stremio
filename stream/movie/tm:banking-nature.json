@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Banking Nature",
+      "url": "https://cdn-su-002106nd.thoughtmay.be/0/items/s_BankingNature/BankingNature.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:banking-nature"
+      }
+    }
+  ]
+}

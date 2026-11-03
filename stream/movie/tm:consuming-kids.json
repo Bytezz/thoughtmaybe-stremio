@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Consuming Kids",
+      "url": "https://cdn-su-602008nd.thoughtmay.be/0/items/s1_ConsumingKids/ConsumingKids.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:consuming-kids"
+      }
+    }
+  ]
+}

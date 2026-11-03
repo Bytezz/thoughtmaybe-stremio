@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Rebel Without A Pause",
+      "url": "https://cdn-su-802006nd.thoughtmay.be/0/items/s1_RebelWithoutAPause/RebelWithoutAPause.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:rebel-without-a-pause"
+      }
+    }
+  ]
+}

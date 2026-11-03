@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Cleaners",
+      "url": "https://cdn-su-702106nd.thoughtmay.be/0/items/s_TheCleaners/TheCleaners.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-cleaners"
+      }
+    }
+  ]
+}

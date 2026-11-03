@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Public Figure",
+      "url": "https://cdn-su-302108nd.thoughtmay.be/0/items/s_PublicFigure/PublicFigure.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:public-figure"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Let’s Make Money",
+      "url": "https://cdn-su-802106nd.thoughtmay.be/0/items/s1_LetsMakeMoney/LetsMakeMoney.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:lets-make-money"
+      }
+    }
+  ]
+}

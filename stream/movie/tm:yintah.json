@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Yintah",
+      "url": "https://cdn-su-304106ai.thoughtmay.be/33/items/s_Yintah/Yintah.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:yintah"
+      }
+    }
+  ]
+}

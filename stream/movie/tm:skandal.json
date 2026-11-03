@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Skandal!",
+      "url": "https://cdn-su-106008ai.thoughtmay.be/21/items/s_Skandal/Skandal-BringingDownWirecard.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:skandal"
+      }
+    }
+  ]
+}

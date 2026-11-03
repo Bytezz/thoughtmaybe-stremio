@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Light Bulb Conspiracy",
+      "url": "https://cdn-su-102008nd.thoughtmay.be/0/items/s1_TheLightbulbConspiracy/TheLightbulbConspiracy.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-light-bulb-conspiracy"
+      }
+    }
+  ]
+}

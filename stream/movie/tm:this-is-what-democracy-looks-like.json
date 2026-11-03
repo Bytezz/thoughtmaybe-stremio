@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "This Is What Democracy Looks Like",
+      "url": "https://cdn-su-502106nd.thoughtmay.be/0/items/s1_ThisIsWhatDemocracyLooksLike/ThisIsWhatDemocracyLooksLike.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:this-is-what-democracy-looks-like"
+      }
+    }
+  ]
+}

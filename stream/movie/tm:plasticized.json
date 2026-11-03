@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Plasticized",
+      "url": "https://cdn-su-602106nd.thoughtmay.be/0/items/s_Plasticized/Plasticized.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:plasticized"
+      }
+    }
+  ]
+}

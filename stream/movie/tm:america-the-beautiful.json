@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "America the Beautiful",
+      "url": "https://cdn-su-603006nd.thoughtmay.be/0/items/s_AmericaTheBeautiful/AmericaTheBeautiful.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:america-the-beautiful"
+      }
+    }
+  ]
+}

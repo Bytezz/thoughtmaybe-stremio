@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "S11",
+      "url": "https://cdn-su-203006nd.thoughtmay.be/0/items/s2_S11Protest/S11Protest.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:s11"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Inside Japan’s Nuclear Meldown",
+      "url": "https://cdn-su-301309ai.thoughtmay.be/4/items/s2_InsideJapansNuclearMeltdown/InsideJapansNuclearMeltdown.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:inside-japans-nuclear-meldown"
+      }
+    }
+  ]
+}

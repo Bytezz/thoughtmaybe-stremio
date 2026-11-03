@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Copwatch",
+      "url": "https://cdn-su-703006nd.thoughtmay.be/0/items/s_Copwatch/Copwatch.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:copwatch"
+      }
+    }
+  ]
+}

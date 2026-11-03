@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Deadly Persuasion",
+      "url": "https://cdn-su-802108nd.thoughtmay.be/0/items/s_DeadlyPersuasion/DeadlyPersuasion.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:deadly-persuasion"
+      }
+    }
+  ]
+}

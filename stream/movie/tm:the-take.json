@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Take",
+      "url": "https://cdn-su-602108nd.thoughtmay.be/0/items/s1_TheTake/TheTake_subs.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-take"
+      }
+    }
+  ]
+}

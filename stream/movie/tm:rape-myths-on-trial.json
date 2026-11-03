@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Rape Myths on Trial",
+      "url": "https://cdn.thoughtmaybe.com/download/s_RapeMythsOnTrial/RapeMythsOnTrial.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:rape-myths-on-trial"
+      }
+    }
+  ]
+}

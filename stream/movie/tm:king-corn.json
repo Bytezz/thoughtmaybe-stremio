@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "King Corn",
+      "url": "https://cdn-su-503008nd.thoughtmay.be/0/items/s2_KingCorn/KingCorn.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:king-corn"
+      }
+    }
+  ]
+}

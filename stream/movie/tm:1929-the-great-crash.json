@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "1929: The Great Crash",
+      "url": "https://cdn-su-002108nd.thoughtmay.be/0/items/s1_1929-TheGreatCrash/1929-TheGreatCrash.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:1929-the-great-crash"
+      }
+    }
+  ]
+}

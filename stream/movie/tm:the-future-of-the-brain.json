@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Future of The Brain",
+      "url": "https://cdn-su-503006nd.thoughtmay.be/0/items/s1_TheFutureOfTheBrain/TheFutureOfTheBrain.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-future-of-the-brain"
+      }
+    }
+  ]
+}

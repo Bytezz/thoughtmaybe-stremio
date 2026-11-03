@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Mea Maxima Culpa",
+      "url": "https://cdn-su-402006nd.thoughtmay.be/0/items/s_MeaMaximaCulpa/MeaMaximaCulpa.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:mea-maxima-culpa"
+      }
+    }
+  ]
+}

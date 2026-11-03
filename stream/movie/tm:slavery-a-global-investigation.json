@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Slavery: A Global Investigation",
+      "url": "https://cdn-su-704106ai.thoughtmay.be/30/items/s3_Slavery-AGlobalInvestigation/Slavery-AGlobalInvestigation.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:slavery-a-global-investigation"
+      }
+    }
+  ]
+}

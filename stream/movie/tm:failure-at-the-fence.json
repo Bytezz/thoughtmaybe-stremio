@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Failure at the Fence",
+      "url": "https://cdn-su-306008ai.thoughtmay.be/7/items/s_FailureAtTheFence/FailureAtTheFence.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:failure-at-the-fence"
+      }
+    }
+  ]
+}

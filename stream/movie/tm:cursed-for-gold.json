@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Cursed for Gold",
+      "url": "https://cdn-su-902008nd.thoughtmay.be/0/items/s1_CursedForGold/CursedForGold.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:cursed-for-gold"
+      }
+    }
+  ]
+}

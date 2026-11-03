@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Illusionists",
+      "url": "https://cdn-su-202106nd.thoughtmay.be/0/items/s_TheIllusionists/TheIllusionists.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-illusionists"
+      }
+    }
+  ]
+}

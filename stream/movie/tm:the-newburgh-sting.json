@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Newburgh Sting",
+      "url": "https://cdn-su-103006nd.thoughtmay.be/0/items/s_TheNewburghSting/TheNewburghSting.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-newburgh-sting"
+      }
+    }
+  ]
+}

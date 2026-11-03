@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Revolution Will Not Be Televised",
+      "url": "https://cdn-su-302106nd.thoughtmay.be/0/items/s1_TheRevolutionWillNotBeTelevised/TheRevolutionWillNotBeTelevised.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-revolution-will-not-be-televised"
+      }
+    }
+  ]
+}

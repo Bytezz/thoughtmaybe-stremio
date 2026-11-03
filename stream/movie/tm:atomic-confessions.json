@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Atomic Confessions",
+      "url": "https://cdn-su-809008ai.thoughtmay.be/35/items/s2_AtomicConfessions/AtomicConfessions.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:atomic-confessions"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Village of The Damned",
+      "url": "https://cdn-su-302006nd.thoughtmay.be/0/items/s1_VillageOfTheDamned/VillageOfTheDamned.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:village-of-the-damned"
+      }
+    }
+  ]
+}

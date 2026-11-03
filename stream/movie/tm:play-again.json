@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Play Again",
+      "url": "https://cdn.thoughtmaybe.com/download/s1_PlayAgain/PlayAgain.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:play-again"
+      }
+    }
+  ]
+}

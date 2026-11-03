@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Blind Spot",
+      "url": "https://cdn-su-808006ai.thoughtmay.be/28/items/s2_BlindSpot/BlindSpot.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:blind-spot"
+      }
+    }
+  ]
+}

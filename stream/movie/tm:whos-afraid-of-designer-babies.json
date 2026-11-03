@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Who’s Afraid of Designer Babies?",
+      "url": "https://cdn-su-603008nd.thoughtmay.be/0/items/s1_WhosAfraidOfDesignerBabies/WhosAfraidOfDesignerBabies.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:whos-afraid-of-designer-babies"
+      }
+    }
+  ]
+}

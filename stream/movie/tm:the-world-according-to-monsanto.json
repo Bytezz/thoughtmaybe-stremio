@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The World According to Monsanto",
+      "url": "https://cdn-su-203008nd.thoughtmay.be/0/items/s1_TheWorldAccordingToMonsanto/TheWorldAccordingToMonsanto.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-world-according-to-monsanto"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Spin",
+      "url": "https://cdn-su-702006nd.thoughtmay.be/0/items/s1_Spin/Spin.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:spin"
+      }
+    }
+  ]
+}

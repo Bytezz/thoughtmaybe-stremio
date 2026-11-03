@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "A Farm For The Future",
+      "url": "https://cdn-su-106106ai.thoughtmay.be/10/items/s2_AFarmForTheFuture/AFarmForTheFuture.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:a-farm-for-the-future"
+      }
+    }
+  ]
+}

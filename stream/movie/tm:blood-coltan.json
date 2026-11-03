@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Blood Coltan",
+      "url": "https://cdn-su-400106ai.thoughtmay.be/6/items/s2_BloodColtan/BloodColtan.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:blood-coltan"
+      }
+    }
+  ]
+}

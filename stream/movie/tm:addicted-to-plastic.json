@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Addicted to Plastic",
+      "url": "https://cdn.thoughtmaybe.com/download/s2_AddictedToPlastic/AddictedToPlastic.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:addicted-to-plastic"
+      }
+    }
+  ]
+}

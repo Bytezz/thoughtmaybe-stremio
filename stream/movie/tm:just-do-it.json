@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Just Do It — A Tale of Modern-Day Outlaws",
+      "url": "https://cdn-su-302108nd.thoughtmay.be/0/items/s1_JustDoIt/JustDoIt.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:just-do-it"
+      }
+    }
+  ]
+}

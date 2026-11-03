@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "War Zone",
+      "url": "https://cdn-su-102006nd.thoughtmay.be/0/items/s_WarZone/WarZone.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:war-zone"
+      }
+    }
+  ]
+}

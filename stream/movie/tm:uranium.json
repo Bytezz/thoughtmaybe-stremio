@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Uranium",
+      "url": "https://cdn-su-302108nd.thoughtmay.be/0/items/s1_Uranium/Uranium.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:uranium"
+      }
+    }
+  ]
+}

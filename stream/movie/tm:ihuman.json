@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "iHuman",
+      "url": "https://cdn-su-908108ai.thoughtmay.be/10/items/s_iHuman/iHuman.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:ihuman"
+      }
+    }
+  ]
+}

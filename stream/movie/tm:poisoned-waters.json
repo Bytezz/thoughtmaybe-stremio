@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Poisoned Waters",
+      "url": "https://cdn-su-208008ai.thoughtmay.be/9/items/s3_PoisonedWaters/PoisonedWaters.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:poisoned-waters"
+      }
+    }
+  ]
+}

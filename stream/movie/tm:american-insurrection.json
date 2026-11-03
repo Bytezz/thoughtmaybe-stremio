@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "American Insurrection",
+      "url": "https://cdn-su-302006nd.thoughtmay.be/0/items/s_AmericanInsurrection/AmericanInsurrection.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:american-insurrection"
+      }
+    }
+  ]
+}

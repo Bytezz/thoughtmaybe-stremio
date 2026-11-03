@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Love Child",
+      "url": "https://cdn-su-403008nd.thoughtmay.be/0/items/s1_LoveChild/LoveChild.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:love-child"
+      }
+    }
+  ]
+}

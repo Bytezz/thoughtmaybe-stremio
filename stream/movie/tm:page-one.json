@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Page One",
+      "url": "https://cdn-su-102106nd.thoughtmay.be/0/items/s_PageOne-InsideTheNewYorkTimes/PageOne-InsideTheNewYorkTimes.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:page-one"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The President vs. David Hicks",
+      "url": "https://cdn-su-203006nd.thoughtmay.be/0/items/s_ThePresidentVsDavidHicks/ThePresidentVsDavidHicks.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-president-vs-david-hicks"
+      }
+    }
+  ]
+}

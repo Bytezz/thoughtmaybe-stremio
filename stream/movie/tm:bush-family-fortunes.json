@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Bush Family Fortunes",
+      "url": "https://cdn-su-402108nd.thoughtmay.be/0/items/s1_BushFamilyFortunes/BushFamilyFortunes.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:bush-family-fortunes"
+      }
+    }
+  ]
+}

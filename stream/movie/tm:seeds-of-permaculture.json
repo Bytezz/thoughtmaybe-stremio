@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Seeds of Permaculture",
+      "url": "https://cdn-su-903008nd.thoughtmay.be/0/items/s1_SeedsOfPermaculture/SeedsOfPermaculture.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:seeds-of-permaculture"
+      }
+    }
+  ]
+}

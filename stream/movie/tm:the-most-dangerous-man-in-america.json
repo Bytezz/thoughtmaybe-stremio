@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Most Dangerous Man In America",
+      "url": "https://cdn-su-703008nd.thoughtmay.be/0/items/s1_TheMostDangerousManInAmerica/TheMostDangerousManInAmerica.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-most-dangerous-man-in-america"
+      }
+    }
+  ]
+}

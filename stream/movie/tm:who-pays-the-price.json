@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Who Pays the Price?",
+      "url": "https://cdn-su-402108nd.thoughtmay.be/0/items/s1_WhoPaysThePrice/WhoPaysThePrice.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:who-pays-the-price"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Five Friends",
+      "url": "https://cdn-su-602008nd.thoughtmay.be/0/items/s_FiveFriends/FiveFriends.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:five-friends"
+      }
+    }
+  ]
+}

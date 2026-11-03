@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Ecocide",
+      "url": "https://cdn-su-002108nd.thoughtmay.be/0/items/s_Ecocide/Ecocide.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:ecocide"
+      }
+    }
+  ]
+}

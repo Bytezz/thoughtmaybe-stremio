@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "This is Our Land",
+      "url": "https://cdn-su-503006nd.thoughtmay.be/0/items/s_ThisIsOurLand/ThisIsOurLand.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:this-is-our-land"
+      }
+    }
+  ]
+}

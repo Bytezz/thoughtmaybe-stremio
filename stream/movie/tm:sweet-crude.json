@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Sweet Crude",
+      "url": "https://cdn-su-703008nd.thoughtmay.be/0/items/s_SweetCrude/SweetCrude.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:sweet-crude"
+      }
+    }
+  ]
+}

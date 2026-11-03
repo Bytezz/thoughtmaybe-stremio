@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Invisible War",
+      "url": "https://cdn-su-802008nd.thoughtmay.be/0/items/s1_TheInvisibleWar/TheInvisibleWar.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-invisible-war"
+      }
+    }
+  ]
+}

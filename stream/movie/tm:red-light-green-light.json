@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Red Light, Green Light",
+      "url": "https://cdn-su-103008nd.thoughtmay.be/0/items/s_RedLightGreenLight/RedLightGreenLight.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:red-light-green-light"
+      }
+    }
+  ]
+}

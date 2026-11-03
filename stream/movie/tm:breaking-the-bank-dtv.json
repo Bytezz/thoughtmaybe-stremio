@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Breaking The Bank",
+      "url": "https://cdn-su-003006nd.thoughtmay.be/0/items/s2_BreakingTheBank-Indymedia/BreakingTheBank.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:breaking-the-bank-dtv"
+      }
+    }
+  ]
+}

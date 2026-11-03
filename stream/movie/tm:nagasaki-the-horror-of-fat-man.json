@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Nagasaki — The Horror of Fat Man",
+      "url": "https://cdn-su-002106nd.thoughtmay.be/0/items/s2_Nagasaki-TheHorrorOfFatMan/Nagasaki-TheHorrorOfFatMan.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:nagasaki-the-horror-of-fat-man"
+      }
+    }
+  ]
+}

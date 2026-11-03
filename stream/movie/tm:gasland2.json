@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Gasland Part II",
+      "url": "https://cdn-su-202106nd.thoughtmay.be/0/items/s1_Gasland2/Gasland2.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:gasland2"
+      }
+    }
+  ]
+}

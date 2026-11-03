@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Child Slavery",
+      "url": "https://cdn-su-903006nd.thoughtmay.be/0/items/s2_ChildSlavery/ChildSlavery.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:child-slavery"
+      }
+    }
+  ]
+}

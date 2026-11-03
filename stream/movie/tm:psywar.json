@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Psywar",
+      "url": "https://cdn-su-603006nd.thoughtmay.be/0/items/s2_Psywar/Psywar.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:psywar"
+      }
+    }
+  ]
+}

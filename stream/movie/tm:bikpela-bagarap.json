@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Bikpela Bagarap",
+      "url": "https://cdn-su-806006ai.thoughtmay.be/27/items/s2_BikpelaBagarap/BikpelaBagarap.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:bikpela-bagarap"
+      }
+    }
+  ]
+}

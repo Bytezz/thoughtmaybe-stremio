@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "United States of Conspiracy",
+      "url": "https://cdn-su-903008nd.thoughtmay.be/0/items/s_UnitedStatesOfConspiracy/UnitedStatesOfConspiracy.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:united-states-of-conspiracy"
+      }
+    }
+  ]
+}

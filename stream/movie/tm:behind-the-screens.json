@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Behind the Screens",
+      "url": "https://cdn-su-703006nd.thoughtmay.be/0/items/s_BehindTheScreens/BehindTheScreens.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:behind-the-screens"
+      }
+    }
+  ]
+}

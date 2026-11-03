@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Behind The Big News",
+      "url": "https://cdn-su-505106ai.thoughtmay.be/9/items/s2_BehindTheBigNews/BehindTheBigNews.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:behind-the-big-news"
+      }
+    }
+  ]
+}

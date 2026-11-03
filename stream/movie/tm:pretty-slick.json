@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Pretty Slick",
+      "url": "https://cdn-su-503008nd.thoughtmay.be/0/items/s_PrettySlick/PrettySlick.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:pretty-slick"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Crisis of Civilization",
+      "url": "https://cdn-su-502106nd.thoughtmay.be/0/items/s1_TheCrisisOfCivilization/TheCrisisOfCivilization.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-crisis-of-civilization"
+      }
+    }
+  ]
+}

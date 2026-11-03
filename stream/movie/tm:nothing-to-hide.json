@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Nothing to Hide",
+      "url": "https://cdn-su-003006nd.thoughtmay.be/0/items/s_NothingToHide/NothingToHide.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:nothing-to-hide"
+      }
+    }
+  ]
+}

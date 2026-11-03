@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "OkupaciÃ³n",
+      "url": "https://cdn-su-002106nd.thoughtmay.be/0/items/s1_Okupacion/Okupacion.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:okupacion"
+      }
+    }
+  ]
+}

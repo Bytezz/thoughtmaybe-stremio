@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Diabolical: The Epstein Files",
+      "url": "https://cdn-su-502308ai.thoughtmay.be/14/items/s_Diabolical-TheEpsteinFiles/Diabolical-TheEpsteinFiles.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:diabolical-the-epstein-files"
+      }
+    }
+  ]
+}

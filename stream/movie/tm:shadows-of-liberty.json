@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Shadows of Liberty",
+      "url": "https://cdn-su-203006nd.thoughtmay.be/0/items/s1_ShadowsOfLiberty/ShadowsOfLiberty.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:shadows-of-liberty"
+      }
+    }
+  ]
+}

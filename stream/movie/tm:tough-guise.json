@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Tough Guise",
+      "url": "https://cdn.thoughtmaybe.com/download/s1_ToughGuise/ToughGuise.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:tough-guise"
+      }
+    }
+  ]
+}

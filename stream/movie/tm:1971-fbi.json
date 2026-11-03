@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "1971",
+      "url": "https://cdn-su-403006nd.thoughtmay.be/0/items/s_1971/1971.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:1971-fbi"
+      }
+    }
+  ]
+}

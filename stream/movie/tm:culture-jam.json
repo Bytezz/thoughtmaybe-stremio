@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Culture Jam",
+      "url": "https://cdn-su-302006nd.thoughtmay.be/0/items/s1_CultureJam/CultureJam.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:culture-jam"
+      }
+    }
+  ]
+}

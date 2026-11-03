@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Truth About Killer Robots",
+      "url": "https://cdn-su-803006nd.thoughtmay.be/0/items/s_TheTruthAboutKillerRobots/TheTruthAboutKillerRobots.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-truth-about-killer-robots"
+      }
+    }
+  ]
+}

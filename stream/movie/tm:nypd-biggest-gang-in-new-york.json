@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "NYPD: Biggest Gang In New York",
+      "url": "https://cdn-su-103008nd.thoughtmay.be/0/items/s1_NYPDBiggestGangInNewYork/NYPDBiggestGangInNewYork.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:nypd-biggest-gang-in-new-york"
+      }
+    }
+  ]
+}

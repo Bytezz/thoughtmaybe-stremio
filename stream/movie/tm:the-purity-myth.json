@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Purity Myth",
+      "url": "https://cdn-su-203008nd.thoughtmay.be/0/items/s_ThePurityMyth/ThePurityMyth.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-purity-myth"
+      }
+    }
+  ]
+}

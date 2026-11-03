@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Brand New You",
+      "url": "https://cdn-su-503006nd.thoughtmay.be/0/items/s_BrandNewYou/BrandNewYou.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:brand-new-you"
+      }
+    }
+  ]
+}

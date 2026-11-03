@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Split Screen",
+      "url": "https://cdn-su-103008nd.thoughtmay.be/0/items/s_SplitScreen/SplitScreen.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:split-screen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Not Just a Game",
+      "url": "https://cdn-su-703008nd.thoughtmay.be/0/items/s_NotJustAGame/NotJustAGame.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:not-just-a-game"
+      }
+    }
+  ]
+}

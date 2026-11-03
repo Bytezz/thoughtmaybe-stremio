@@ -1,0 +1,1933 @@
+{
+  "metas": [
+    {
+      "id": "tm:terror",
+      "type": "movie",
+      "name": "(T)error",
+      "poster": "https://thoughtmaybe.com/content/TError.jpg",
+      "background": "https://thoughtmaybe.com/content/TError.jpg",
+      "description": "(T)erroris the story of a 62-year-old Theodore Shelby, a former Black Panther now turned informant for the FBI going under the name Saeed âShariffâ Torres. The film documents his work on an undercover sting operation that targets a Muslim American Khalifah Ali Al-Akili on weapons charges, as well as Tarik Shah, a professional jazz musician, accused of providing support to al-Qaeda, even though no actual terrorist contact ever took place. The cases are used as examples of preemptive prosecutions, and illuminate aspects of the surveillance state in the post-9/11 world of the United States.",
+      "releaseInfo": "2015",
+      "genres": [
+        "al-Qaeda",
+        "covert operations",
+        "FBI",
+        "intelligence agencies",
+        "surveillance",
+        "war on terror"
+      ],
+      "director": [
+        "David Sutcliffe"
+      ]
+    },
+    {
+      "id": "tm:regeneration",
+      "type": "movie",
+      "name": "#ReGENERATION",
+      "poster": "https://thoughtmaybe.com/content/ReGENERATION.jpg",
+      "background": "https://thoughtmaybe.com/content/ReGENERATION.jpg",
+      "description": "The huge and complex problems of today often instil doubt and fear that everything is futile. Yet by analysing how the power of media, schooling and parenting have moulded us,#ReGENERATIONhelps us start to comprehend what we must change—both as a generation and as a culture. We see how the average family spends at least four hours a day in front of the TV. Internet and video games are not included in this figure. So guess what is shaping us? This film examines the corporate forces that deeply influence all of us, but particularly the young, providing insights into how the politics of apathy is perpetuated, and how we can turn this around into activism, if and when we are willing.",
+      "releaseInfo": "2012",
+      "genres": [
+        "advertising",
+        "children",
+        "consumerism",
+        "dominant culture",
+        "media"
+      ],
+      "director": [
+        "Phillip Montgomery"
+      ]
+    },
+    {
+      "id": "tm:13th",
+      "type": "movie",
+      "name": "13th",
+      "poster": "https://thoughtmaybe.com/content/13th.jpg",
+      "background": "https://thoughtmaybe.com/content/13th.jpg",
+      "description": "13thexplores the intersection of race, justice, and mass incarceration in the United States, as titled after the Thirteenth Amendment to the United States Constitution, adopted in 1865, which purported to abolish slavery throughout the United States and end involuntary servitude except as a punishment for conviction of a crime. The film contends that slavery has been perpetuated since the end of the American Civil War through criminalising behaviour and enabling police to arrest poor enslaved people and force them to work for the state under convict leasing; suppression of African Americans by disenfranchisement, lynchings and Jim Crow; politicians declaring a war on drugs that weighs more heavily on minority communities and, by the late 20th century, mass incarceration of people of colour in the United States.13thexamines the prison-industrial complex and the emerging detention-industrial complex, discussing how much money is being made by corporations from mass incarcerations.",
+      "releaseInfo": "2016",
+      "genres": [
+        "history",
+        "legal system",
+        "prison",
+        "racism",
+        "rights",
+        "slave labour"
+      ],
+      "director": [
+        "Ava DuVernay"
+      ]
+    },
+    {
+      "id": "tm:1929-the-great-crash",
+      "type": "movie",
+      "name": "1929: The Great Crash",
+      "poster": "https://thoughtmaybe.com/content/1929-TheGreatCrash.jpg",
+      "background": "https://thoughtmaybe.com/content/1929-TheGreatCrash.jpg",
+      "description": "Over six desperate days in October 1929, the New York Stock Exchange crashed leading to the collapse of three thousand banks, taking people’s savings with them. In a matter of days, the United States economy was obliterated. The crash was followed by a devastating worldwide depression that lasted until the Second World War. Finances did not regain their pre-crash values until 1954. This film recounts the story of a financial disaster that we hoped could never happen again, revealing the familiar tune of cheap credit, consumerism, greed, corruption and cronyism in the current-day financial crisis…",
+      "releaseInfo": "2009",
+      "genres": [
+        "banking",
+        "corporations",
+        "economics",
+        "financial crisis",
+        "money"
+      ],
+      "director": [
+        "Joanna Bartholomew"
+      ]
+    },
+    {
+      "id": "tm:1971-fbi",
+      "type": "movie",
+      "name": "1971",
+      "poster": "https://thoughtmaybe.com/content/1971.jpg",
+      "background": "https://thoughtmaybe.com/content/1971.jpg",
+      "description": "In March 1971, eight ordinary citizens broke into an FBI office in Pennsylvania, took hundreds of secret documents out, and mailed them to newspapers across the country to share them with the public. The group, calling themselvesThe Citizens’ Commission to Investigate the FBI, undertook the actions at a time where suspicions about systemic abuse and manipulation of social and political movements by intelligence agencies were running high in the context of the Vietnam war and 1960s counter-culture. In doing so, these citizens uncovered the FBI’s vast and illegal regimes, leading to insights about mass surveillance, intimidation, entrapment, and the use of provocateurs and informers for manipulation, and sabotage. Much of this would later go on to be known as part of a covert program called COINTELPRO that was run directly by J. Edgar Hoover to destroy social change movements—a history that is imperative to understand in the context of today, where state repression of social change movements continues.",
+      "releaseInfo": "2014",
+      "genres": [
+        "COINTELPRO",
+        "covert operations",
+        "direct action",
+        "FBI",
+        "governments",
+        "intelligence agencies",
+        "protest",
+        "resistance",
+        "social control",
+        "spying"
+      ],
+      "director": [
+        "Gabriel Rhodes"
+      ]
+    },
+    {
+      "id": "tm:25-million-pounds",
+      "type": "movie",
+      "name": "25 Million Pounds",
+      "poster": "https://thoughtmaybe.com/content/25MillionPounds.jpg",
+      "background": "https://thoughtmaybe.com/content/25MillionPounds.jpg",
+      "description": "25 Million Poundsdetails the collapse of Barings Bank in the mid 1990s primarily by a broker called Nick Leeson, who lost Â£827 million ($1.3 billion) by speculating on futures contracts. The film contextualises the downfall as the history of Barings Bank was one of the oldest and most prestigious merchant banks in Britain, run by the same family for decades with extensive ties to Britain’s elites. But in the late 19th century Barings almost went bankrupt after investing heavily in South American bonds, including backing the construction of a sewer system in Buenos Aires. The bank was saved by The Bank of England, but Edward Baring, the head of the bank, was financially ruined and never recovered. This film explores the culture of Barings and of the financial markets during the 1990s, and how Nick Leeson was able to cause another huge loss of money to the bank, this time bankrupting the company. He did this by claiming fictitious profits on the Singapore International Monetary Exchange and using money requested from London as margin payments on fictitious trades to finance his loss-making positions. It’s also the profile of a stereotypical corporate psychopath, as Leeson himself explains how he was able to manipulate those around him to achieve his ends and rationalise his actions.",
+      "releaseInfo": "1996",
+      "genres": [
+        "banking",
+        "financial crisis",
+        "money"
+      ],
+      "director": [
+        "Adam Curtis"
+      ]
+    },
+    {
+      "id": "tm:30-frames-a-second-the-wto-in-seattle",
+      "type": "movie",
+      "name": "30 Frames a Second: The WTO in Seattle",
+      "poster": "https://thoughtmaybe.com/content/30FramesASecond.jpg",
+      "background": "https://thoughtmaybe.com/content/30FramesASecond.jpg",
+      "description": "30 Frames A Secondis an immersive first-person account of the events that unfolded during the week the World Trade Organisation came to Seattle in the United States, November 1999. The film is assembled from the perspective of 15-year veteran network-news cameraman Rustin Thompson, who became disillusioned with mainstream media and hence covered the WTO as an independent journalist. As such, even with press credentials for the event, Thompson is swept into the retribution of the state and police power which hit at the protests with tear gas, pepper spray, and police abuse. For him and the protesters alike, it begs the question about the functioning of the so-called democracies we live in, where civil liberties and human rights are curtailed in favour of facilitating the vast corporatocracy and global economic empire—precisely one of the points that sparked protests in the first place…",
+      "releaseInfo": "2000",
+      "genres": [
+        "corporations",
+        "globalisation",
+        "police",
+        "protest",
+        "rights",
+        "tactics",
+        "WTO"
+      ],
+      "director": [
+        "Rustin Thompson"
+      ]
+    },
+    {
+      "id": "tm:911-beyond-a-reasonable-doubt",
+      "type": "movie",
+      "name": "9/11 — Beyond A Reasonable Doubt",
+      "poster": "https://thoughtmaybe.com/content/911-BeyondAReasonableDoubt.jpg",
+      "background": "https://thoughtmaybe.com/content/911-BeyondAReasonableDoubt.jpg",
+      "description": "9/11 — Beyond A Reasonable Doubtprovides a summary of evidence from various sources against the official account of what happened on September 11, 2001. The film is assembled using clips from several other documentaries, news reels and archive footage to provide an example of the overwhelming evidence that contradicts statements made by official sources.",
+      "releaseInfo": "2011",
+      "genres": [
+        "conspiracy theories"
+      ],
+      "director": [
+        "Unknown"
+      ]
+    },
+    {
+      "id": "tm:911-birth-of-treason",
+      "type": "movie",
+      "name": "9/11 — Birth of Treason",
+      "poster": "https://thoughtmaybe.com/content/9-11BirthOfTreason.jpg",
+      "background": "https://thoughtmaybe.com/content/9-11BirthOfTreason.jpg",
+      "description": "9/11 — Birth Of Treasonprovides an analysis of the attacks of September 11 2001. Amongst interviews and exchanges, Steven Jones and Kevin Ryan of Scholars for 9/11 Truth and Justice speak about their research. Examined is the phenomenon of the freefall-speed collapse of the towers and building 7, and Steven Jones’ research into Thermite/Thermate explosives…",
+      "releaseInfo": "2007",
+      "genres": [
+        "conspiracy theories"
+      ],
+      "director": [
+        "Elliot Nesch"
+      ]
+    },
+    {
+      "id": "tm:911-ten-years-later",
+      "type": "movie",
+      "name": "9/11 — Ten Years Later",
+      "poster": "https://thoughtmaybe.com/content/9-11_10YearsLater.jpg",
+      "background": "https://thoughtmaybe.com/content/9-11_10YearsLater.jpg",
+      "description": "9/11 — Ten Years Latertakes a retrospective view of the United States to contextualise current global military and economic events. We see how the United States backed, funded and trained the Mujahideen in the 1980s at the direction of then-National-Security-Advisor, Zbigniew Brzezinski; and how this gives rise to Osama bin Laden and the group known as ‘al-Qaeda’ as assets of the United States military-intelligence-complex, amid the context of the Cold War. Also examined is the sprawling establishment of weapons trafficking and the “opum trade,” facilitated by the United States and Britain; along with a vast clandestine financial network funding such operations—with banks such as the BCCI at the core. We see how the events of September 11 are used as a “catastrophic and catalyzing event—like a new Pearl Harbor” amongst the context of neoconservative imperialism at home and abroad, which still continues today.",
+      "releaseInfo": "2011",
+      "genres": [
+        "al-Qaeda",
+        "conspiracy theories",
+        "the project for the new american century"
+      ],
+      "director": [
+        "Leandra Bernstein"
+      ]
+    },
+    {
+      "id": "tm:911-mysteries",
+      "type": "movie",
+      "name": "9/11 Mysteries",
+      "poster": "https://thoughtmaybe.com/content/911Mysteries.jpg",
+      "background": "https://thoughtmaybe.com/content/911Mysteries.jpg",
+      "description": "9/11 Mysteriespresents and analyses over 90 minutes of demolition evidence, laced with witness testimonials from key figures in the events of September 11th such as William Rodriguez — a janitor from the North Tower of the World Trade Centre who was inside during the attacks. Moving from the myth through to analysis and into a discussion of the players, careful deconstruction of the official story is set alongside clear physics. How do you turn a 110-story building to dust in under ten seconds? And what happened to building 7?",
+      "releaseInfo": "2007",
+      "genres": [
+        "conspiracy theories"
+      ],
+      "director": [
+        "Sofia Shafquat"
+      ]
+    },
+    {
+      "id": "tm:911-i-was-there",
+      "type": "movie",
+      "name": "9/11: I Was There",
+      "poster": "https://thoughtmaybe.com/content/911-IWasThere.jpg",
+      "background": "https://thoughtmaybe.com/content/911-IWasThere.jpg",
+      "description": "9/11: I Was Therepresents an portrayal of the attack on New York on 11th September 2001, from the perspective of several ordinary people who chose to pick up their video cameras and descend into the chaos that was happening around them on that day. The film is a collage of their personal video diaries, that document the attacks as they unfold, and the aftermath.",
+      "releaseInfo": "2021",
+      "genres": [
+        "al-Qaeda",
+        "history",
+        "terrorism"
+      ],
+      "director": [
+        "Karen Edwards"
+      ]
+    },
+    {
+      "id": "tm:9to5",
+      "type": "movie",
+      "name": "9to5",
+      "poster": "https://thoughtmaybe.com/content/9to5.jpg",
+      "background": "https://thoughtmaybe.com/content/9to5.jpg",
+      "description": "When Dolly Parton sang â9 to 5,â she was doing more than just shining a light on the fate of working women in the United States. Parton was singing the true story of the 9to5 movement that started with a group of secretaries in the early 1970s that wanted change in their workplaces. Their goals were simple: equal pay, fair work, and an end to sexual harassment. As the movement went national, it encapsulated the unique intersection of the womenâs movement and the labour movement, as the women worked hard to unionise and press for real change in their workplaces. Featuring interviews with 9to5âs founders,9to5: The Story of a Movementdocuments the struggle that changed workplace culture in the United States, and echos today.",
+      "releaseInfo": "2020",
+      "genres": [
+        "protest",
+        "resistance",
+        "rights",
+        "women",
+        "workers"
+      ],
+      "director": [
+        "Julia Reichert"
+      ]
+    },
+    {
+      "id": "tm:a-faraway-country",
+      "type": "movie",
+      "name": "A Faraway Country",
+      "poster": "https://thoughtmaybe.com/content/AFarAwayCountry.jpg",
+      "background": "https://thoughtmaybe.com/content/AFarAwayCountry.jpg",
+      "description": "A Faraway Countryis an examination of the Czech underground movement known as the Charter 77–an informal civic initiative in communist Czechoslovakia from 1976 to 1992, part of the Communist Soviet bloc. The film shows interviews with members of Charter 77, and others, describing first-hand the totalitarian communist regime, and their response to it.",
+      "releaseInfo": "1977",
+      "genres": [
+        "governments",
+        "military",
+        "resistance",
+        "social control"
+      ],
+      "director": [
+        "John Pilger"
+      ]
+    },
+    {
+      "id": "tm:a-farm-for-the-future",
+      "type": "movie",
+      "name": "A Farm For The Future",
+      "poster": "https://thoughtmaybe.com/content/AFarmForTheFuture.jpg",
+      "background": "https://thoughtmaybe.com/content/AFarmForTheFuture.jpg",
+      "description": "A Farm For The Futurefollows wildlife film maker  as she investigates how to transform her family’s farm in Devon, England, into a low energy farm with future peak energy concerns considered. With her father close to retirement, Rebecca returns to the farm to become the next generation to work the land, and the journey begins as she realises that all food production in the UK is completely dependent on cheap, abundant fossil fuel, particularly oil. After setting out to discover just how ‘secure’ the oil supply is and being alarmed by the answers, Rebecca is motivated to explore ways of farming without using fossil fuel. With the help of pioneering farmers and growers,A Farm For The Futureshows that it is actually a return to nature that holds the key to farming in a low-energy future.",
+      "releaseInfo": "2009",
+      "genres": [
+        "energy",
+        "food",
+        "permaculture"
+      ],
+      "director": [
+        "Rebecca Hosking"
+      ]
+    },
+    {
+      "id": "tm:a-good-american",
+      "type": "movie",
+      "name": "A Good American",
+      "poster": "https://thoughtmaybe.com/content/AGoodAmerican.jpg",
+      "background": "https://thoughtmaybe.com/content/AGoodAmerican.jpg",
+      "description": "A Good Americanchronicles the work of whistleblower William Binney, a former official of the National Security Agency who specialised in cryptography and signals intelligence analysis for over three decades. The film focuses on the lead up to the events of the 1990s where Binney was instrumental in the creation of a secret intelligence program called ThinThread, in which mass surveillance of global communications data was carried out and had sophisticated analysis applied to it in search for threats in real time. However, three weeks prior to the September 11th 2001 attacks, Michael Hayden, director of the NSA, ends the ThinThread program to instead run with another called Trailblazer which lacks privacy protections. Not long after this, Binney resigns. What the NSA does to Binney after this turn of events is the story of the transformation where Binney and his colleagues Kirk Wiebe, Ed Loomis, Thomas Drake, and Diane Roark blow the whistle on a corrupt and brutal agency.",
+      "releaseInfo": "2015",
+      "genres": [
+        "cover-up",
+        "intelligence agencies",
+        "internet",
+        "spying",
+        "surveillance",
+        "whistleblowing"
+      ],
+      "director": [
+        "Friedrich Moser"
+      ]
+    },
+    {
+      "id": "tm:a-little-bit-of-so-much-truth",
+      "type": "movie",
+      "name": "A Little Bit of So Much Truth",
+      "poster": "https://thoughtmaybe.com/content/ALittleBitOfSoMuchTruth.jpg",
+      "background": "https://thoughtmaybe.com/content/ALittleBitOfSoMuchTruth.jpg",
+      "description": "A Little Bit of So Much Truthcaptures a broad-based popular uprising in the southern Mexican state of Oaxaca in 2006 where tens of thousands of school teachers, housewives, indigenous communities, health workers, farmers and students took 14 radio stations and one TV station into their own hands—using them to organise, mobilise, and defend the fight for social, cultural, and economic justice.",
+      "releaseInfo": "2007",
+      "genres": [
+        "media",
+        "protest"
+      ],
+      "director": [
+        "Jill Irene Freidberg"
+      ]
+    },
+    {
+      "id": "tm:a-nod-and-a-wink",
+      "type": "movie",
+      "name": "A Nod and A Wink",
+      "poster": "https://thoughtmaybe.com/content/ANodAndAWink.jpg",
+      "background": "https://thoughtmaybe.com/content/ANodAndAWink.jpg",
+      "description": "A Nod And A Winkreviews the use of vague Conspiracy laws in Britain from 1975, laws which are much in the same as those used in police states such as Brazil and the Soviet Union to suppress political and moral dissent. This film raises and addresses the serious questions about the way the legal system works in Britain–and indeed elsewhere…",
+      "releaseInfo": "1975",
+      "genres": [
+        "governments",
+        "legal system",
+        "protest",
+        "rights"
+      ],
+      "director": [
+        "John Pilger"
+      ]
+    },
+    {
+      "id": "tm:a-thousand-cuts",
+      "type": "movie",
+      "name": "A Thousand Cuts",
+      "poster": "https://thoughtmaybe.com/content/AThousandCuts.jpg",
+      "background": "https://thoughtmaybe.com/content/AThousandCuts.jpg",
+      "description": "A Thousand Cutsis a timely film about modern-day journalism and freedom of the press inside the Philippines where the political space has been usurped by social media disinformation campaigns, celebrity propaganda spectacle, and direct organised political violence. The film comes as the world awaits the verdict of the case against of Maria Ressa, the CEO and founder of the news network Rappler, who has been vocal about holding president Rodrigo Duterte accountable for his government’s much-criticised and violent “war on drugs.” In what is a salient trend of our time,A Thousand Cutsexamines the disinformation campaigns and the crackdown on the media, while journalists Maria Ressa and her team place the tools of their trade–and their freedom–on the line in defence of truth and democracy.",
+      "releaseInfo": "2020",
+      "genres": [
+        "elections",
+        "facebook",
+        "governments",
+        "internet",
+        "legal system",
+        "media",
+        "propaganda",
+        "screen culture",
+        "social control",
+        "war on drugs"
+      ],
+      "director": [
+        "Ramona S. Diaz"
+      ]
+    },
+    {
+      "id": "tm:a-world-without-water",
+      "type": "movie",
+      "name": "A World Without Water",
+      "poster": "https://thoughtmaybe.com/content/AWorldWithoutWater.jpg",
+      "background": "https://thoughtmaybe.com/content/AWorldWithoutWater.jpg",
+      "description": "A World Without Waterinvestigates the future of the world’s water supply as it currently stands and travels to Bolivia to show just one example in many of the privatisation of the water supply and the turning over of water to corporations such as Coca Cola…",
+      "releaseInfo": "2006",
+      "genres": [
+        "corporations",
+        "environment",
+        "water"
+      ],
+      "director": [
+        "Brian Woods"
+      ]
+    },
+    {
+      "id": "tm:about-woomera",
+      "type": "movie",
+      "name": "About Woomera",
+      "poster": "https://thoughtmaybe.com/content/AboutWoomera.jpg",
+      "background": "https://thoughtmaybe.com/content/AboutWoomera.jpg",
+      "description": "To its backers, Woomera detention centre played a so-called “humane yet crucial role in housing the growing numbers of ‘boat people’ landing on Australia’s shores.” To its critics, this prison, as a heavily guarded cluster of buildings ringed by red desert and razor wire, represented the “dead-heart of asylum-seeker policy” and Australia’s lacklustre regard for human rights. Woomera opened for business less than four years ago. Built for 400 people, it soon housed more than 1,400. It became notorious for riots, protests and breakouts by desperate detainees. There were reports that mental illness and self-harm were rife and as the reports mounted, TV cameras captured the protests at the perimeter fence. Certain press warned of detainees’ declining health and morale. Yet when Woomera was quietly placed in mothballs last month, its full story remained to be told…",
+      "releaseInfo": "2003",
+      "genres": [
+        "asylum",
+        "censorship",
+        "governments",
+        "refugees",
+        "rights",
+        "torture"
+      ],
+      "director": [
+        "Debbie Whitmont"
+      ]
+    },
+    {
+      "id": "tm:above-all-else",
+      "type": "movie",
+      "name": "Above All Else",
+      "poster": "https://thoughtmaybe.com/content/AboveAllElse.jpg",
+      "background": "https://thoughtmaybe.com/content/AboveAllElse.jpg",
+      "description": "Above All Elseis an intimate portrait of a group of activists and landowners in East Texas, United States, who undertook a series of direct actions and put their bodies in the way to stop construction of the Keystone pipeline in 2012. The film follows David Daniel, a quiet, affable carpenter, whose backyard became the epicenter of a tree-sit that physically blocked the path of the controversial pipeline. This was the birthplace of the Tar Sands Blockade, an activist group that would go on to oppose the pipeline’s construction all along its route. David’s stance against Keystone brought together an unlikely coalition of allies, from Texan farmers to student environmentalists to fire-cracker great-grandmothers like Eleanor Fairchild.Above All Elseis the story of David and his allies, their struggles, and what happened when they stood in the way of the most powerful industry in the world.",
+      "releaseInfo": "2014",
+      "genres": [
+        "corporations",
+        "direct action",
+        "energy",
+        "environment",
+        "oil",
+        "protest",
+        "tar sands"
+      ],
+      "director": [
+        "John Fiege"
+      ]
+    },
+    {
+      "id": "tm:abused",
+      "type": "movie",
+      "name": "Abused",
+      "poster": "https://thoughtmaybe.com/content/Abused.jpg",
+      "background": "https://thoughtmaybe.com/content/Abused.jpg",
+      "description": "Abused–Battered Woman’s Syndrome and Murderis a revelatory film showing how the legal system of this culture treats women who fight back against their abusers. 19 year-old Susan Greenberg pled guilty to killing the man who systematically abused her and was sentenced to twenty-five years to life for first degree murder. After serving 18 years in prison, Greenberg was one of the first women to test a new state law that allows women convicted of murder to ask a judge for release based on evidence of Battered Woman Syndrome. This story follows her struggle and the surprising dramatic results.",
+      "releaseInfo": "2006",
+      "genres": [
+        "legal system",
+        "prison",
+        "rape culture"
+      ],
+      "director": [
+        "Chuck Braverman"
+      ]
+    },
+    {
+      "id": "tm:accidental-courtesy",
+      "type": "movie",
+      "name": "Accidental Courtesy",
+      "poster": "https://thoughtmaybe.com/content/AccidentalCourtesy.jpg",
+      "background": "https://thoughtmaybe.com/content/AccidentalCourtesy.jpg",
+      "description": "Daryl Davis is an accomplished musician, a piano player who has played all over the world with legends like Jerry Lee Lewis, Little Richard, and Chuck Berry. He is also an activist, meeting and befriending members of the Ku Klux Klan, many of whom have never met a black person. And when some of these same people decide to leave the Klan, Daryl keeps their robes and hoods–building his collection piece by piece, story by story, person by person. InAccidental Courtesy, Daryl takes the viewer on a journey from the steps of the Lincoln Memorial to Memphis, from Alabama to Ferguson, Missouri, as he recounts the entwined history of black America and popular music. Along the way, he questions several current and former Ku Klux Klan leaders as well as young Black Lives Matter activists who vehemently disagree with his tactics of tacking racism in society.",
+      "releaseInfo": "2016",
+      "genres": [
+        "black power",
+        "direct action",
+        "history",
+        "racism"
+      ],
+      "director": [
+        "Matthew Ornstein"
+      ]
+    },
+    {
+      "id": "tm:addicted-to-plastic",
+      "type": "movie",
+      "name": "Addicted to Plastic",
+      "poster": "https://thoughtmaybe.com/content/AddictedToPlastic.jpg",
+      "background": "https://thoughtmaybe.com/content/AddictedToPlastic.jpg",
+      "description": "From styrofoam cups to artificial organs, plastic is perhaps the most ubiquitous and versatile material ever invented — no product in the past 100 years has had more a profound influence and presence than synthetics. But such ‘progress’ has a cost — no ecosystem or segment of human activity has escaped the strangling grasp of plastic.Addicted To Plasticinvestigates what we really know–and don’t know–about this material. Talking to manufacturers, recyclers, cleaners, scientists and others,Addicted To Plasticshows plastic’s toxic legacy and devastating ecological impact, provoking serious questions about health, food and the environment…",
+      "releaseInfo": "2008",
+      "genres": [
+        "environment",
+        "oil",
+        "plastic",
+        "toxins"
+      ],
+      "director": [
+        "Gad Reichman"
+      ]
+    },
+    {
+      "id": "tm:addicted-to-porn",
+      "type": "movie",
+      "name": "Addicted to Porn",
+      "poster": "https://thoughtmaybe.com/content/AddictedToPorn.jpg",
+      "background": "https://thoughtmaybe.com/content/AddictedToPorn.jpg",
+      "description": "Pornography is now more easily accessible than ever before–it’s a click away on the internet. And many men are finding their everyday relationships in impacted because of their porn addiction. This documentary examines the problem and explores growing evidence that there is a chemical basis in the brain for the condition, related to dopamine, uncovering the human costs of porn addiction along the way. The film follows some real life examples of people battling their addiction, as well as reviewing some cases where addiction has unravelled with tragic results. But as with any addiction, the good news is that it can be turned around…",
+      "releaseInfo": "2007",
+      "genres": [
+        "addiction",
+        "pornography"
+      ],
+      "director": [
+        "Peter Higgins"
+      ]
+    },
+    {
+      "id": "tm:adrift",
+      "type": "movie",
+      "name": "Adrift",
+      "poster": "https://thoughtmaybe.com/content/Adrift.jpg",
+      "background": "https://thoughtmaybe.com/content/Adrift.jpg",
+      "description": "Adriftis a short film that explores the phenomenon of space junk, where human-made objects launched into space and are now defunct orbit the Earth literally as garbage. The film makes visible some of the immediate impacts and dangers of the technological escalation of this culture, where old satellites, spent rocket stages, and other items orbit the Earth, only to collide with one another at high velocities, generating smaller fragments that collide with other items, and so on. The end point is a cascading complex of junk that engulfs the entire space around the Earth.Adriftaims to make this phenomenon visible, putting a big question mark against the claims made by many futurists and technologists that future space colonisation would even be possible, if only it were a tenable or sensible idea in the first place…",
+      "releaseInfo": "2016",
+      "genres": [
+        "colonisation",
+        "dominant culture",
+        "e-waste",
+        "environment",
+        "garbage",
+        "pollution",
+        "satellite",
+        "space",
+        "space junk",
+        "technology"
+      ],
+      "director": [
+        "Cath Le Couteur"
+      ]
+    },
+    {
+      "id": "tm:advertising-and-the-end-of-the-world",
+      "type": "movie",
+      "name": "Advertising and the End of The World",
+      "poster": "https://thoughtmaybe.com/content/AdvertisingAndTheEndOfTheWorld.jpg",
+      "background": "https://thoughtmaybe.com/content/AdvertisingAndTheEndOfTheWorld.jpg",
+      "description": "Focusing directly on the world of commercial images,Advertising and the End of The Worldasks some basic questions about the cultural messages emanating from advertising: Do these messages deliver what they claim—happiness and satisfaction? Can we think about our collective as well as our private interests? And, can we think long-term as well as short-term?",
+      "releaseInfo": "1997",
+      "genres": [
+        "advertising",
+        "consumerism",
+        "dominant culture",
+        "media",
+        "social control"
+      ],
+      "director": [
+        "Sut Jhally"
+      ]
+    },
+    {
+      "id": "tm:advertising-at-the-edge-of-the-apocalypse",
+      "type": "movie",
+      "name": "Advertising at the Edge of the Apocalypse",
+      "poster": "https://thoughtmaybe.com/content/AdvertisingAtTheEdgeOfTheApocalypse.jpg",
+      "background": "https://thoughtmaybe.com/content/AdvertisingAtTheEdgeOfTheApocalypse.jpg",
+      "description": "Ten years on from his previous film,Advertising & the End of the World, renowned media scholar Sut Jhally follows up by exploring the since-escalating devastating personal and environmental fallouts of advertising and the near-totalising commercial culture. The film tracks the emergence of the advertising industry in the early 20th century to the full-scale commercialisation of the culture today, identifying the myth running throughout all of advertising: the idea that corporate brands and consumer goods are the keys to human happiness and fulfilment. We see how this powerful narrative, backed by billions of dollars a year and propagated by clever manipulative minds, has blinded us to the catastrophic costs of ever-accelerating rates of consumption. The result is a powerful film that unpacks fundamental issues surrounding commercialism, media culture, social well-being, environmental degradation, and the dichotomy between capitalism and democracy.",
+      "releaseInfo": "2017",
+      "genres": [
+        "advertising",
+        "capitalism",
+        "celebrity culture",
+        "consumerism",
+        "corporations",
+        "dominant culture",
+        "environment",
+        "globalisation",
+        "internet",
+        "technology"
+      ],
+      "director": [
+        "Jeremy Earp"
+      ]
+    },
+    {
+      "id": "tm:after-truth",
+      "type": "movie",
+      "name": "After Truth",
+      "poster": "https://thoughtmaybe.com/content/AfterTruth.jpg",
+      "background": "https://thoughtmaybe.com/content/AfterTruth.jpg",
+      "description": "After Truth: Disinformation and the Cost of Fake News",
+      "releaseInfo": "2020",
+      "genres": [
+        "conspiracy",
+        "dominant culture",
+        "elections",
+        "facebook",
+        "google",
+        "manipulation",
+        "media",
+        "politick",
+        "propaganda",
+        "screen culture"
+      ],
+      "director": [
+        "Andrew Rossi"
+      ]
+    },
+    {
+      "id": "tm:age-of-transitions",
+      "type": "movie",
+      "name": "Age of Transitions",
+      "poster": "https://thoughtmaybe.com/content/AgeOfTransitions.jpg",
+      "background": "https://thoughtmaybe.com/content/AgeOfTransitions.jpg",
+      "description": "Transhumanists claim a beautiful and apparently now-not-so-distant utopian future made possible by artificial intelligence, life extension and cybernetic technologies. But upon examining the convergence of these technologies and the history behind them,Age Of Transitionsdetails how this movement of “transcending human limits” was born out of pseudo-science eugenics, and what the implications are for a world divided by the have’s and have-not’s.",
+      "releaseInfo": "2011",
+      "genres": [
+        "artificial intelligence",
+        "biotechnology",
+        "computers",
+        "eugenics",
+        "genetics",
+        "microchip implant",
+        "nanotechnology",
+        "robots",
+        "technology",
+        "transhumanism"
+      ],
+      "director": [
+        "Aaron Franz"
+      ]
+    },
+    {
+      "id": "tm:agent-orange-and-atom-bomb-tests",
+      "type": "movie",
+      "name": "Agent Orange and Atom Bomb Tests",
+      "poster": "https://thoughtmaybe.com/content/AgentOrangeAndAtomBombTests.jpg",
+      "background": "https://thoughtmaybe.com/content/AgentOrangeAndAtomBombTests.jpg",
+      "description": "Agent Orange was the codename for one of the herbicides and defoliants used by the United States military as part of its chemical warfare program–Operation Ranch Hand–which ran for ten years during the Vietnam War from 1961 to 1971. During this time, the military sprayed nearly 80,000,000 litres of toxic chemical and defoliants mixed with jet fuel in Vietnam, eastern Laos and parts of Cambodia. The supposed goal being to destroy forested and rural land, depriving guerrillas of cover and to induce forced-draft-urbanisation, destroying the ability of peasants to support themselves, forcing them to flee to the cities dominated by US forces, depriving the guerrillas of their rural support base and food supply…",
+      "releaseInfo": "1989",
+      "genres": [
+        "military",
+        "monsanto",
+        "nuclear",
+        "war",
+        "weapons"
+      ],
+      "director": [
+        "Frank Morrow"
+      ]
+    },
+    {
+      "id": "tm:agent-orange-a-personal-requiem",
+      "type": "movie",
+      "name": "Agent Orange: A Personal Requiem",
+      "poster": "https://thoughtmaybe.com/content/AgentOrange.jpg",
+      "background": "https://thoughtmaybe.com/content/AgentOrange.jpg",
+      "description": "More than three million Vietnamese people still suffer the gruelling effects of chemical weapons used by the United States during the Vietnam War. American militaries doused forests, lands and waterways of Vietnam with the deadly chemicals Agent Orange, White, Blue, Pink, Green and Purple. Agent Orange in particular, which contains dioxin—the most toxic chemical ever known—has disabled countless people and generations of their offspring. This film weaves personal stories together with the stories of American GIs to lead to a great unravelling of the first-hand devastating and lethal effects of Agent Orange and war, generations later.",
+      "releaseInfo": "2008",
+      "genres": [
+        "cancer",
+        "chemical weapons",
+        "children",
+        "military",
+        "monsanto",
+        "toxins",
+        "war"
+      ],
+      "director": [
+        "Masako Sakata"
+      ]
+    },
+    {
+      "id": "tm:albatross",
+      "type": "movie",
+      "name": "Albatross",
+      "poster": "https://thoughtmaybe.com/content/Albatross.jpg",
+      "background": "https://thoughtmaybe.com/content/Albatross.jpg",
+      "description": "Albatrossis a collaborative film project with artist Chris Jordan and photographer Manuel Maqueda. The film is the culmination of many years of research and study of the issue of ocean plastic pollution, with a paricular focus on how it effects species of Albatross on a tiny atoll in the centre of the vast North Pacific Ocean. The resulting film is an experience that is devastating, not only for the plight of suffering birds, but also for what this crisis reflects back about the destructive power of the culture of mass consumption, and its damaged relationship with the living world.",
+      "releaseInfo": "2018",
+      "genres": [
+        "animals",
+        "dominant culture",
+        "environment",
+        "habitat",
+        "nature",
+        "plastic"
+      ],
+      "director": [
+        "Chris Jordan"
+      ]
+    },
+    {
+      "id": "tm:algorithms-rule-us-all",
+      "type": "movie",
+      "name": "Algorithms Rule Us All",
+      "poster": "https://thoughtmaybe.com/content/AlgorithmsRuleUsAll.jpg",
+      "background": "https://thoughtmaybe.com/content/AlgorithmsRuleUsAll.jpg",
+      "description": "This culture runs on algorithms on a scale never before realised. Whether you get a job or a mortgage or insurance or healthcare, how you get from A to B, how huge fortunes are made or whom is driven into poverty, decisions on whom is sent to or released from prison, whom is voted for in manipulated elections–the reach of algorithms has captured so much of the major decisions of our lives, all in complete obscurity, inscrutable. So what are the implications of this? What sort of ‘decisions’ do machines make, to which we’ve come to regard as infallible and impartial, accurate and precise?Algorithms Rule Us Allspeaks to data scientists and programmers themselves to answer the question of what they think is unfolding with the so-called Big-Data society and how we’re continuing to hand over our lives and societies to the whim of machines that are driven by rapacious profit-driven companies, for the goal of commodification of everything. What are the implications for human autonomy, society, democracy?",
+      "releaseInfo": "2018",
+      "genres": [
+        "addiction",
+        "computers",
+        "data mining",
+        "databases",
+        "elections",
+        "facebook",
+        "google",
+        "manipulation",
+        "screen culture",
+        "social control"
+      ],
+      "director": [
+        "Martijn Kieft"
+      ]
+    },
+    {
+      "id": "tm:all-governments-lie",
+      "type": "movie",
+      "name": "All Governments Lie",
+      "poster": "https://thoughtmaybe.com/content/AllGovernmentsLie.jpg",
+      "background": "https://thoughtmaybe.com/content/AllGovernmentsLie.jpg",
+      "description": "All Governments Lie: Truth, Deception, and the Legacy of I.F. Stonelooks at an array of award-winning filmmakers who subscribed to I. F. Stone’s newsletter in their teens, revealing a new wave of independent, investigative, adversarial journalists following in Stone’s footsteps. Reflecting on his work during the era of McCarthyism, a chorus of independent journalists also reflect on today where giant media conglomerates are reluctant to investigate or criticise government policies–particularly on defence, security and intelligence issues. With government deception rampant, and intrusion of state surveillance into our private lives never before more egregious, independent journalists tell their story of being inspired by the iconoclastic Stone, whose fearless, independent reporting from 1953 to 1971 filled a tiny 4-page newsletter. Stone is little known today, butAll Governments Liereveals the profound influence he had on contemporary independent journalism.",
+      "releaseInfo": "2016",
+      "genres": [
+        "governments",
+        "intelligence agencies",
+        "manipulation",
+        "media",
+        "war crimes"
+      ],
+      "director": [
+        "Fred Peabody"
+      ]
+    },
+    {
+      "id": "tm:all-light-everywhere",
+      "type": "movie",
+      "name": "All Light, Everywhere",
+      "poster": "https://thoughtmaybe.com/content/AllLightEverywhere.jpg",
+      "background": "https://thoughtmaybe.com/content/AllLightEverywhere.jpg",
+      "description": "All Light, Everywhereis an arthouse film that traverses the biases of how we see things, told through the use of police body-worn cameras from the Axon corporation. As such surveillance technologies become a fixture in everyday life, the film interrogates the myth of an objective point of view, probing the biases inherent in both human perception, the lens, and the culture driving the surveillance machines–asking what it means to look and see, but also what is not viewed, and the power imbalance of whom watches whom. Through provocative vignettes, the film provides space to dismantle the perpetual insistence that if everything was recorded and processed by purportedly “neutral” sources, then both criminal activity and authoritarian malfeasance would be reduced.",
+      "releaseInfo": "2021",
+      "genres": [
+        "artificial intelligence",
+        "automation",
+        "police",
+        "screen culture",
+        "surveillance"
+      ],
+      "director": [
+        "Theo Anthony"
+      ]
+    },
+    {
+      "id": "tm:all-power-to-the-people",
+      "type": "movie",
+      "name": "All Power to the People",
+      "poster": "https://thoughtmaybe.com/content/AllPowerToThePeople.jpg",
+      "background": "https://thoughtmaybe.com/content/AllPowerToThePeople.jpg",
+      "description": "Using government documents, archive footage and direct interviews with activists and former FBI/CIA officers,All Power to the Peopledocuments the history of race relations and the Civil Rights Movement in the United States during the 1960s and 70s. Covering the history of slavery, civil-rights activists, political assassinations and exploring the methods used to divide and destroy key figures of movements by government forces, the film then contrasts into Reagan-Era events, privacy threats from new technologies and the failure of the “War on Drugs”, forming a comprehensive view of the goals, aspirations and ultimate demise of the Civil Rights Movement…",
+      "releaseInfo": "2011",
+      "genres": [
+        "black power",
+        "COINTELPRO",
+        "governments",
+        "protest",
+        "racism",
+        "resistance",
+        "rights",
+        "tactics"
+      ],
+      "director": [
+        "Lee Lew Lee"
+      ]
+    },
+    {
+      "id": "tm:alt-right-age-of-rage",
+      "type": "movie",
+      "name": "Alt-Right: Age of Rage",
+      "poster": "https://thoughtmaybe.com/content/AltRight-AgeOfRage.jpg",
+      "background": "https://thoughtmaybe.com/content/AltRight-AgeOfRage.jpg",
+      "description": "In the United States, during the first year of Donald Trump’s presidency, the rise of a white supremacist movement has returned, as political energy is injected into neo-confederate, neo-fascist, neo-Nazi, Klansmen, and various right-wing militia groups. More broadly, civil rights organisations such as Antifa (Anti-Fascist) and social justice groups are fighting back.Alt-Right: Age of Ragefollows the development the Alt-Right, starting filming during the first half of 2017, just after the inauguration of Donald Trump, by following social justice activist Daryle Lamont Jenkins, and renowned Alt-Right leader Richard Spencer. Each movement is juxtaposed, as tensions boil over to the horrific events in Charlottesville where a young woman is killed, and 30 others injured by a self-identified neo-Nazi. Through these narratives and events, the film surveys the workings of Free Speech, deplatforming by the Left, the role of the Internet, and the consequences of fractured politics playing out in the real physical world.",
+      "releaseInfo": "2018",
+      "genres": [
+        "colonisation",
+        "elections",
+        "eugenics",
+        "history",
+        "politick",
+        "protest",
+        "racism",
+        "rights"
+      ],
+      "director": [
+        "Adam Bhala Lough"
+      ]
+    },
+    {
+      "id": "tm:amazon-what-they-know-about-us",
+      "type": "movie",
+      "name": "Amazon — What They Know About Us",
+      "poster": "https://thoughtmaybe.com/content/Amazon-WhatTheyKnowAboutUs.jpg",
+      "background": "https://thoughtmaybe.com/content/Amazon-WhatTheyKnowAboutUs.jpg",
+      "description": "In a quarter of a century, the Amazon corporation has propelled Jeff Bezos from ‘online bookseller’ to technology behemoth. He is the richest man on the planet, and the company he founded is one of the most powerful in the world. This documentary investigates Amazon’s rise to corporate rein, revealing the problematic inside-operations that have the public tethered to its services. Former high-level insiders describe Amazon’s obsessive data-gathering operations, that enable the company to use what it knows about us to shape not only the future of retail, but the workplace and technology in synergy. On both sides of the world, politicians and regulators are tardily beginning to question Amazon’s power. But can the public rein in this corporate empire and break its addiction before even more damage is done to the structure of society and the environment?",
+      "releaseInfo": "2020",
+      "genres": [
+        "addiction",
+        "behaviour",
+        "consumerism",
+        "corporations",
+        "dominant culture",
+        "globalisation",
+        "internet",
+        "manipulation",
+        "technology"
+      ],
+      "director": [
+        "Matthew Hill"
+      ]
+    },
+    {
+      "id": "tm:amazon-empire",
+      "type": "movie",
+      "name": "Amazon Empire",
+      "poster": "https://thoughtmaybe.com/content/AmazonEmpire.jpg",
+      "background": "https://thoughtmaybe.com/content/AmazonEmpire.jpg",
+      "description": "Amazon Empire: The Rise and Reign of Jeff Bezos",
+      "releaseInfo": "2020",
+      "genres": [
+        "capitalism",
+        "consumerism",
+        "corporations",
+        "internet",
+        "manipulation",
+        "technology"
+      ],
+      "director": [
+        "Anya Bourg"
+      ]
+    },
+    {
+      "id": "tm:america-the-beautiful",
+      "type": "movie",
+      "name": "America the Beautiful",
+      "poster": "https://thoughtmaybe.com/content/AmericaTheBeautiful.jpg",
+      "background": "https://thoughtmaybe.com/content/AmericaTheBeautiful.jpg",
+      "description": "Filmmaker Darryl Roberts goes on a five year journey to examine this culture’s burgeoning obsession with physical beauty and perfection, showing how increasingly unattainable images contribute to the rise in low self-esteem, body dismorphia, and eating disorders for young women and girls who also happen to be the beauty industry’s largest consumers. In almost 40,000 media messages a year, young people are being told that unless you look like supermodels and rock stars, you’re not good enough for anyone. In 2004 alone, people across the United States spent $12.4 billion on cosmetic surgery.America the Beautifulexplores why these people are spending so much money to cover up their discontent that is mainly driven by advertising. What are the true costs of this culture’s obsession with youth, plastic notions of beauty, and impossibly slender physiques? Who actually benefits from this high-priced journey towards a fake ideal, and does it justify an entire nation’s psychosis?",
+      "releaseInfo": "2009",
+      "genres": [
+        "advertising",
+        "body",
+        "celebrity culture",
+        "children",
+        "consumerism",
+        "dominant culture",
+        "manipulation",
+        "women"
+      ],
+      "director": [
+        "Darryl Roberts"
+      ]
+    },
+    {
+      "id": "tm:american-anarchist",
+      "type": "movie",
+      "name": "American Anarchist",
+      "poster": "https://thoughtmaybe.com/content/AmericanAnarchist.jpg",
+      "background": "https://thoughtmaybe.com/content/AmericanAnarchist.jpg",
+      "description": "American Anarchistis the story ofThe Anarchist Cookbook, and the role it’s played in the life of its author, William Powell. Written as a teenager–and first published at the apex of the counterculture of the 1970s to protest the United States’ involvement in the Vietnam War–part manifesto, part bomb-making manual,The Anarchist Cookbookwent on to sell over 2 million copies and has been associated with decades of anti-government attacks, abortion clinic bombings, school shootings, and domestic terrorism. Powell, now 65 and haunted by his creation, confronts his work and its consequences. We see how in 1976, 5 years after writing the book, he left the United States, leading an itinerant life and later becoming a teacher for emotionally disturbed children, the same sorts of kids that carried the Columbine High School massacre, the Colorado high school shooting and the 2012 Aurora shooting.American Anarchistis a cautionary tale of youthful rebellion, unforeseen consequences, and a universal story of an older person wrestling with their younger past.",
+      "releaseInfo": "2016",
+      "genres": [
+        "media",
+        "weapons"
+      ],
+      "director": [
+        "Charlie Siskel"
+      ]
+    },
+    {
+      "id": "tm:american-call-girl",
+      "type": "movie",
+      "name": "American Call-Girl",
+      "poster": "https://thoughtmaybe.com/content/AmericanCallGirl.jpg",
+      "background": "https://thoughtmaybe.com/content/AmericanCallGirl.jpg",
+      "description": "American Call-Girlis an undercover investigation into the escort industry in Las Vegas, where prostitution is illegal on paper but alive and well in practice, with the industry making use of clever ways for the John to “read between the lines” while everyone else turns a blind eye. With the Internet the backbone of the 21st century sex industry, thousands of escort websites are carefully worded, but if you look closely, many appear to clearly sell sex in a fiercely competitive ‘market.’American Call-Girlgoes behind the scenes to meet escorts and see what life is really like for them. What is exposed along the way, is the rampant and abusive underworld where supposedly independent girls are actually made beholden to pimps by way of violence, extortion and trafficking. Others fight for the freedom to simply work, being on top of their own marketing and advertising. The escort industry thrives in cities throughout the United States, but Las Vegas is a ground zero, a thriving black market.",
+      "releaseInfo": "2011",
+      "genres": [
+        "internet",
+        "prostitution"
+      ],
+      "director": [
+        "Daniele Anastasion"
+      ]
+    },
+    {
+      "id": "tm:american-commune",
+      "type": "movie",
+      "name": "American Commune",
+      "poster": "https://thoughtmaybe.com/content/AmericanCommune.jpg",
+      "background": "https://thoughtmaybe.com/content/AmericanCommune.jpg",
+      "description": "In 1970, 1,500 hippies and their spiritual guru Stephen Gaskin founded a commune in rural Tennessee, United States. Members gave over their life savings, grew their own food, delivered their babies at home and built a self-sufficient society. Raised in this alternative community by a Jewish mother from Beverly Hills and a Puerto Rican father from the Bronx, filmmakers and sisters Rena and Nadine return for the first time since leaving in 1985. As well as facing their past after years of hiding their upbringing, they chart the rise and fall of America’s largest utopian socialist experiment and their own family tree. The nascent idealism of a community destroyed, in part by its own idealism, is reflected in the personal story of a family split apart by differences.American Communefinds inspiration in failure, humour, and most surprisingly, that community values are alive and well in the next generation.",
+      "releaseInfo": "2013",
+      "genres": [
+        "community"
+      ],
+      "director": [
+        "Nadine Mundo"
+      ]
+    },
+    {
+      "id": "tm:american-factory",
+      "type": "movie",
+      "name": "American Factory",
+      "poster": "https://thoughtmaybe.com/content/AmericanFactory.jpg",
+      "background": "https://thoughtmaybe.com/content/AmericanFactory.jpg",
+      "description": "In post-industrial United States, the Chinese company Fuyao opens a car-glass factory in an abandoned General Motors plant, hiring thousands of blue-collar American and Chinese workers. Through an an observational format,American Factorypresents the two distinct cultures, comparing and contrasting each other, as well as weaving subtle commentary revealed from the workers’ themselves about the nature of manufacturing work; their differing cultural and generational attitudes on labour rights and unionising; as well as observing upper management methods and corporate politics. The film is a collage of self-revealing messages about the cultures of high-tech China and post-industrial United States, shown through the lens of capitalism and the changing status of each country in the global economy.",
+      "releaseInfo": "2019",
+      "genres": [
+        "corporations",
+        "economics",
+        "globalisation",
+        "manufacturing",
+        "rights",
+        "workers"
+      ],
+      "director": [
+        "Julia Reichert"
+      ]
+    },
+    {
+      "id": "tm:american-insurrection",
+      "type": "movie",
+      "name": "American Insurrection",
+      "poster": "https://thoughtmaybe.com/content/AmericanInsurrection.jpg",
+      "background": "https://thoughtmaybe.com/content/AmericanInsurrection.jpg",
+      "description": "For several years, PBS Frontline has collaborated with ProPublica to investigate the rise of extremism in the United States. In the aftermath of the January 6th riot at the Capitol building, Frontline, ProPublica and Berkeley Journalism’s Investigative Reporting Program teamed up to examine how far-right extremist groups had evolved in the wake of the deadly 2017 Charlottesville rally.American Insurrectionis a report that draws on this extensive background to examine the latest developments and pose questions about where these extremist movements may be headed.",
+      "releaseInfo": "2021",
+      "genres": [
+        "military industrial complex",
+        "weapons"
+      ],
+      "director": [
+        "A.C. Thompson"
+      ]
+    },
+    {
+      "id": "tm:american-porn",
+      "type": "movie",
+      "name": "American Porn",
+      "poster": "https://thoughtmaybe.com/content/AmericanPorn.jpg",
+      "background": "https://thoughtmaybe.com/content/AmericanPorn.jpg",
+      "description": "American Pornis an investigation on the forces behind the explosion of pornography available throughout the United States. Through interviews with the pornographers themselves, actors, lawyers, federal and state prosecutors, activists, and a Wall Street analyst covering the industry,American Pornexamines the business ties between respected corporations and porn companies, the rise of extreme hardcore porn, and a political battle of the times.",
+      "releaseInfo": "2002",
+      "genres": [
+        "pornography",
+        "rape culture"
+      ],
+      "director": [
+        "Michael Kirk"
+      ]
+    },
+    {
+      "id": "tm:american-radical",
+      "type": "movie",
+      "name": "American Radical",
+      "poster": "https://thoughtmaybe.com/content/AmericanRadical.jpg",
+      "background": "https://thoughtmaybe.com/content/AmericanRadical.jpg",
+      "description": "American Radicalis a film about the life of academic Norman Finkelstein, a son of Holocaust survivors and ardent critic of Israel. Called a lunatic and self-hating Jew by some, and an inspirational figure by others,American Radicalalso serves to explore the issues at the centre of Palestine and Israel as Finkelstein travels around the world negotiating a voice of realism among impassioned critics and Israeli supporters. Uncompromising, even in the face of a denial of tenure at DePaul University, Finkelstein is revealed as a rare academic figure who puts the pursuit of justice above the security of his career, to expose the brutal reality of the occupation of Palestine.",
+      "releaseInfo": "2009",
+      "genres": [
+        "apartheid",
+        "governments",
+        "occupation",
+        "protest",
+        "religion",
+        "war"
+      ],
+      "director": [
+        "David Ridgen"
+      ]
+    },
+    {
+      "id": "tm:an-act-of-conscience",
+      "type": "movie",
+      "name": "An Act of Conscience",
+      "poster": "https://thoughtmaybe.com/content/AnActOfConscience.jpg",
+      "background": "https://thoughtmaybe.com/content/AnActOfConscience.jpg",
+      "description": "An Act of Consciencedocuments the story of two couples Randy Kehler and Betsy Corner who refused to pay income tax throughout the 1980s in an act of defiance against military spending and war. The film captures the support community that formed in response to the seizure of their home by the IRS, and the conflict with the young couple with a newborn who bought the home at a government auction. Was this an effective protest?",
+      "releaseInfo": "1997",
+      "genres": [
+        "houses",
+        "protest",
+        "tax",
+        "war"
+      ],
+      "director": [
+        "Robbie Leppzer"
+      ]
+    },
+    {
+      "id": "tm:an-apology-to-elephants",
+      "type": "movie",
+      "name": "An Apology to Elephants",
+      "poster": "https://thoughtmaybe.com/content/AnApologyToElephants.jpg",
+      "background": "https://thoughtmaybe.com/content/AnApologyToElephants.jpg",
+      "description": "By taking the example of documenting the conditions in zoos and circus shows,An Apology to Elephantsis a film about the institutional cruelty to animals and their environments. In the circus, elephants are whipped, beaten and struck with hooks—a pain-compliance technique called bull-hooking—to perform tricks and behave according to the requirements of captivity. The film also looks at the prevalence of the ivory trade, stating that the current elephant killing rate would lead to extinction of the species in ten years. The film is a call to more than an apology, it’s a call to stop these sadistic institutions and repair the damage done to animals and the environment by this culture.",
+      "releaseInfo": "2013",
+      "genres": [
+        "animals",
+        "rights",
+        "torture"
+      ],
+      "director": [
+        "Amy Schatz"
+      ]
+    },
+    {
+      "id": "tm:an-unfashionable-tragedy",
+      "type": "movie",
+      "name": "An Unfashionable Tragedy",
+      "poster": "https://thoughtmaybe.com/content/AnUnfashionableTragedy.jpg",
+      "background": "https://thoughtmaybe.com/content/AnUnfashionableTragedy.jpg",
+      "description": "John Pilger travels to Bangladesh to report on the horrors of the famine in the country, its causes and tragedies, circa 1975. With people passing away on the street on a daily basis from starvation and US foreign policy continually ignored,An Unfashionable Tragedydocuments the plight that continues to this day, showing that food is a powerful weapon, more powerful than oil…",
+      "releaseInfo": "1975",
+      "genres": [
+        "food",
+        "globalisation",
+        "poverty"
+      ],
+      "director": [
+        "John Pilger"
+      ]
+    },
+    {
+      "id": "tm:an-unjustifiable-risk",
+      "type": "movie",
+      "name": "An Unjustifiable Risk",
+      "poster": "https://thoughtmaybe.com/content/AnUnjustifiableRisk.jpg",
+      "background": "https://thoughtmaybe.com/content/AnUnjustifiableRisk.jpg",
+      "description": "An Unjustifiable Riskinvestigates the many risks of plutonium usage in nuclear power generation and the use of fast-breeder reactors argued for the UK in the 1970s. The film turns to Hiroshima, Japan to illustrate the powerful destructive capacities of plutonium, feeding-back the personal experiences of those effected by nuclear weapons into the debate against nuclear power and its consequences…",
+      "releaseInfo": "1977",
+      "genres": [
+        "energy",
+        "environment",
+        "nuclear"
+      ],
+      "director": [
+        "John Pilger"
+      ]
+    },
+    {
+      "id": "tm:another-body",
+      "type": "movie",
+      "name": "Another Body",
+      "poster": "https://thoughtmaybe.com/content/AnotherBody.jpg",
+      "background": "https://thoughtmaybe.com/content/AnotherBody.jpg",
+      "description": "When Taylor got a Facebook message from a friend with a link, she clicked, and couldn’t believe what she saw. Her own face staring back at her in a hard-core porn video. Taylor had been deepfaked. Her face digitally pasted onto someone else’s body. Her face appeared in several videos that had been posted using a Pornhub profile impersonating her with her real name, college and hometown. When police wouldn’t help, she did her own investigation. Taylor takes viewers on her search to uncover who created and posted the videos. As she investigates, she makes an astonishing discovery: she’s not the only student from her college who’s been targeted with deepfake porn, and she soon realizes that no one is safe from this growing threat.",
+      "releaseInfo": "2023",
+      "genres": [
+        "deepfake",
+        "pornography",
+        "women"
+      ],
+      "director": [
+        "Isabel Freeman"
+      ]
+    },
+    {
+      "id": "tm:apartheid-did-not-die",
+      "type": "movie",
+      "name": "Apartheid Did Not Die",
+      "poster": "https://thoughtmaybe.com/content/ApartheidDidNotDie.jpg",
+      "background": "https://thoughtmaybe.com/content/ApartheidDidNotDie.jpg",
+      "description": "Apartheid based on race is ‘outlawed now’, but the system always went far deeper than that. The cruelty and injustice were underwritten by an economic apartheid, which regarded people as no more than cheap expendable labour. It was backed by great business corporations in South Africa, Britain, the rest of Europe, and the United States and it was this apartheid based on money and profit that allowed a small minority to control most of the land, most of the industrial wealth, and most of the economic power. Today, the same system is called–without a trace of irony–the free market.",
+      "releaseInfo": "1998",
+      "genres": [
+        "apartheid",
+        "governments",
+        "racism",
+        "rights"
+      ],
+      "director": [
+        "Alan Lowery"
+      ]
+    },
+    {
+      "id": "tm:arresting-power",
+      "type": "movie",
+      "name": "Arresting Power",
+      "poster": "https://thoughtmaybe.com/content/ArrestingPower.jpg",
+      "background": "https://thoughtmaybe.com/content/ArrestingPower.jpg",
+      "description": "Arresting Power: Resisting Police Violence in Portland, Oregon",
+      "releaseInfo": "2015",
+      "genres": [
+        "corruption",
+        "legal system",
+        "police",
+        "protest",
+        "resistance",
+        "violence"
+      ],
+      "director": [
+        "Erin Yanke"
+      ]
+    },
+    {
+      "id": "tm:artifishal",
+      "type": "movie",
+      "name": "Artifishal",
+      "poster": "https://thoughtmaybe.com/content/Artifishal.jpg",
+      "background": "https://thoughtmaybe.com/content/Artifishal.jpg",
+      "description": "Artifishalis a film about people, rivers, and the fight for the future of wild fish and the environment that supports them. It explores wild salmonâs slide toward extinction, threats posed by fish hatcheries and fish farms, and this culture’s relentless pursuit of engineering, mechanisation, and commodification in the face of environmental collapse. The film shows how fish hatcheries and fish farms threaten wild salmon populations, which in-turn has wide effects on the rest of the environment, but instead of helping wild salmon recover, this culture powers on with hatcheries and farms at great cost, both economically and ecologically.Artifishalexplores the process, and what’s at stake if this culture continues its destructive path.",
+      "releaseInfo": "2019",
+      "genres": [
+        "agriculture",
+        "factory farming",
+        "food",
+        "health",
+        "manufacturing",
+        "pollution"
+      ],
+      "director": [
+        "Collin Kriner"
+      ]
+    },
+    {
+      "id": "tm:at-the-heart-of-gold",
+      "type": "movie",
+      "name": "At the Heart of Gold",
+      "poster": "https://thoughtmaybe.com/content/AtTheHeartOfGold.jpg",
+      "background": "https://thoughtmaybe.com/content/AtTheHeartOfGold.jpg",
+      "description": "At the Heart of Gold: Inside the USA Gymnastics Scandalreveals a dangerous athletic culture that prioritised winning over everything else, including protecting young female athletes. For more than 30 years, Larry Nassar worked with gymnasts, as a respected trainer and doctor. He was charming, taught at church, volunteered in the community, and was seemingly well-liked throughout. He treated girls’ aches and pains, becoming a friend and confidant to many along the way, while also sexually abusing them during sessions for many years. When some girls began to speak up about their experiences, they were silenced, gaslighted or denied, all the way up to the highest levels of management, across multiple sporting institutions. After many complaints and eventually a cumulative legal investigation, Nassar ends up exposed as a serial sex offender. This film unpacks the scandal, its cover-up, and aftermath, through interviews with dozens of survivors, as well as coaches, lawyers and journalists, as one of the most high-profile paedophile trials in recent years. It documents the grooming, methods, and psychology of a charismatic sexual abuser, as well as the culture that enables and perpetuates it.",
+      "releaseInfo": "2019",
+      "genres": [
+        "behaviour",
+        "children",
+        "cover-up",
+        "legal system",
+        "manipulation",
+        "rape culture",
+        "rights",
+        "sex",
+        "women"
+      ],
+      "director": [
+        "Erin Lee Carr"
+      ]
+    },
+    {
+      "id": "tm:at-the-river-i-stand",
+      "type": "movie",
+      "name": "At the River I Stand",
+      "poster": "https://thoughtmaybe.com/content/AtTheRiverIStand.jpg",
+      "background": "https://thoughtmaybe.com/content/AtTheRiverIStand.jpg",
+      "description": "Spring of 1968 in Memphis Tennessee marked the peak of the Civil Rights movement in the United States.At the River I Standsets out to reconstruct the eventful months leading up to this period by looking at what started as a strike by sanitation workers which quickly soared into a national conflagration. The film disentangles the complex historical forces that came together for the struggle as well the inevitability of tragedy at the death of many, including Martin Luther King.At the River I Standbrings into sharp relief issues that have only become more urgent in the intervening years: the connection between economic and civil rights; debates over strategies for change, and the questions of effectiveness of pacifist tactics for social change; the demand for full inclusion of African Americans in life; as well as the pressing fight for dignity for all working people…",
+      "releaseInfo": "1993",
+      "genres": [
+        "black power",
+        "poverty",
+        "protest",
+        "racism",
+        "rights",
+        "workers"
+      ],
+      "director": [
+        "Allison Graham"
+      ]
+    },
+    {
+      "id": "tm:atomic-confessions",
+      "type": "movie",
+      "name": "Atomic Confessions",
+      "poster": "https://thoughtmaybe.com/content/AtomicConfessions.jpg",
+      "background": "https://thoughtmaybe.com/content/AtomicConfessions.jpg",
+      "description": "Atomic Confessionsinvestigates the devastating effects of atomic weapons testing carried out in Australia by the British military during the 1950s. Members of the Australian Army, Air Force and Navy detail former top-secret aspects of the tests, while prominent Aboriginal Elders describe the real impacts on the ground. Using archival film and photographs, as well as eye witness accounts,Atomic Confessionschronicles the consequences of nuclear testing imposed on the Australian people, and the land, showing that these tests are not just skeletons of the past…",
+      "releaseInfo": "2005",
+      "genres": [
+        "human experiments",
+        "indigenous",
+        "military",
+        "nuclear",
+        "weapons"
+      ],
+      "director": [
+        "Gregory Young"
+      ]
+    },
+    {
+      "id": "tm:atomic-footprints",
+      "type": "movie",
+      "name": "Atomic Footprints",
+      "poster": "https://thoughtmaybe.com/content/AtomicFootprints.jpg",
+      "background": "https://thoughtmaybe.com/content/AtomicFootprints.jpg",
+      "description": "Atomic Footprintsuses archival footage and new material from the outback of Australia to examine the nuclear fuel chain, and the current push to expand uranium mines throughout Australia. This film speaks with local indigenous communities about the impact of already-existing uranium mining and refinement, and shows in clear examples some of the reasons why we should continue to oppose it around the world.",
+      "releaseInfo": "2007",
+      "genres": [
+        "energy",
+        "environment",
+        "indigenous",
+        "mining",
+        "nuclear",
+        "rights"
+      ],
+      "director": [
+        "Pip Starr"
+      ]
+    },
+    {
+      "id": "tm:attack-of-the-drones",
+      "type": "movie",
+      "name": "Attack of The Drones",
+      "poster": "https://thoughtmaybe.com/content/AttackOfTheDrones.jpg",
+      "background": "https://thoughtmaybe.com/content/AttackOfTheDrones.jpg",
+      "description": "The latest in the string of controversies as part of the United States’ ongoing “war on terror”, is the military’s growing reliance on “Unmanned Aerial Vehicles” otherwise known as ‘drones’, evidenced by the international reaction to recent drone missile attacks along the border in Pakistan. The military is also deploying other technological advancements alongside, such as robots in the battlefield and drones that work in swarms. Is this just a big computer game? A new tech-driven arms race?",
+      "releaseInfo": "2012",
+      "genres": [
+        "artificial intelligence",
+        "computers",
+        "drones",
+        "military",
+        "robots",
+        "technology",
+        "tracking",
+        "war crimes",
+        "war on terror"
+      ],
+      "director": [
+        "Fred Sengers"
+      ]
+    },
+    {
+      "id": "tm:audrie-daisy",
+      "type": "movie",
+      "name": "Audrie & Daisy",
+      "poster": "https://thoughtmaybe.com/content/AudrieAndDaisy.jpg",
+      "background": "https://thoughtmaybe.com/content/AudrieAndDaisy.jpg",
+      "description": "Audrie & Daisyis a documentary about the trend of teenage girls in the United States being sexually assaulted by their male classmates, and having the assaults recorded and shared on social media. It looks at the trend that the legal system tends to systematically minimise and dismiss cases, resulting in victimised girls not receiving justice. Girls often end up getting bullied both in school as well as online for being rape victims, and the pictures and videos are posted online–almost as trophies–by teens that have committed and witnessed these crimes. The online forum for sharing these images and comments has become the new public square of shame for adolescents.Audrie & Daisyaims to shed light on this dark corner of life facing young adults, and serves to form a powerful tool for honest conversation, analysis, and real justice.",
+      "releaseInfo": "2016",
+      "genres": [
+        "legal system",
+        "police",
+        "rape culture",
+        "screen culture",
+        "violence",
+        "women"
+      ],
+      "director": [
+        "Bonni Cohen"
+      ]
+    },
+    {
+      "id": "tm:baltimore-rising",
+      "type": "movie",
+      "name": "Baltimore Rising",
+      "poster": "https://thoughtmaybe.com/content/BaltimoreRising.jpg",
+      "background": "https://thoughtmaybe.com/content/BaltimoreRising.jpg",
+      "description": "In 2015, peaceful protests and destructive riots erupted when Freddie Gray, a 25-year-old African American, died in police custody in Baltimore, United States. While the city waited to see the fate of the six police officers involved in the incident, who were all ultimately not punished,Baltimore Risingshows activists, police officers, community leaders, and gang affiliates, who struggled to hold the city together, as the homicide rate hit record levels. The death of Gray by police catalysed the longstanding fault lines in a distraught community, damaged by corruption and inequality.Baltimore Risingchronicles the determined efforts of people on all sides who are working to make their community better, sometimes coming together in unexpected ways.",
+      "releaseInfo": "2017",
+      "genres": [
+        "black power",
+        "direct action",
+        "governments",
+        "police",
+        "protest",
+        "racism"
+      ],
+      "director": [
+        "Sonja Sohn"
+      ]
+    },
+    {
+      "id": "tm:bananas",
+      "type": "movie",
+      "name": "Bananas!*",
+      "poster": "https://thoughtmaybe.com/content/Bananas.jpg",
+      "background": "https://thoughtmaybe.com/content/Bananas.jpg",
+      "description": "Bananas!*documents the legal battle of banana plantation workers in Nicaragua against the Dole Food Company over cases of sterility caused by the pesticide DBCP. The chemical, despite being banned, was knowingly sprayed on crops and workers. The result is the same old battle with corporate power as the film unpacks the issues of the case and the lives of the workers through the local lawyer Juan Dominguez. Dominguez bridges the gap between the rapacious North American company and the South American workers who were not told about or protected from the pesticide, to make a claim against one of the largest corporations in the world for justice for its workers.",
+      "releaseInfo": "2009",
+      "genres": [
+        "agriculture",
+        "corporations",
+        "food",
+        "legal system",
+        "toxins",
+        "workers"
+      ],
+      "director": [
+        "Fredrik Gertten"
+      ]
+    },
+    {
+      "id": "tm:banking-nature",
+      "type": "movie",
+      "name": "Banking Nature",
+      "poster": "https://thoughtmaybe.com/content/BankingNature.jpg",
+      "background": "https://thoughtmaybe.com/content/BankingNature.jpg",
+      "description": "In recent years, nature conservation has become a booming business where huge sums of money change hands, and endangered species become exotic financial products.Banking Nature, delves into this hidden world of so-called environmental banking, where huge corporations such as Merrill Lynch and JP Morgan Chase buy up the land and habitat of endangered species, and then sell them in the form of shares. Companies that inevitably harm the environment are then obliged to buy credits to offset the damage that they have caused. In Uganda, we meet men who measure trees to determine how much carbon they store and then a banker from the German firm that sells the resulting carbon credits. In Brazil, the steel giant Vale destroys the rainforest, replaces it with a monocrop tree plantation, and reaps the benefits of environmental credits as if the rainforest was still standing.Banking Natureposits that we disallow the same corporate criminals responsible for the global financial crisis from turning what’s left of the natural world into their final corrupt commodities market.",
+      "releaseInfo": "2014",
+      "genres": [
+        "addiction",
+        "banking",
+        "capitalism",
+        "civilisation",
+        "corporations",
+        "economics",
+        "environment",
+        "extinction",
+        "financial crisis",
+        "globalisation"
+      ],
+      "director": [
+        "Denis Delestrac"
+      ]
+    },
+    {
+      "id": "tm:battle-for-the-reef",
+      "type": "movie",
+      "name": "Battle for the Reef",
+      "poster": "https://thoughtmaybe.com/content/BattleForTheReef.jpg",
+      "background": "https://thoughtmaybe.com/content/BattleForTheReef.jpg",
+      "description": "Following on from previous reports about the numerous threats from industry facing the Great Barrier Reef, investigative journalist Marian Wilkinson returns to Queensland, Australia some years later to not only review the continued declining state of the reef, but to unfortunately investigate a new string of threats. This year, the government agency tasked with protecting the reef has approved a plan to expand the Abbot Point coal port which has serious cumulative effects on the already stressed reef and surrounding ecology. This in conjunction with the realities caused by anthropogenic climate change means the health of the reef has arguably past tipping point. Do we care enough to shift our perception of viewing everything through the lens of the economy? And not only that—do we care enough toact?",
+      "releaseInfo": "2014",
+      "genres": [
+        "energy",
+        "environment",
+        "extinction",
+        "pollution"
+      ],
+      "director": [
+        "Marian Wilkinson"
+      ]
+    },
+    {
+      "id": "tm:beating-the-bomb",
+      "type": "movie",
+      "name": "Beating The Bomb",
+      "poster": "https://thoughtmaybe.com/content/BeatingTheBomb.jpg",
+      "background": "https://thoughtmaybe.com/content/BeatingTheBomb.jpg",
+      "description": "By charting the history of the anti-war movement against the political backdrop of the atomic age,Beating The Bombexamines the current state of ‘nuclear deterrence’ brought about by the nuclear age stemming from the end of World War II, when the United States nuked Hiroshima and Nagasaki. Specifically, the anti-nuclear movement and the founding of the Campaign for Nuclear Disarmament in 1958 amongst others, fight for and end to the British Nuclear Weapons program, which from its inception, was closely tied to The Manhattan Project and still is to this day…",
+      "releaseInfo": "2010",
+      "genres": [
+        "military",
+        "nuclear",
+        "protest",
+        "resistance",
+        "war",
+        "weapons"
+      ],
+      "director": [
+        "Meera Patel"
+      ]
+    },
+    {
+      "id": "tm:beauty-mark",
+      "type": "movie",
+      "name": "Beauty Mark",
+      "poster": "https://thoughtmaybe.com/content/BeautyMark.jpg",
+      "background": "https://thoughtmaybe.com/content/BeautyMark.jpg",
+      "description": "How do our families influence our relationship with our own bodies? How does popular culture’s standards of beauty get inside our hearts and heads? In what ways can sport and the drive for fitness actually make us sick rather than healthy? InBeauty Mark, former champion triathlete Diane Israel examines this culture’s unhealthy fixation on thinness, beauty, and physical perfection. She talks candidly about her own struggle with eating disorders and obsessive exercising, confronting her own past to come to terms with this culture’s unhealthy fixation on self-destructive ideals of beauty and competitiveness.",
+      "releaseInfo": "2009",
+      "genres": [
+        "addiction",
+        "advertising",
+        "body",
+        "celebrity culture",
+        "gender"
+      ],
+      "director": [
+        "Carla Precht"
+      ]
+    },
+    {
+      "id": "tm:beautys-new-normal",
+      "type": "movie",
+      "name": "Beauty’s New Normal",
+      "poster": "https://thoughtmaybe.com/content/BeautysNewNormal.jpg",
+      "background": "https://thoughtmaybe.com/content/BeautysNewNormal.jpg",
+      "description": "Fuelled by popular personalities on Instagram, YouTube and Snapchat, cosmetic surgery is pushing further into the mainstream. Huge numbers of people, predominantly young women, are choosing to alter their appearance forever as though it’s as simple as buying a new set of clothes. Social-media “influencers” get free procedures in exchange for promoting certain doctors or agencies or products to their audiences. Going on the numbers alone, audiences seem to respond to this blatantly cacophonous advertising, following their social media stars closely, and taking out huge personal loans to get surgery and “keep up with the Kardashians.” Doctors offering the surgery are even becoming media stars themselves, and it’s redefining the meaning of doctor/patient relations. Underpinning this entire industry, is a business model of targeting women who can barely afford procedures by selling the dream of a “new you.” Social-media laps it up, and the cycle repeats. But as this investigation shows, when things go wrong, the physical and financial costs are devastating. Real doctors who are left to pick up the pieces, are warning that the booming industry is creating a dangerous legacy, and not just to the concept of beauty.",
+      "releaseInfo": "2018",
+      "genres": [
+        "addiction",
+        "advertising",
+        "body",
+        "celebrity culture",
+        "consumerism",
+        "facebook",
+        "media",
+        "plastic",
+        "women"
+      ],
+      "director": [
+        "Louise Milligan"
+      ]
+    },
+    {
+      "id": "tm:behind-closed-doors",
+      "type": "movie",
+      "name": "Behind Closed Doors",
+      "poster": "https://thoughtmaybe.com/content/BehindClosedDoors.jpg",
+      "background": "https://thoughtmaybe.com/content/BehindClosedDoors.jpg",
+      "description": "Behind Closed Doorsaddresses the impact that witnessing domestic violence has on the developing brain of infants and children, and demonstrates the effect on their behaviour, relationships, and the long term consequences for their future. It also documents steps that parents and caregivers can take to help children survive this experience with the best possible outcome. The video’s intent is not to blame but rather to help parents become aware of what is happening for their children, help teachers, and caregivers understand the behaviours that are a result of the impact of witnessing abuse in the home, and provide suggestions to assist in addressing the behaviours in order to achieve more healthy outcomes and safety.",
+      "releaseInfo": "2015",
+      "genres": [
+        "children",
+        "domestic violence",
+        "women"
+      ],
+      "director": [
+        "Hilary Pryor"
+      ]
+    },
+    {
+      "id": "tm:behind-the-big-news",
+      "type": "movie",
+      "name": "Behind The Big News",
+      "poster": "https://thoughtmaybe.com/content/BehindTheBigNews.jpg",
+      "background": "https://thoughtmaybe.com/content/BehindTheBigNews.jpg",
+      "description": "Most people who know that the mainstream media manipulates stories, manufactures illusions, and exploits fears can realise that the reason is more than just bias or sloppy reporting.Behind The Big Newsshows the ideological agenda that originates outside the media that defines today’s headlines, using examines of some of the biggest news stories in recent decades to illustrate how this agenda is rigorously promoted and protected.",
+      "releaseInfo": "2007",
+      "genres": [
+        "manipulation",
+        "media",
+        "propaganda"
+      ],
+      "director": [
+        "Tom Gow"
+      ]
+    },
+    {
+      "id": "tm:behind-the-curve",
+      "type": "movie",
+      "name": "Behind the Curve",
+      "poster": "https://thoughtmaybe.com/content/BehindTheCurve.jpg",
+      "background": "https://thoughtmaybe.com/content/BehindTheCurve.jpg",
+      "description": "Behind the Curvedocuments the resurgence of believers of a flat Earth, as made popular through YouTube videos. The film is a personal exploration of how people became exposed to flat Earth theories (the YouTube algorithm), and how those ideas were reinforced in an echo chamber of social media, rejecting empirical evidence, at a time of increasing countercultural distrust in authority figures and the epistemology of science. The narrative at the core of the film reveals how the screen bubble can envelop a person’s informational exposure, and change their relationships and perceptions in the real world, where confirmation bias is reinforced, making alternative views threatening, and individualism sacrosanct. Information that is contrary to a deeply held belief then becomes increasingly impossible to accept, especially if it has changed your life and circle of friends. So with empathy and a playful warmth,Behind the Curvebecomes a warning light to the importance of honest discourse and critical analysis, falsifiability and dogma, but above all, to empathy and understanding of a person’s desire to create meaning and acceptance in a lonely, fragmented culture.",
+      "releaseInfo": "2019",
+      "genres": [
+        "conspiracy theories",
+        "google",
+        "internet",
+        "learning",
+        "manipulation",
+        "psychology",
+        "science",
+        "screen culture"
+      ],
+      "director": [
+        "Daniel Clark"
+      ]
+    },
+    {
+      "id": "tm:behind-the-screens",
+      "type": "movie",
+      "name": "Behind the Screens",
+      "poster": "https://thoughtmaybe.com/content/BehindTheScreens.jpg",
+      "background": "https://thoughtmaybe.com/content/BehindTheScreens.jpg",
+      "description": "Behind the Screensexplores how Hollywood movies have largely become vehicles for the ulterior motives of advertising and marketing by the studios and media owners, rather than genuine storytelling or simple entertainment in their own right. By showing examples from popular movies such as  Wayne’s World, Forrest Gump, The Lion King, Summer of Sam, and Toy Story, this documentary demonstrates how this trend toward hypercommercialism—through product placement, tie-ins, merchandising and cross-promotions—comes to define the modern movie. What are the problems with this, as well as the cultural and social impacts? Combined with analysis from film scholars, critics, political economists, and an Oscar-nominated screenwriter,Behind the Screenspresents accessible arguments to these questions.",
+      "releaseInfo": "2000",
+      "genres": [
+        "advertising",
+        "capitalism",
+        "consumerism",
+        "corporations",
+        "dominant culture",
+        "media",
+        "social control"
+      ],
+      "director": [
+        "Matt Soar"
+      ]
+    },
+    {
+      "id": "tm:benny-hinn-do-you-believe-in-miracles",
+      "type": "movie",
+      "name": "Benny Hinn — Do you believe in miracles?",
+      "poster": "https://thoughtmaybe.com/content/BennyHinn-DoYouBelieveInMiracles.jpg",
+      "background": "https://thoughtmaybe.com/content/BennyHinn-DoYouBelieveInMiracles.jpg",
+      "description": "Benny Hinn may be the most popular personality in the Christian world today. Thousands pack arenas to see him ‘heal’ the sick and the afflicted. Tens of thousands more watch his daily television program. Millions of dollars are donated every year to his ministry, none of which he says goes to him personally. But, what about those miracles? And where does all that money go?",
+      "releaseInfo": "2004",
+      "genres": [
+        "manipulation",
+        "religion",
+        "television"
+      ],
+      "director": [
+        "Bob McKeown"
+      ]
+    },
+    {
+      "id": "tm:berkeley-in-the-sixties",
+      "type": "movie",
+      "name": "Berkeley in the Sixties",
+      "poster": "https://thoughtmaybe.com/content/BerkeleyInTheSixties.jpg",
+      "background": "https://thoughtmaybe.com/content/BerkeleyInTheSixties.jpg",
+      "description": "Berkeley in the Sixtiesrecaptures the exhilaration and turmoil of the unprecedented student protests that ended up shaping an entire generation in the United States. The Free Speech Movement caught national attention in 1964 when the University of California tried to suppress activists distributing literature and making speeches in an outdoor plaza on campus. The school governor ordered the arrest of students who had occupied the University’s Sproul Hall, leading the largest mass arrest in United States’ history. Police violence also helped politicise and escalate student uprisings, as awareness of the Vietnam War also kept the winds of dissent blowing, albeit as some movements attracted hedonistic individualism and broke away into fancifulness. On the other end was the Black Panther Party, which offered a militant alternative to the civil rights movement. This film recounts these events through 15 former student leaders, who grapple with the meaning of their actions, as their recollections weave with footage from thousands of historical clips and hundreds of interviews from the time. The film offers a reflective and insightful analysis of the successes and failures of the era–from the House Un-American Activities Committee hearings and civil rights sit-ins at the beginning of the decade, through the Free Speech Movement, anti-war protests, the growth of the counter-culture, the Black Panther Party, and the stirrings of the Women’s Movement–confronting the viewer with the questions the 1960s raised and struggled with.",
+      "releaseInfo": "1990",
+      "genres": [
+        "history",
+        "protest",
+        "resistance"
+      ],
+      "director": [
+        "Mark Kitchell"
+      ]
+    },
+    {
+      "id": "tm:better-this-world",
+      "type": "movie",
+      "name": "Better This World",
+      "poster": "https://thoughtmaybe.com/content/BetterThisWorld.jpg",
+      "background": "https://thoughtmaybe.com/content/BetterThisWorld.jpg",
+      "description": "How did two childhood friends from Midland, Texas end up arrested on terrorism charges at the 2008 Republican National Convention?Better This Worldfollows the journey of David McKay and Bradley Crowder from activist beginners to accused domestic terrorists with a particular focus on the relationship they develop with an FBI informant named Brandon Darby in six months leading up to their arrests. Weaving through a story of entrapment, idealism, political struggle and ultimate betrayal,Better This Worldwinds up at questions of the core machinery of the justice system and its impact on civil liberties and political dissent in the modern “post-9/11 world.”",
+      "releaseInfo": "2011",
+      "genres": [
+        "intelligence agencies",
+        "protest",
+        "resistance",
+        "rights",
+        "war on terror"
+      ],
+      "director": [
+        "Katie Galloway"
+      ]
+    },
+    {
+      "id": "tm:beyond-good-evil",
+      "type": "movie",
+      "name": "Beyond Good & Evil",
+      "poster": "https://thoughtmaybe.com/content/BeyondGoodAndEvil.jpg",
+      "background": "https://thoughtmaybe.com/content/BeyondGoodAndEvil.jpg",
+      "description": "The belief that good triumphs over evil resonates deeply through the religious and political discourses of dominant culture. It is also a common theme in the entertainment media where the struggle between good and evil is frequently resolved through violence. The negative impacts of media violence on children has long been a public concern, but it is even more troubling when military violence, both in the news and in entertainment, is often glorified as heroic and noble.Beyond Good & Evil: Children, Media & Violent Timesis a look at how mass communication distorts and manipulates language and visual imagery. It shows viewers how the media’s overriding objective of satisfying an audience converts real issues surrounding race, war, and violence into nothing more than spectacle.",
+      "releaseInfo": "2003",
+      "genres": [
+        "children",
+        "manipulation",
+        "media",
+        "military",
+        "propaganda",
+        "the spectacle",
+        "war",
+        "war on terror"
+      ],
+      "director": [
+        "Chyng Sun Sun"
+      ]
+    },
+    {
+      "id": "tm:beyond-jfk-the-question-of-conspiracy",
+      "type": "movie",
+      "name": "Beyond JFK: The Question of Conspiracy",
+      "poster": "https://thoughtmaybe.com/content/BeyondJFK-TheQuestionOfConspiracy.jpg",
+      "background": "https://thoughtmaybe.com/content/BeyondJFK-TheQuestionOfConspiracy.jpg",
+      "description": "Using Oliver Stone’s epic film “JFK” as a springboard,Beyond JFK: The Question of Conspiracybrings together extensive research around the assassination of John F Kennedy in 1963, to challenge serious flaws in the official narrative. Featuring interviews with Jim Garrison, the District Attorney who brought the conspiracy case of Clay Shaw in 1969, as well as interviews with his staff, Numa Bertel, Lou Ivon and Perry Russo; in addition to numerous reporters, eyewitnesses, archivists, and others,Beyond JFKis a cumulative look into the huge amounts of public research that went into the counter-narrative of the JFK assassination, forming the basis of the production of the JFK movie as a way of presenting the research to the public through pop-culture.",
+      "releaseInfo": "1992",
+      "genres": [
+        "assasination",
+        "censorship",
+        "conspiracy theories",
+        "cover-up",
+        "covert operations",
+        "governments",
+        "military industrial complex"
+      ],
+      "director": [
+        "Barbara Kopple"
+      ]
+    },
+    {
+      "id": "tm:beyond-treason",
+      "type": "movie",
+      "name": "Beyond Treason",
+      "poster": "https://thoughtmaybe.com/content/BeyondTreason.jpg",
+      "background": "https://thoughtmaybe.com/content/BeyondTreason.jpg",
+      "description": "Department of Defense documents obtained through the Freedom of Information Act expose horrific government funded experimentation upon citizens conducted without their knowledge or consent. Is the United States knowingly using a dangerous battlefield weapon banned by the United Nations because of its long-term effects on the local inhabitants and the environment?Beyond Treasonexplores the illegal worldwide sale and use of one of the deadliest weapons ever invented. Was “Gulf War Illness” actually known by the military before hand?",
+      "releaseInfo": "2005",
+      "genres": [
+        "drugs",
+        "military",
+        "war"
+      ],
+      "director": [
+        "Joyce Riley"
+      ]
+    },
+    {
+      "id": "tm:big-brother-big-business",
+      "type": "movie",
+      "name": "Big Brother, Big Business",
+      "poster": "https://thoughtmaybe.com/content/BigBrotherBigBusiness.jpg",
+      "background": "https://thoughtmaybe.com/content/BigBrotherBigBusiness.jpg",
+      "description": "Every day, escalating technologies are being used to monitor all of us as populations with unprecedented scrutiny—from driving habits to workplace surveillance, as shoppers, as consumers, as citizens. We are all increasingly being observed and analysed. Internet searches are monitored and used as evidence in court, the police track our movements on the road, governments collect our DNA, fingerprints and iris scans, corporations assemble huge databases for profiling and selling data, while governments collude with such lucrative businesses—for example, Acxiom, Lexis Nexis and ChoicePoint—to gain access to vast volumes of information about people and the machinations of modern society. What will it take for us to stop this system before it boils over into a full-blown technocratic authoritarian regime?",
+      "releaseInfo": "2006",
+      "genres": [
+        "biometrics",
+        "computers",
+        "corporations",
+        "google",
+        "governments",
+        "internet",
+        "NSA",
+        "privacy",
+        "surveillance",
+        "tracking"
+      ],
+      "director": [
+        "David Faber"
+      ]
+    },
+    {
+      "id": "tm:big-bucks-big-pharma",
+      "type": "movie",
+      "name": "Big Bucks, Big Pharma",
+      "poster": "https://thoughtmaybe.com/content/BigBucksBigPharma.jpg",
+      "background": "https://thoughtmaybe.com/content/BigBucksBigPharma.jpg",
+      "description": "Big Bucks, Big Pharmalooks at the varied insidious methods of the multi-billion dollar pharmaceutical industry to manipulate—and in some instances create—psychological conditions for profit. Focusing on the advertising for psychotropic drugs, the film demonstrates the ways in which pharmaceutical marketing glamorises and normalises the use of prescription medication, and how this works in tandem with promotion and delivery by doctors. These practices combine to shape how both patients and doctors understand and relate to mental and physical health, as well as treatment. Ultimately,Big Bucks, Big Pharmachallenges the viewer to ask important questions about the consequences of a society relying on a for-profit industry for collective health and well-being.",
+      "releaseInfo": "2006",
+      "genres": [
+        "advertising",
+        "drugs",
+        "psychology"
+      ],
+      "director": [
+        "Jeremy Earp"
+      ]
+    },
+    {
+      "id": "tm:big-rattle-in-seattle",
+      "type": "movie",
+      "name": "Big Rattle In Seattle",
+      "poster": "https://thoughtmaybe.com/content/BigRattleInSeattle.jpg",
+      "background": "https://thoughtmaybe.com/content/BigRattleInSeattle.jpg",
+      "description": "Interspersed with shots of direct-action and interviews with participants,Big Rattle In Seattledocuments the protests in Seattle against the World Trade Organisation conference in September 1999.",
+      "releaseInfo": "1999",
+      "genres": [
+        "direct action",
+        "protest",
+        "tactics",
+        "WTO"
+      ],
+      "director": [
+        "Unknown"
+      ]
+    },
+    {
+      "id": "tm:bikpela-bagarap",
+      "type": "movie",
+      "name": "Bikpela Bagarap",
+      "poster": "https://thoughtmaybe.com/content/BikpelaBagarap.jpg",
+      "background": "https://thoughtmaybe.com/content/BikpelaBagarap.jpg",
+      "description": "Bikpela Bagarap(Big Damage)is the story of logging in Papua New Guinea, following the reality of systemic exploitation by logging companies of indigenous communities, where locals are not even citizens in their own country. Customary landowners are coerced into signing release documents, or sign with the understanding that promises for clean water, health and education will be delivered. On the contrary, traditional hunting grounds are destroyed, waterways polluted, and livelihoods threatened.",
+      "releaseInfo": "2011",
+      "genres": [
+        "community",
+        "environment",
+        "indigenous",
+        "pollution",
+        "protest",
+        "resistance"
+      ],
+      "director": [
+        "David Fedele"
+      ]
+    },
+    {
+      "id": "tm:bitter-lake",
+      "type": "movie",
+      "name": "Bitter Lake",
+      "poster": "https://thoughtmaybe.com/content/BitterLake.jpg",
+      "background": "https://thoughtmaybe.com/content/BitterLake.jpg",
+      "description": "Bitter Lakeexplores how the realpolitik of the West has converged on a mirror image of itself throughout the Middle-East over the past decades, and how the story of this has become so obfuscating and simplified that we, the public, have been left in a bewildered and confused state. The narrative traverses the United States, Britain, Russia and Saudi Arabia—but the country at the centre of reflection is Afghanistan. Because Afghanistan is the place that has confronted political figureheads across the West with the truth of their delusions—that they cannot understand what is going on any longer inside the systems they have built which do not account for the real world.Bitter Lakesets out to reveal the forces that over the past thirty years, rose up and commandeered those political systems into subservience, to which, as we see now, the highly destructive stories told by those in power, are inexorably bound to. The stories are not only half-truths, but they have monumental consequences in the real world.",
+      "releaseInfo": "2015",
+      "genres": [
+        "governments",
+        "politick",
+        "social control",
+        "war",
+        "war on terror"
+      ],
+      "director": [
+        "Adam Curtis"
+      ]
+    },
+    {
+      "id": "tm:black-gold",
+      "type": "movie",
+      "name": "Black Gold",
+      "poster": "https://thoughtmaybe.com/content/BlackGold.jpg",
+      "background": "https://thoughtmaybe.com/content/BlackGold.jpg",
+      "description": "As westerners revel in designer lattes and cappuccinos, impoverished Ethiopian coffee growers still suffer the bitter taste of injustice.Black Goldfollows the multi-billion dollar coffee industry down to the ground with the story of one man’s fight for a fair-trade…",
+      "releaseInfo": "2006",
+      "genres": [
+        "consumerism",
+        "corporations",
+        "fair trade",
+        "food"
+      ],
+      "director": [
+        "Mark Francis"
+      ]
+    },
+    {
+      "id": "tm:black-wave",
+      "type": "movie",
+      "name": "Black Wave",
+      "poster": "https://thoughtmaybe.com/content/BlackWave.jpg",
+      "background": "https://thoughtmaybe.com/content/BlackWave.jpg",
+      "description": "In the early hours of March 24th 1989, the Exxon Valdez oil supertanker runs aground in Alaska. The ship discharges several tens of millions of gallons of crude oil. The incident becomes the biggest environmental assault in North American history, and in a flash, the news shoots across the planet along with footage of thousands of dead seabirds, sea otters and other marine life covered in oil, devastated. Thick black tides rise and cover the beaches of the once-pristine reefs of Alaska.Black Waverecalls this event, a generation later, by speaking with renowned marine toxicologist Riki Ott and the fishermen of the little town of Cordova, Alaska. They tell us all about the environmental and social consequences of the black wave that changed their lives forever—the legacy of the Exxon Valdez that still lingers today.",
+      "releaseInfo": "2008",
+      "genres": [
+        "corporations",
+        "environment",
+        "oil",
+        "pollution"
+      ],
+      "director": [
+        "Paul Carvalho"
+      ]
+    },
+    {
+      "id": "tm:blackout",
+      "type": "movie",
+      "name": "Blackout",
+      "poster": "https://thoughtmaybe.com/content/Blackout.jpg",
+      "background": "https://thoughtmaybe.com/content/Blackout.jpg",
+      "description": "As Wednesday, July 13, 1977 dawned hot and humid, New Yorkers prepared themselves for another sweltering day. It was the first day of a nine-day heat wave that would become the hottest in New York City history. The once-booming city had been suffering years of economic decline. It was on the verge of bankruptcy–both unemployment rates and crime rates were high, police and fire-fighters had been laid off, municipal services including sanitation and after-school programs had been cut, and a serial killer named ‘Son of Sam’ was still on the loose, keeping everyone on edge. When a severe thunderstorm hit, the lights went out, and some eight million people plunged into darkness in New York City and surrounding areas. By the time the power was fully restored more than a day later, some 1,600 businesses had been looted, more than 3,000 people had been arrested, and fire-fighters had battled more than 1,000 fires.",
+      "releaseInfo": "2015",
+      "genres": [
+        "behaviour",
+        "capitalism",
+        "economics",
+        "energy",
+        "environment",
+        "history",
+        "poverty",
+        "power",
+        "riot",
+        "social"
+      ],
+      "director": [
+        "Callie Wiser"
+      ]
+    },
+    {
+      "id": "tm:blind-spot",
+      "type": "movie",
+      "name": "Blind Spot",
+      "poster": "https://thoughtmaybe.com/content/BlindSpot.jpg",
+      "background": "https://thoughtmaybe.com/content/BlindSpot.jpg",
+      "description": "Blind Spotinvestigates the convergence of causes behind the current crisis of global industrial civilisation. By establishing the links between fossil fuels and the falsehood of perpetual exponential economic growth,Blind Spotexplains the draw down of the natural environment, and how this globalised culture is systematically killing the world in its path. The energy depletion scenario known as Peak Oil—which came to pass around 2006—requires this culture to change drastically, with dire consequences either way. By whatever measure of greed, wishful thinking, neglect or ignorance, this current way of life cannot continue and the clock is ticking fast for change.",
+      "releaseInfo": "2008",
+      "genres": [
+        "consumerism",
+        "energy",
+        "food",
+        "oil",
+        "transport"
+      ],
+      "director": [
+        "Adolfo Doring"
+      ]
+    },
+    {
+      "id": "tm:blood-coltan",
+      "type": "movie",
+      "name": "Blood Coltan",
+      "poster": "https://thoughtmaybe.com/content/BloodColtan.jpg",
+      "background": "https://thoughtmaybe.com/content/BloodColtan.jpg",
+      "description": "Blood Coltantravels to eastern Congo, where a bloody war is happening over a precious metal called Coltan—a raw material used in electronic devices such as computers, televisions and mobile phones. The demand for Coltan is driven by the west, funding the war in Congo between rebel militias and children as young as ten who work the mines hunting for this precious material of the technocratic age…",
+      "releaseInfo": "2007",
+      "genres": [
+        "coltan",
+        "computers",
+        "consumerism",
+        "globalisation",
+        "technology"
+      ],
+      "director": [
+        "Patrick Forestier"
+      ]
+    },
+    {
+      "id": "tm:blood-in-the-mobile",
+      "type": "movie",
+      "name": "Blood In The Mobile",
+      "poster": "https://thoughtmaybe.com/content/BloodInTheMobile.jpg",
+      "background": "https://thoughtmaybe.com/content/BloodInTheMobile.jpg",
+      "description": "Modern society loves mobile phones — the selection between different models and gadgets has never been bigger. But the production of this technology has a hidden, dark, bloody side. The main minerals used to produce mobile phones are coming from the mines in the Eastern DR Congo. The Western World is buying these minerals up at a furious rate, financing a bloody civil war which, during the last 15 years, has cost the lives of more than 5 million people.Blood In The Mobileexplains the connections between mobile phones and the civil war in the Congo, while technology corporations whitewash the issue to “supply and demand” and claim ignorance…",
+      "releaseInfo": "2010",
+      "genres": [
+        "coltan",
+        "computers",
+        "consumerism",
+        "technology",
+        "war"
+      ],
+      "director": [
+        "Frank Poulsen"
+      ]
+    },
+    {
+      "id": "tm:blue",
+      "type": "movie",
+      "name": "Blue",
+      "poster": "https://thoughtmaybe.com/content/Blue.jpg",
+      "background": "https://thoughtmaybe.com/content/Blue.jpg",
+      "description": "Half of all marine life has been lost in the last 40 years. By 2050 there will be more plastic in the sea than fish. The way the ocean is different to how we thought 100 years ago. We can no longer think of it as a place of resources, a dumping ground, immune to change or decline.Bluetakes us on a journey into the ocean realm, witnessing the critical moment of our time when the marine world is on the precipice. Passionate advocates for ocean preservation take us into their world where the story of the changing ocean unfolds. We meet those who are defending habitats, campaigning against exploitative commercial fishing, combating marine pollution, and fighting for the protection of keystone species.Bluecomes at a time where decisions made today will pave the legacy for what we leave behind for generations to come.",
+      "releaseInfo": "2017",
+      "genres": [
+        "agriculture",
+        "commercial fishing",
+        "environment",
+        "oceans",
+        "pollution",
+        "water"
+      ],
+      "director": [
+        "Karina Holden"
+      ]
+    },
+    {
+      "id": "tm:blue-gold-world-water-wars",
+      "type": "movie",
+      "name": "Blue Gold — World Water Wars",
+      "poster": "https://thoughtmaybe.com/content/BlueGold.jpg",
+      "background": "https://thoughtmaybe.com/content/BlueGold.jpg",
+      "description": "Across the globe, this culture is polluting, diverting, pumping and wasting fresh water at a crazy rate, as population grows and technology escalates. The rampant expansion of agriculture, housing and industry increase the demands for fresh water well beyond the limited supply, resulting in the desertification of the Earth. Corporate giants force developing countries to privatise their water supply for profit, Wall Street investors target desalination and mass bulk-water export schemes, while governments use water for economic and political gain. Military control of water emerges and a new geo-political map and power structure forms, setting the stage for global conflict over fresh water.Blue Goldfollows numerous worldwide examples of people fighting for their basic right to water, from court cases to United Nations conventions, to revised constitutions, to local protests at grade schools, to complete revolutions. A line is crossed when water is a commodity. Will you fight to stop it and protect it?",
+      "releaseInfo": "2009",
+      "genres": [
+        "agriculture",
+        "corporations",
+        "environment",
+        "water"
+      ],
+      "director": [
+        "Sam Bozzo"
+      ]
+    },
+    {
+      "id": "tm:bolivia-not-for-sale",
+      "type": "movie",
+      "name": "Bolivia — Not For Sale",
+      "poster": "https://thoughtmaybe.com/content/Bolivia-NotForSale.jpg",
+      "background": "https://thoughtmaybe.com/content/Bolivia-NotForSale.jpg",
+      "description": "In October 2003, an extraordinary uprising challenged the United States empire and kicked out President Gonzalo SÃ¡nchez de Lozada — a representative of the United States administration and transnational corporate interests. The people are calling for new forms of representation and organisation that question the portrayed notions of democracy and traditional political parties. In February 2003, a mutiny by the police against the imposition of income taxation on the poor to fulfil IMF demands, provoked the withdrawal of tax measures; throughout 2002, peasants revolted against the US-imposed ‘coca war’ — the coca-eradication plan — that would’ve destroyed the only possible source of survival for thousands of people. In 2001, the people of Cochabamba fought successfully against the a most outrageous form of privatisation — of the water supply — forcing the government to cancel the agreement with Bethell, a US-based company…",
+      "releaseInfo": "2003",
+      "genres": [
+        "corporations",
+        "globalisation",
+        "privatisation"
+      ],
+      "director": [
+        "Antonio FernÃ¡ndez"
+      ]
+    },
+    {
+      "id": "tm:bombies",
+      "type": "movie",
+      "name": "Bombies: The Secret War",
+      "poster": "https://thoughtmaybe.com/content/Bombies.jpg",
+      "background": "https://thoughtmaybe.com/content/Bombies.jpg",
+      "description": "Between 1964 and 1973 the United States conducted a secret war in Laos — dropping over 2 million tons of bombs, making it the most heavily bombed country in history. Millions of ‘cluster bombs’ did not explode when dropped, leaving the country massively contaminated with “bombies” which are as dangerous now from when they fell over 30 years ago.Bombiesdocuments unexploded cluster bombs through the personal experiences of a group of Laotians and foreigners who go about dismantling the bombs. These weapons are still a standard part of the United States military arsenal and were recently dropped in Kosovo, Afghanistan and Iraq…",
+      "releaseInfo": "2002",
+      "genres": [
+        "governments",
+        "military",
+        "war",
+        "war crimes",
+        "weapons"
+      ],
+      "director": [
+        "Jack Silberman"
+      ]
+    },
+    {
+      "id": "tm:bombing-brighton-the-plot-to-kill-thatcher",
+      "type": "movie",
+      "name": "Bombing Brighton: The Plot to Kill Thatcher",
+      "poster": "https://thoughtmaybe.com/content/BombingBrighton.jpg",
+      "background": "https://thoughtmaybe.com/content/BombingBrighton.jpg",
+      "description": "Bombing Brighton: The Plot to Kill Thatchertakes a look at the Brighton Bombing of 1984, where the Irish Republican Army (IRA) attempted to assassinate members of the British government, including the prime minister, Margaret Thatcher, at the Grand Hotel in Brighton, England. The film features the man who planted the bomb, Patrick Magee.",
+      "releaseInfo": "2024",
+      "genres": [
+        "assasination",
+        "colonisation",
+        "conspiracy",
+        "governments",
+        "history",
+        "resistance",
+        "violence"
+      ],
+      "director": [
+        "Guy King"
+      ]
+    },
+    {
+      "id": "tm:bones-of-the-forest",
+      "type": "movie",
+      "name": "Bones of the Forest",
+      "poster": "https://thoughtmaybe.com/content/BonesOfTheForest.jpg",
+      "background": "https://thoughtmaybe.com/content/BonesOfTheForest.jpg",
+      "description": "Bones of the Foresttraverses the topic of deforestation through the lens of colonisation. Told through the eyes of both native and non-native elders, current and former loggers, environmentalists and protesters, the film shows the experience of the sights and sounds of threatened forest, alongside the plight of loggers and their families. The voices at times coalesce–loggers made redundant due to over-foresting, align with environmental activists who wish to save the forest from the destruction of this culture.",
+      "releaseInfo": "1995",
+      "genres": [
+        "civilisation",
+        "colonisation",
+        "history",
+        "indigenous",
+        "logging"
+      ],
+      "director": [
+        "Heather Frise"
+      ]
+    },
+    {
+      "id": "tm:born-into-brothels",
+      "type": "movie",
+      "name": "Born Into Brothels",
+      "poster": "https://thoughtmaybe.com/content/BornIntoBrothels.jpg",
+      "background": "https://thoughtmaybe.com/content/BornIntoBrothels.jpg",
+      "description": "Amidst the supposed growing prosperity of India, there remains a dark underbelly of poverty.Born Into Brothelschronicles this through the lens of the red light district of Sonagchi, Calcutta. Film-maker Zana Briski inspires a group of children of the prostitutes of the area to photograph the most reluctant subjects of it. As the kids excel in their new found art, will this help them have a chance for a better life away from the miserable poverty that threatens to crush their dreams?",
+      "releaseInfo": "2004",
+      "genres": [
+        "children",
+        "poverty",
+        "prostitution",
+        "sex",
+        "slave labour"
+      ],
+      "director": [
+        "Ross Kauffman"
+      ]
+    },
+    {
+      "id": "tm:bottled-life",
+      "type": "movie",
+      "name": "Bottled Life",
+      "poster": "https://thoughtmaybe.com/content/BottledLife.jpg",
+      "background": "https://thoughtmaybe.com/content/BottledLife.jpg",
+      "description": "While the world’s population continues to grow at an alarming rate, water is becoming increasingly hoarded and scarce.Bottled Lifedocuments the trend of the privatisation of water by focusing on the NestlÃ© corporation that is hoarding water supplies for profit and control across the globe. NestlÃ© currently owns more than seventy of the world’s largest bottled water brands, with annual sales of water alone totalling some $10 billion. But the company does not want to discuss this business. Management refuses interviews. Information is not provided. What entails is a revealing look at the schemes and strategies of a powerful corporation, in a time of water crisis and extreme inequality.",
+      "releaseInfo": "2012",
+      "genres": [
+        "corporations",
+        "water"
+      ],
+      "director": [
+        "Urs Schnell"
+      ]
+    },
+    {
+      "id": "tm:bp-in-deep-water",
+      "type": "movie",
+      "name": "BP — In Deep Water",
+      "poster": "https://thoughtmaybe.com/content/BP-InDeepWater.jpg",
+      "background": "https://thoughtmaybe.com/content/BP-InDeepWater.jpg",
+      "description": "One year after BP’s Deepwater Horizon rig exploded spewed a massive 170 million gallons of oil into the Gulf of Mexico, BP claims victory — that most of the oil is gone. Investigative journalist Greg Palast sets off to test this claim in person and digs into the history of BP and similar incidents. Revealed is the corporations collusion with government, its strong political influence worldwide, along with the massive ecological impact of the BP explosion, set to last for decades…",
+      "releaseInfo": "2010",
+      "genres": [
+        "corporations",
+        "energy",
+        "environment",
+        "governments",
+        "oil"
+      ],
+      "director": [
+        "Greg Palast"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Rent for Sex",
+      "url": "https://cdn-su-703008nd.thoughtmay.be/0/items/s_RentForSex/RentForSex.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:rent-for-sex"
+      }
+    }
+  ]
+}

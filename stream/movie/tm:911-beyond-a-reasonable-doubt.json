@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "9/11 — Beyond A Reasonable Doubt",
+      "url": "https://cdn-su-801308ai.thoughtmay.be/22/items/s2_911-BeyondAReasonableDoubt/911BeyondAReasonableDoubt.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:911-beyond-a-reasonable-doubt"
+      }
+    }
+  ]
+}

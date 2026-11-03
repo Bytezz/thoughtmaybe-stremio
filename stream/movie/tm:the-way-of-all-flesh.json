@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Way of All Flesh",
+      "url": "https://cdn-su-903006nd.thoughtmay.be/0/items/s1_TheWayOfAllFlesh/TheWayOfAllFlesh.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-way-of-all-flesh"
+      }
+    }
+  ]
+}

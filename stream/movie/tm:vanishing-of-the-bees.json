@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Vanishing of The Bees",
+      "url": "https://cdn-su-702108nd.thoughtmay.be/0/items/s1_VanishingOfTheBees/VanishingOfTheBees.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:vanishing-of-the-bees"
+      }
+    }
+  ]
+}

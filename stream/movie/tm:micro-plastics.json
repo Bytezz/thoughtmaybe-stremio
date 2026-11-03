@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Micro-Plastics",
+      "url": "https://cdn-su-303008nd.thoughtmay.be/0/items/s1_MicroPlastics/Micro-Plastics.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:micro-plastics"
+      }
+    }
+  ]
+}

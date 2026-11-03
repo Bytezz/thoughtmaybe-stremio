@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Standing on Shaky Ground",
+      "url": "https://cdn-su-202006nd.thoughtmay.be/0/items/s1_StandingOnShakyGround-Taiwan/StandingOnShakyGround-Taiwan.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:standing-on-shaky-ground"
+      }
+    }
+  ]
+}

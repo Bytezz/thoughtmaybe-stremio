@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Virgin Trade",
+      "url": "https://cdn-su-803006nd.thoughtmay.be/0/items/s1_TheVirginTrade/TheVirginTrade.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-virgin-trade"
+      }
+    }
+  ]
+}

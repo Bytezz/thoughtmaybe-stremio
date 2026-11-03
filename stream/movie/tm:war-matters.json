@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "War Matters",
+      "url": "https://cdn-su-803008nd.thoughtmay.be/0/items/s1_WarMatters/WarMatters.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:war-matters"
+      }
+    }
+  ]
+}

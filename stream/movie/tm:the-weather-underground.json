@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Weather Underground",
+      "url": "https://cdn-su-902108nd.thoughtmay.be/0/items/s1_TheWeatherUnderground/TheWeatherUnderground.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-weather-underground"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Hardcore",
+      "url": "https://cdn-su-703008nd.thoughtmay.be/0/items/s_Hardcore/Hardcore.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:hardcore"
+      }
+    }
+  ]
+}

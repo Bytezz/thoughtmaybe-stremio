@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Feeling of Being Watched",
+      "url": "https://cdn-su-703006nd.thoughtmay.be/0/items/s_TheFeelingOfBeingWatched/TheFeelingOfBeingWatched.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-feeling-of-being-watched"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Great Hack",
+      "url": "https://cdn-su-403008nd.thoughtmay.be/0/items/s_TheGreatHack/TheGreatHack.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-great-hack"
+      }
+    }
+  ]
+}

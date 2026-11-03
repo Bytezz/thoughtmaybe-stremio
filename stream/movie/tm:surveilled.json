@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Surveilled",
+      "url": "https://cdn-su-002308ai.thoughtmay.be/33/items/s_Surveilled/Surveilled.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:surveilled"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Slim Hopes",
+      "url": "https://cdn-su-702108nd.thoughtmay.be/0/items/s_SlimHopes/SlimHopes.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:slim-hopes"
+      }
+    }
+  ]
+}

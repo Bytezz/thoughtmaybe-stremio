@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Into Eternity",
+      "url": "https://cdn-su-103008nd.thoughtmay.be/0/items/s2_IntoEternity/IntoEternity.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:into-eternity"
+      }
+    }
+  ]
+}

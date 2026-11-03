@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Our Generation",
+      "url": "https://cdn-su-502108nd.thoughtmay.be/0/items/s1_OurGeneration/OurGeneration.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:our-generation"
+      }
+    }
+  ]
+}

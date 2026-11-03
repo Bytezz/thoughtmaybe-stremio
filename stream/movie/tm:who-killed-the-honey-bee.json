@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Who Killed The Honey Bee?",
+      "url": "https://cdn-su-703008nd.thoughtmay.be/0/items/s1_WhoKilledTheHoneyBee/WhoKilledTheHoneyBee.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:who-killed-the-honey-bee"
+      }
+    }
+  ]
+}

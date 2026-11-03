@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Oklahoma City",
+      "url": "https://cdn-su-102106nd.thoughtmay.be/0/items/s_OklahomaCity/OklahomaCity.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:oklahoma-city"
+      }
+    }
+  ]
+}

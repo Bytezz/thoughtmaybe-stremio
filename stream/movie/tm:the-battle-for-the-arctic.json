@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Battle For The Arctic",
+      "url": "https://cdn-su-802106nd.thoughtmay.be/0/items/s1_TheBattleForTheArctic/TheBattleForTheArctic.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-battle-for-the-arctic"
+      }
+    }
+  ]
+}

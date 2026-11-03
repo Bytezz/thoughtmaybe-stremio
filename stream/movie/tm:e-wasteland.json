@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "e-Wasteland",
+      "url": "https://cdn-su-603006nd.thoughtmay.be/0/items/s1_EWasteland/EWasteland.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:e-wasteland"
+      }
+    }
+  ]
+}

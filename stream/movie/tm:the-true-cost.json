@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The True Cost",
+      "url": "https://cdn-su-502108nd.thoughtmay.be/0/items/s_TheTrueCost/TheTrueCost.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-true-cost"
+      }
+    }
+  ]
+}

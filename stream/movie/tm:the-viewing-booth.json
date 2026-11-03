@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Viewing Booth",
+      "url": "https://cdn-su-602106nd.thoughtmay.be/0/items/s_TheViewingBooth/TheViewingBooth.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-viewing-booth"
+      }
+    }
+  ]
+}

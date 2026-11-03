@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Story of Stuff",
+      "url": "https://cdn-su-503008nd.thoughtmay.be/0/items/s1_TheStoryOfStuff/TheStoryOfStuff.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-story-of-stuff"
+      }
+    }
+  ]
+}

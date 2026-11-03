@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Dark Money",
+      "url": "https://cdn-su-303008nd.thoughtmay.be/0/items/s_DarkMoney/DarkMoney.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:dark-money"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Dial H-I-S-T-O-R-Y",
+      "url": "https://cdn.thoughtmaybe.com/download/s1_DialHistory/DialHistory.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:dial-history"
+      }
+    }
+  ]
+}

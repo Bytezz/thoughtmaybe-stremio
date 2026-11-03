@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Charles Darwin and the Tree of Life",
+      "url": "https://cdn-su-402008nd.thoughtmay.be/0/items/s1_CharlesDarwinAndTheTreeOfLife/CharlesDarwinAndTheTreeOfLife.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:charles-darwin-and-the-tree-of-life"
+      }
+    }
+  ]
+}

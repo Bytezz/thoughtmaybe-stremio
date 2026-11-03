@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Spider’s Web",
+      "url": "https://cdn-su-403008nd.thoughtmay.be/0/items/s1_TheSpidersWeb/TheSpidersWeb.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-spiders-web"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Taser Tactics",
+      "url": "https://cdn-su-608209ai.thoughtmay.be/33/items/s_TaserTactics/TaserTactics.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:taser-tactics"
+      }
+    }
+  ]
+}

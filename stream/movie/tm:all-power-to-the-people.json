@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "All Power to the People",
+      "url": "https://cdn-su-104108ai.thoughtmay.be/21/items/s2_AllPowerToThePeople/AllPowerToThePeople.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:all-power-to-the-people"
+      }
+    }
+  ]
+}

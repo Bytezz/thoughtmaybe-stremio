@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Lies, Politics, and Democracy",
+      "url": "https://cdn-su-309106ai.thoughtmay.be/18/items/s_LiesPoliticsAndDemocracy/LiesPoliticsAndDemocracy.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:lies-politics-and-democracy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "American Radical",
+      "url": "https://cdn-su-207008ai.thoughtmay.be/25/items/s2_AmericanRadical/AmericanRadical-NormanFinkelstein.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:american-radical"
+      }
+    }
+  ]
+}

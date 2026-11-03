@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Brussels Business",
+      "url": "https://cdn-su-802106nd.thoughtmay.be/0/items/s1_TheBrusselsBusiness/TheBrusselsBusiness.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-brussels-business"
+      }
+    }
+  ]
+}

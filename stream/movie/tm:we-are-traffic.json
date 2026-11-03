@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "We Are Traffic",
+      "url": "https://cdn-su-402108nd.thoughtmay.be/0/items/s1_WeAreTraffic/WeAreTraffic.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:we-are-traffic"
+      }
+    }
+  ]
+}

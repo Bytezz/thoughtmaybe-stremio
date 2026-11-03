@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Atomic Footprints",
+      "url": "https://cdn-su-501008ai.thoughtmay.be/23/items/s2_AtomicFootprints/AtomicFootprints.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:atomic-footprints"
+      }
+    }
+  ]
+}

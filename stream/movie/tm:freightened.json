@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Freightened",
+      "url": "https://cdn-su-002106nd.thoughtmay.be/0/items/s_Freightened/Freightened.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:freightened"
+      }
+    }
+  ]
+}

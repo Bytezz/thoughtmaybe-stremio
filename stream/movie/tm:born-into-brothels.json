@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Born Into Brothels",
+      "url": "https://cdn-su-103006nd.thoughtmay.be/0/items/s1_BornIntoBrothels/BornIntoBrothels.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:born-into-brothels"
+      }
+    }
+  ]
+}

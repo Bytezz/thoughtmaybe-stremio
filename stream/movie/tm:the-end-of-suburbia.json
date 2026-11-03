@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The End of Suburbia",
+      "url": "https://cdn-su-502108nd.thoughtmay.be/0/items/s1_TheEndOfSuburbia/TheEndOfSuburbia.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-end-of-suburbia"
+      }
+    }
+  ]
+}

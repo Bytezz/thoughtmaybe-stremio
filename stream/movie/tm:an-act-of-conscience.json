@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "An Act of Conscience",
+      "url": "https://cdn-su-204106ai.thoughtmay.be/13/items/s2_AnActOfConscience/AnActOfConscience.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:an-act-of-conscience"
+      }
+    }
+  ]
+}

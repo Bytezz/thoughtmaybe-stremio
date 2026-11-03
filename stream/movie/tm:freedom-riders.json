@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Freedom Riders",
+      "url": "https://cdn-su-503006nd.thoughtmay.be/0/items/s2_FreedomRiders/FreedomRiders.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:freedom-riders"
+      }
+    }
+  ]
+}

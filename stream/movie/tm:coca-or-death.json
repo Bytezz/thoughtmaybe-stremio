@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Coca Or Death",
+      "url": "https://cdn-su-106108ai.thoughtmay.be/28/items/s4_CocaOrDeath/CocaOrDeath.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:coca-or-death"
+      }
+    }
+  ]
+}

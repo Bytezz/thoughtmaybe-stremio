@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Battle for the Reef",
+      "url": "https://cdn-su-806006ai.thoughtmay.be/16/items/s2_BattleForTheReef/BattleForTheReef.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:battle-for-the-reef"
+      }
+    }
+  ]
+}

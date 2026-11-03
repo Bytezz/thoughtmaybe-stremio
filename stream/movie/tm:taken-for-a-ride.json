@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Taken For A Ride",
+      "url": "https://cdn-su-303008nd.thoughtmay.be/0/items/s1_TakenForARide/TakenForARide.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:taken-for-a-ride"
+      }
+    }
+  ]
+}

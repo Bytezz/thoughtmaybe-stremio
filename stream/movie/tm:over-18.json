@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Over 18",
+      "url": "https://cdn-su-802006nd.thoughtmay.be/0/items/s_Over18/Over18.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:over-18"
+      }
+    }
+  ]
+}

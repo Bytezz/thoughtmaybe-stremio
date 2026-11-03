@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Do Not Resist",
+      "url": "https://cdn-su-102008nd.thoughtmay.be/0/items/s_DoNotResist/DoNotResist.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:do-not-resist"
+      }
+    }
+  ]
+}

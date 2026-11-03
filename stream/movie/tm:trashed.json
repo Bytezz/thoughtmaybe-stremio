@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Trashed",
+      "url": "https://cdn-su-603008nd.thoughtmay.be/0/items/s_Trashed/Trashed.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:trashed"
+      }
+    }
+  ]
+}

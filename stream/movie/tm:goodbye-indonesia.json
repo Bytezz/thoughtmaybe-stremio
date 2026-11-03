@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Goodbye Indonesia",
+      "url": "https://cdn-su-203006nd.thoughtmay.be/0/items/s1_GoodbyeIndonesia/GoodbyeIndonesia.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:goodbye-indonesia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Standard Operating Procedure",
+      "url": "https://cdn-su-902008nd.thoughtmay.be/0/items/s1_StandardOperatingProcedure/StandardOperatingProcedure.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:standard-operating-procedure"
+      }
+    }
+  ]
+}

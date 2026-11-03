@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Police on Trial",
+      "url": "https://cdn-su-703006nd.thoughtmay.be/0/items/s_PoliceOnTrial/PoliceOnTrial.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:police-on-trial"
+      }
+    }
+  ]
+}

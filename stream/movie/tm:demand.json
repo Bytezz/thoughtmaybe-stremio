@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Demand",
+      "url": "https://cdn-su-002008nd.thoughtmay.be/0/items/s1_Demand/Demand.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:demand"
+      }
+    }
+  ]
+}

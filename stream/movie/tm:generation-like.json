@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Generation Like",
+      "url": "https://cdn-su-102106nd.thoughtmay.be/0/items/s1_GenerationLike/GenerationLike.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:generation-like"
+      }
+    }
+  ]
+}

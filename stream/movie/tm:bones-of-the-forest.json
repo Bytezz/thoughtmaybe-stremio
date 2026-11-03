@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Bones of the Forest",
+      "url": "https://cdn-su-502006nd.thoughtmay.be/0/items/s_BonesOfTheForest/BonesOfTheForest.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:bones-of-the-forest"
+      }
+    }
+  ]
+}

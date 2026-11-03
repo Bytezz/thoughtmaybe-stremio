@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Wobblies",
+      "url": "https://cdn.thoughtmaybe.com/download/s1_TheWobblies/TheWobblies.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-wobblies"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "American Anarchist",
+      "url": "https://cdn-su-603008nd.thoughtmay.be/0/items/s_AmericanAnarchist/AmericanAnarchist.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:american-anarchist"
+      }
+    }
+  ]
+}

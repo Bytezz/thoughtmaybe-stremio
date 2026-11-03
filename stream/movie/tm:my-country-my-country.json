@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "My Country, My Country",
+      "url": "https://cdn-su-702106nd.thoughtmay.be/0/items/s1_MyCountryMyCountry/MyCountryMyCountry.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:my-country-my-country"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Concerning Violence",
+      "url": "https://cdn-su-902006nd.thoughtmay.be/0/items/s2_ConcerningViolence/ConcerningViolence.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:concerning-violence"
+      }
+    }
+  ]
+}

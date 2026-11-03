@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Killing For Wood",
+      "url": "https://cdn-su-403006nd.thoughtmay.be/0/items/s_KillingForWood/KillingForWood.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:killing-for-wood"
+      }
+    }
+  ]
+}

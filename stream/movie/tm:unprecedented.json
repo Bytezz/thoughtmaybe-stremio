@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Unprecedented",
+      "url": "https://cdn-su-302106nd.thoughtmay.be/0/items/s1_Unprecented/Unprecented.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:unprecedented"
+      }
+    }
+  ]
+}

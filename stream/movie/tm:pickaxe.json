@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "PickAxe",
+      "url": "https://cdn-su-302106nd.thoughtmay.be/0/items/s2_PickAxe/PickAxe.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:pickaxe"
+      }
+    }
+  ]
+}

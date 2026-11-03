@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Sex Slaves: An Account of Human Trafficking",
+      "url": "https://cdn-su-303008nd.thoughtmay.be/0/items/s1_SexSlaves/SexSlaves.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:sex-slaves"
+      }
+    }
+  ]
+}

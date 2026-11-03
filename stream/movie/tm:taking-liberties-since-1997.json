@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Taking Liberties Since 1997",
+      "url": "https://cdn-su-602108nd.thoughtmay.be/0/items/s1_TakingLibertiesSince1997/TakingLibertiesSince1997.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:taking-liberties-since-1997"
+      }
+    }
+  ]
+}

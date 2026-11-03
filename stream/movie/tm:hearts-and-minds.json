@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Hearts and Minds",
+      "url": "https://cdn-su-403008nd.thoughtmay.be/0/items/s1_HeartsAndMinds/HeartsAndMinds.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:hearts-and-minds"
+      }
+    }
+  ]
+}

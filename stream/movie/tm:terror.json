@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "(T)error",
+      "url": "https://cdn-su-502008nd.thoughtmay.be/0/items/s1_TError/TError.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:terror"
+      }
+    }
+  ]
+}

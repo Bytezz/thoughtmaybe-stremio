@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Rich Media, Poor Democracy",
+      "url": "https://cdn-su-402008nd.thoughtmay.be/0/items/s_RichMediaPoorDemocracy/RichMediaPoorDemocracy.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:rich-media-poor-democracy"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "MaÃ¯dan",
+      "url": "https://cdn-su-803008nd.thoughtmay.be/0/items/s_Maidan/Maidan.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:maidan"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "MLK/FBI",
+      "url": "https://cdn-su-901308ai.thoughtmay.be/15/items/s1_MLK-FBI/MLK-FBI.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:mlk-fbi"
+      }
+    }
+  ]
+}

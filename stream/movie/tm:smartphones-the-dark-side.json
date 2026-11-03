@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Smartphones — The Dark Side",
+      "url": "https://cdn-su-503008nd.thoughtmay.be/0/items/s_Smartphones-TheDarkSide/Smartphones-TheDarkSide.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:smartphones-the-dark-side"
+      }
+    }
+  ]
+}

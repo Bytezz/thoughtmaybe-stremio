@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Fight For Country",
+      "url": "https://cdn-su-702008nd.thoughtmay.be/0/items/s2_FightForCountry/FightForCountry.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:fight-for-country"
+      }
+    }
+  ]
+}

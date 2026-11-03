@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "h2Oil",
+      "url": "https://cdn-su-603008nd.thoughtmay.be/0/items/s1_h2Oil/h2Oil.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:h2oil"
+      }
+    }
+  ]
+}

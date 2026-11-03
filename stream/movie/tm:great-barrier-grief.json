@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Great Barrier Grief",
+      "url": "https://cdn-su-503006nd.thoughtmay.be/0/items/s1_GreatBarrierGrief/GreatBarrierGrief.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:great-barrier-grief"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Black Gold",
+      "url": "https://cdn.thoughtmaybe.com/download/s2_BlackGold/BlackGold.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:black-gold"
+      }
+    }
+  ]
+}

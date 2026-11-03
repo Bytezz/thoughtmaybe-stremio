@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "No Where Here in the Middle",
+      "url": "https://cdn-su-103006nd.thoughtmay.be/0/items/s1_NowhereHereInTheMiddle/NowhereHereInTheMiddle.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:no-where-here-in-the-middle"
+      }
+    }
+  ]
+}

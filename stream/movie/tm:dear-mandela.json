@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Dear Mandela",
+      "url": "https://cdn-su-903006nd.thoughtmay.be/0/items/s_DearMandela/DearMandela.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:dear-mandela"
+      }
+    }
+  ]
+}

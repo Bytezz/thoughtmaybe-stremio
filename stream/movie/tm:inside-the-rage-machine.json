@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Inside The Rage Machine",
+      "url": "https://cdn-su-901309ai.thoughtmay.be/7/items/s_InsideTheRageMachine/InsideTheRageMachine.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:inside-the-rage-machine"
+      }
+    }
+  ]
+}

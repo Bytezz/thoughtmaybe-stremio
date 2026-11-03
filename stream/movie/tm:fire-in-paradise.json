@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Fire in Paradise",
+      "url": "https://cdn-su-802006nd.thoughtmay.be/0/items/s_FireInParadise/FireInParadise.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:fire-in-paradise"
+      }
+    }
+  ]
+}

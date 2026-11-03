@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Cultures of Resistance",
+      "url": "https://cdn-su-107008ai.thoughtmay.be/22/items/s1_CulturesOfResistance/CulturesOfResistance_subs.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:cultures-of-resistance"
+      }
+    }
+  ]
+}

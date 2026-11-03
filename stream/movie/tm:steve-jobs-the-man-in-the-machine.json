@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Steve Jobs: The Man in the Machine",
+      "url": "https://cdn-su-402106nd.thoughtmay.be/0/items/s_SteveJobs-TheManInTheMachine/SteveJobs-TheManInTheMachine.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:steve-jobs-the-man-in-the-machine"
+      }
+    }
+  ]
+}

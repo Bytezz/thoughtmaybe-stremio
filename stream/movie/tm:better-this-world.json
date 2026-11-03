@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Better This World",
+      "url": "https://cdn-su-808006ai.thoughtmay.be/7/items/s2_BetterThisWorld/BetterThisWorld.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:better-this-world"
+      }
+    }
+  ]
+}

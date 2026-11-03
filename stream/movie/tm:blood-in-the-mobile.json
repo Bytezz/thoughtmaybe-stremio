@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Blood In The Mobile",
+      "url": "https://cdn-su-902008nd.thoughtmay.be/0/items/s1_BloodInTheMobile/BloodInTheMobile.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:blood-in-the-mobile"
+      }
+    }
+  ]
+}

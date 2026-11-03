@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Growing Up Female",
+      "url": "https://cdn-su-903008nd.thoughtmay.be/0/items/s_GrowingUpFemale/GrowingUpFemale.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:growing-up-female"
+      }
+    }
+  ]
+}

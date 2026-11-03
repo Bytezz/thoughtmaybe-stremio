@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Age of Transitions",
+      "url": "https://cdn-su-600108ai.thoughtmay.be/21/items/s2_AgeOfTransitions/AgeOfTransitions.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:age-of-transitions"
+      }
+    }
+  ]
+}

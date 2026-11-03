@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Life After Chernobyl",
+      "url": "https://cdn-su-302106nd.thoughtmay.be/0/items/s2_LifeAfterChernobyl/LifeAfterChernobyl.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:life-after-chernobyl"
+      }
+    }
+  ]
+}

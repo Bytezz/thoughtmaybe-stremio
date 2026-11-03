@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "In Pursuit of Silence",
+      "url": "https://cdn-su-803006nd.thoughtmay.be/0/items/s_InPursuitOfSilence/InPursuitOfSilence.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:in-pursuit-of-silence"
+      }
+    }
+  ]
+}

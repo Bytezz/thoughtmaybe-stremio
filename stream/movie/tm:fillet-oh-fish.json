@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Fillet-Oh!-Fish",
+      "url": "https://cdn-su-402006nd.thoughtmay.be/0/items/s1_FilletOhFish/FilletOhFish.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:fillet-oh-fish"
+      }
+    }
+  ]
+}

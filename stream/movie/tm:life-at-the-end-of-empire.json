@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "What A Way to Go: Life at the End of Empire",
+      "url": "https://cdn-su-302008nd.thoughtmay.be/0/items/s1_LifeAtTheEndOfEmpire/LifeAtTheEndOfEmpire.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:life-at-the-end-of-empire"
+      }
+    }
+  ]
+}

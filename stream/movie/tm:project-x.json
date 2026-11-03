@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Project X",
+      "url": "https://cdn-su-102108nd.thoughtmay.be/0/items/s_ProjectX/ProjectX.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:project-x"
+      }
+    }
+  ]
+}

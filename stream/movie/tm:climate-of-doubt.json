@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Climate of Doubt",
+      "url": "https://cdn-su-502106nd.thoughtmay.be/0/items/s2_ClimateOfDoubt/ClimateOfDoubt.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:climate-of-doubt"
+      }
+    }
+  ]
+}

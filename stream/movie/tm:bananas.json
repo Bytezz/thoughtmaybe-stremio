@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Bananas!*",
+      "url": "https://cdn-su-207008ai.thoughtmay.be/33/items/s2_Bananas/Bananas_subs.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:bananas"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Bentley Effect",
+      "url": "https://cdn-su-803008nd.thoughtmay.be/0/items/s_TheBentleyEffect/TheBentleyEffect.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-bentley-effect"
+      }
+    }
+  ]
+}

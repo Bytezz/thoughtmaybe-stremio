@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "At the Heart of Gold",
+      "url": "https://cdn-su-802008nd.thoughtmay.be/0/items/s1_AtTheHeartOfGold/AtTheHeartOfGold.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:at-the-heart-of-gold"
+      }
+    }
+  ]
+}

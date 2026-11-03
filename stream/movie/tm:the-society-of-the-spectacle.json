@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Society of the Spectacle",
+      "url": "https://cdn-su-402108nd.thoughtmay.be/0/items/s_TheSocietyOfTheSpectacle/TheSocietyOfTheSpectacle.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-society-of-the-spectacle"
+      }
+    }
+  ]
+}

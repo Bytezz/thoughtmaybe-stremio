@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Don’t talk to the Police",
+      "url": "https://cdn-su-703008nd.thoughtmay.be/0/items/s1_DontTalkToThePolice/DontTalkToThePolice.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:dont-talk-to-the-police"
+      }
+    }
+  ]
+}

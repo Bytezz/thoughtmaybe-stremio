@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Future of Food",
+      "url": "https://cdn-su-102106nd.thoughtmay.be/0/items/s1_TheFutureOfFood/TheFutureOfFood.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-future-of-food"
+      }
+    }
+  ]
+}

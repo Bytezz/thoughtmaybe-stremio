@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Stealing A Nation",
+      "url": "https://cdn-su-202108nd.thoughtmay.be/0/items/s1_StealingANation/StealingANation.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:stealing-a-nation"
+      }
+    }
+  ]
+}

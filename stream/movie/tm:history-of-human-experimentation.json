@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "History of Human Experimentation",
+      "url": "https://cdn-su-208008ai.thoughtmay.be/26/items/s1_HistoryOfHumanExperimentation/HistoryOfHumanExperimentation.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:history-of-human-experimentation"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Garbage Warrior",
+      "url": "https://cdn-su-802106nd.thoughtmay.be/0/items/s2_GarbageWarrior/GarbageWarrior.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:garbage-warrior"
+      }
+    }
+  ]
+}

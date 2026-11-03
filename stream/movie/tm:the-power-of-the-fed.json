@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Power of the Fed",
+      "url": "https://cdn-su-602008nd.thoughtmay.be/0/items/s_ThePowerOfTheFed/ThePowerOfTheFed.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-power-of-the-fed"
+      }
+    }
+  ]
+}

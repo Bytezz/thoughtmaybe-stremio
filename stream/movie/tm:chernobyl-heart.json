@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Chernobyl Heart",
+      "url": "https://cdn-su-704108ai.thoughtmay.be/2/items/s3_ChernobylHeart/ChernobylHeart.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:chernobyl-heart"
+      }
+    }
+  ]
+}

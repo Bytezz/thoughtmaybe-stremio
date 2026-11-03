@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Road to Terror",
+      "url": "https://cdn-su-809108ai.thoughtmay.be/18/items/s_TheRoadToTerror/TheRoadToTerror.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-road-to-terror"
+      }
+    }
+  ]
+}

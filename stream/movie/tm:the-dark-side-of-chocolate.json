@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Dark Side of Chocolate",
+      "url": "https://cdn-su-102008nd.thoughtmay.be/0/items/s1_TheDarksideOfChocolate/TheDarksideOfChocolate.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-dark-side-of-chocolate"
+      }
+    }
+  ]
+}

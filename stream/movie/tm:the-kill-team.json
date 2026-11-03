@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Kill Team",
+      "url": "https://cdn.thoughtmaybe.com/download/s_TheKillTeam/TheKillTeam.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-kill-team"
+      }
+    }
+  ]
+}

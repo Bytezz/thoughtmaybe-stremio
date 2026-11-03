@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Reviving Ophelia",
+      "url": "https://cdn-su-702008nd.thoughtmay.be/0/items/s_RevivingOphelia/RevivingOphelia.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:reviving-ophelia"
+      }
+    }
+  ]
+}

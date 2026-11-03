@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "RiverBlue",
+      "url": "https://cdn-su-602106nd.thoughtmay.be/0/items/s_RiverBlue/RiverBlue.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:riverblue"
+      }
+    }
+  ]
+}

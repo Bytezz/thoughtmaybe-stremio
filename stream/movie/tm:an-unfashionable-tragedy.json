@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "An Unfashionable Tragedy",
+      "url": "https://cdn-su-405106ai.thoughtmay.be/11/items/s3_AnUnfashionableTragedy/AnUnfashionableTragedy.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:an-unfashionable-tragedy"
+      }
+    }
+  ]
+}

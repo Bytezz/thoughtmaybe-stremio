@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Fashion Victims",
+      "url": "https://cdn-su-003008nd.thoughtmay.be/0/items/s1_FashionVictims/FashionVictims.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:fashion-victims"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Net — Unabomber, LSD and The Internet",
+      "url": "https://cdn-su-602108nd.thoughtmay.be/0/items/s1_TheNet-UnabomberLSDAndTheInternet/TheNet-UnabomberLSDAndTheInternet.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-net"
+      }
+    }
+  ]
+}

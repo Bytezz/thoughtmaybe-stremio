@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "13th",
+      "url": "https://cdn-su-903008nd.thoughtmay.be/0/items/s_13th/13th.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:13th"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Lessons in Dissent",
+      "url": "https://cdn-su-602008nd.thoughtmay.be/0/items/s_LessonsInDissent/LessonsInDissent.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:lessons-in-dissent"
+      }
+    }
+  ]
+}

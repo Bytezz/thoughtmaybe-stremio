@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Fire and Water",
+      "url": "https://cdn-su-703006nd.thoughtmay.be/0/items/s2_FireAndWater/FireAndWater.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:fire-and-water"
+      }
+    }
+  ]
+}

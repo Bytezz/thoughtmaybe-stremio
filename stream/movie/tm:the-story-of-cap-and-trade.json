@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Story of Cap and Trade",
+      "url": "https://cdn-su-303008nd.thoughtmay.be/0/items/s1_TheStoryOfCapAndTrade/TheStoryOfCapAndTrade.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-story-of-cap-and-trade"
+      }
+    }
+  ]
+}

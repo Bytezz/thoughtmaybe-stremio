@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Murdoch’s Scandal",
+      "url": "https://cdn-su-202006nd.thoughtmay.be/0/items/s1_MurdochsScandal/MurdochsScandal.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:murdochs-scandal"
+      }
+    }
+  ]
+}

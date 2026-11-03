@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Poison Fire",
+      "url": "https://cdn-su-902006nd.thoughtmay.be/0/items/s1_PoisonFire/PoisonFire.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:poison-fire"
+      }
+    }
+  ]
+}

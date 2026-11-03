@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Disobedience",
+      "url": "https://cdn-su-602108nd.thoughtmay.be/0/items/s_Disobedience/Disobedience.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:disobedience"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Big Dig",
+      "url": "https://cdn-su-502008nd.thoughtmay.be/0/items/s1_TheBigDig/TheBigDig.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-big-dig"
+      }
+    }
+  ]
+}

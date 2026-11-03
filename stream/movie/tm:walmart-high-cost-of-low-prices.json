@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Walmart — High Cost of Low Prices",
+      "url": "https://cdn-su-702106nd.thoughtmay.be/0/items/s1_Walmart-TheHighCostOfLowPrices/Walmart-TheHighCostOfLowPrices.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:walmart-high-cost-of-low-prices"
+      }
+    }
+  ]
+}

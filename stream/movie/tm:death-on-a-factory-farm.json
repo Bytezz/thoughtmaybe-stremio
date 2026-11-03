@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Death on a Factory Farm",
+      "url": "https://cdn-su-802006nd.thoughtmay.be/0/items/s1_DeathOnAFactoryFarm/DeathOnAFactoryFarm.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:death-on-a-factory-farm"
+      }
+    }
+  ]
+}

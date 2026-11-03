@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Unwritten Future",
+      "url": "https://cdn-su-302008nd.thoughtmay.be/0/items/s1_UnwrittenFuture/UnwrittenFuture.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:unwritten-future"
+      }
+    }
+  ]
+}

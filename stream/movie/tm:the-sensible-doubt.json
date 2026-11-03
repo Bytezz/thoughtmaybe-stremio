@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Sensible Doubt",
+      "url": "https://cdn-su-103006nd.thoughtmay.be/0/items/s1_TheSensibleDoubt/TheSensibleDoubt.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-sensible-doubt"
+      }
+    }
+  ]
+}

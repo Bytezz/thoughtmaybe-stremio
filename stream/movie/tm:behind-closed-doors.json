@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Behind Closed Doors",
+      "url": "https://cdn-su-803008nd.thoughtmay.be/0/items/s_BehindClosedDoors/BehindClosedDoors.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:behind-closed-doors"
+      }
+    }
+  ]
+}

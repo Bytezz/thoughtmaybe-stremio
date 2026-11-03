@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Digital Disconnect",
+      "url": "https://cdn-su-403008nd.thoughtmay.be/0/items/s_DigitalDisconnect/DigitalDisconnect.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:digital-disconnect"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Requiem for the American Dream",
+      "url": "https://cdn-su-802106nd.thoughtmay.be/0/items/s_RequiemForTheAmericanDream/RequiemForTheAmericanDream.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:requiem-for-the-american-dream"
+      }
+    }
+  ]
+}

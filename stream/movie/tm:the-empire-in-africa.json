@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Empire In Africa",
+      "url": "https://cdn-su-102108nd.thoughtmay.be/0/items/s1_TheEmpireInAfrica/TheEmpireInAfrica.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-empire-in-africa"
+      }
+    }
+  ]
+}

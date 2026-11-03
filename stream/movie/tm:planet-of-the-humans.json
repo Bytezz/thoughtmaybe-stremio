@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Planet of the Humans",
+      "url": "https://cdn-su-102106nd.thoughtmay.be/0/items/s_PlanetOfTheHumans/PlanetOfTheHumans.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:planet-of-the-humans"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "I Got a Monster",
+      "url": "https://cdn-su-602308ai.thoughtmay.be/4/items/s_IGotAMonster/IGotAMonster.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:i-got-a-monster"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "An Apology to Elephants",
+      "url": "https://cdn-su-505106ai.thoughtmay.be/15/items/s2_AnApologyToElephants/AnApologyToElephants.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:an-apology-to-elephants"
+      }
+    }
+  ]
+}

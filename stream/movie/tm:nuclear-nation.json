@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Nuclear Nation",
+      "url": "https://cdn-su-601308ai.thoughtmay.be/18/items/s_NuclearNation/NuclearNation.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:nuclear-nation"
+      }
+    }
+  ]
+}

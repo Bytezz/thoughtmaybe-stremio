@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Square",
+      "url": "https://cdn.thoughtmaybe.com/download/s_TheSquare/TheSquare.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-square"
+      }
+    }
+  ]
+}

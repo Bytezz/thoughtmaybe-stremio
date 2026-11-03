@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Park Avenue: Money, Power & The American Dream",
+      "url": "https://cdn-su-603008nd.thoughtmay.be/0/items/s1_ParkAvenue-TheAmericanDream/ParkAvenue-TheAmericanDream.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:park-avenue"
+      }
+    }
+  ]
+}

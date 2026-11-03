@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Truth Behind the Click",
+      "url": "https://cdn-su-103006nd.thoughtmay.be/0/items/s_TheTruthBehindTheClick/TheTruthBehindTheClick.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-truth-behind-the-click"
+      }
+    }
+  ]
+}

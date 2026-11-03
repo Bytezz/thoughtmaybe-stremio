@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "High Tech, Low Life",
+      "url": "https://cdn-su-902108nd.thoughtmay.be/0/items/s1_HighTechLowLife/HighTechLowLife.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:high-tech-low-life"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Zero Days",
+      "url": "https://cdn-su-102006nd.thoughtmay.be/0/items/s_ZeroDays/ZeroDays.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:zero-days"
+      }
+    }
+  ]
+}

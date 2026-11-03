@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Manufacturing Dissent",
+      "url": "https://cdn-su-903006nd.thoughtmay.be/0/items/s1_ManufacturingDissent/ManufacturingDissent.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:manufacturing-dissent"
+      }
+    }
+  ]
+}

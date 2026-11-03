@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Last Mountain",
+      "url": "https://cdn-su-702006nd.thoughtmay.be/0/items/s1_TheLastMountain/TheLastMountain.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-last-mountain"
+      }
+    }
+  ]
+}

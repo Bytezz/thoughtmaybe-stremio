@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Dirty Money",
+      "url": "https://cdn-su-002108nd.thoughtmay.be/0/items/s1_DirtyMoney/DirtyMoney.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:dirty-money"
+      }
+    }
+  ]
+}

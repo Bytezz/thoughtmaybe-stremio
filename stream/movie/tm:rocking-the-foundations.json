@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Rocking The Foundations",
+      "url": "https://cdn-su-002008nd.thoughtmay.be/0/items/s2_RockingTheFoundations/RockingTheFoundations.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:rocking-the-foundations"
+      }
+    }
+  ]
+}

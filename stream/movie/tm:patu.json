@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Patu!",
+      "url": "https://cdn-su-602106nd.thoughtmay.be/0/items/s1_Patu/Patu.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:patu"
+      }
+    }
+  ]
+}

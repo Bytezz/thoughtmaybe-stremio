@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Bullshit",
+      "url": "https://cdn-su-303006nd.thoughtmay.be/0/items/s2_Bullshit/Bullshit.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:bullshit"
+      }
+    }
+  ]
+}

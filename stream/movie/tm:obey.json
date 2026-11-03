@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Obey",
+      "url": "https://cdn-su-303006nd.thoughtmay.be/0/items/s1_Obey/Obey.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:obey"
+      }
+    }
+  ]
+}

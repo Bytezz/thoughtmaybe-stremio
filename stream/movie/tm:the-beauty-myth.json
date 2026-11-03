@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Beauty Myth",
+      "url": "https://cdn-su-603008nd.thoughtmay.be/0/items/s_TheBeautyMyth/TheBeautyMyth.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-beauty-myth"
+      }
+    }
+  ]
+}

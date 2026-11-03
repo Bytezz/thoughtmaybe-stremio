@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Heroes",
+      "url": "https://cdn-su-402008nd.thoughtmay.be/0/items/s1_Heroes/Heroes.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:heroes"
+      }
+    }
+  ]
+}

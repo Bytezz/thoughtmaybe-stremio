@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Quants: The Alchemists of Wall Street",
+      "url": "https://cdn-su-603008nd.thoughtmay.be/0/items/s_TheAlchemistsOfWallStreet/TheAlchemistsOfWallStreet.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:quants-the-alchemists-of-wall-street"
+      }
+    }
+  ]
+}

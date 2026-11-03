@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "One British Family",
+      "url": "https://cdn-su-602106nd.thoughtmay.be/0/items/s1_OneBritishFamily/OneBritishFamily.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:one-british-family"
+      }
+    }
+  ]
+}

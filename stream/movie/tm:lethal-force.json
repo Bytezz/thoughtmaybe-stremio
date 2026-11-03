@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Lethal Force",
+      "url": "https://cdn-su-003006nd.thoughtmay.be/0/items/s1_LethalForce/LethalForce.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:lethal-force"
+      }
+    }
+  ]
+}

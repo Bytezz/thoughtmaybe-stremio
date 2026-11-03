@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Snowden’s Great Escape",
+      "url": "https://cdn-su-202008nd.thoughtmay.be/0/items/s_SnowdensGreatEscape/SnowdensGreatEscape.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:snowdens-great-escape"
+      }
+    }
+  ]
+}

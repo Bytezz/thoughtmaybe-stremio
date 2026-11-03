@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Real CSI",
+      "url": "https://cdn-su-503006nd.thoughtmay.be/0/items/s1_TheRealCSI/TheRealCSI.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-real-csi"
+      }
+    }
+  ]
+}

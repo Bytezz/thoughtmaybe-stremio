@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "One Hit Leads to Another",
+      "url": "https://cdn-su-403006nd.thoughtmay.be/0/items/s_OneHitLeadsToAnother/OneHitLeadsToAnother.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:one-hit-leads-to-another"
+      }
+    }
+  ]
+}

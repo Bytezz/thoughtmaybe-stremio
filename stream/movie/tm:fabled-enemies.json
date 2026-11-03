@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Fabled Enemies",
+      "url": "https://cdn-su-602108nd.thoughtmay.be/0/items/s2_FabledEnemies/FabledEnemies.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:fabled-enemies"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Robot Wars",
+      "url": "https://cdn-su-303008nd.thoughtmay.be/0/items/s1_RobotWars/RobotWars.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:robot-wars"
+      }
+    }
+  ]
+}

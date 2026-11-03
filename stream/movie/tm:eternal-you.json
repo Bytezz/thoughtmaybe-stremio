@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Eternal You",
+      "url": "https://cdn-su-308106ai.thoughtmay.be/16/items/s_EternalYou/EternalYou.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:eternal-you"
+      }
+    }
+  ]
+}

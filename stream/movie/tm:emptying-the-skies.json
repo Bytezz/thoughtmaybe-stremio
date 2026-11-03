@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Emptying the Skies",
+      "url": "https://cdn-su-102108nd.thoughtmay.be/0/items/s_EmptyingTheSkies/EmptyingTheSkies.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:emptying-the-skies"
+      }
+    }
+  ]
+}

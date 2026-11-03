@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Line",
+      "url": "https://cdn-su-402106nd.thoughtmay.be/0/items/s_TheLine/TheLine.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-line"
+      }
+    }
+  ]
+}

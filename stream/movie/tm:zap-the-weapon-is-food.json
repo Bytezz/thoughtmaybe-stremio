@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Zap! The Weapon Is Food",
+      "url": "https://cdn-su-602106nd.thoughtmay.be/0/items/s1_Zap-TheWeaponIsFood/Zap-TheWeaponIsFood.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:zap-the-weapon-is-food"
+      }
+    }
+  ]
+}

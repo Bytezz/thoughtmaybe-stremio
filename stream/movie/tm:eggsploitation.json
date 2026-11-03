@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Eggsploitation",
+      "url": "https://cdn-su-102106nd.thoughtmay.be/0/items/s_Eggsploitation/Eggsploitation.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:eggsploitation"
+      }
+    }
+  ]
+}

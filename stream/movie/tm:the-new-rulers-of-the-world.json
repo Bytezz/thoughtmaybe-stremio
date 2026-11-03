@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The New Rulers of The World",
+      "url": "https://cdn-su-502106nd.thoughtmay.be/0/items/s1_TheNewRulersOfTheWorld/TheNewRulersOfTheWorld.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-new-rulers-of-the-world"
+      }
+    }
+  ]
+}

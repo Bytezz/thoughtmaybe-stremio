@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Pipe",
+      "url": "https://cdn-su-202006nd.thoughtmay.be/0/items/s1_ThePipe/ThePipe.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-pipe"
+      }
+    }
+  ]
+}

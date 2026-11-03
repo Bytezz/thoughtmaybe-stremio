@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Truth According to Wikipedia",
+      "url": "https://cdn-su-102108nd.thoughtmay.be/0/items/s1_TheTruthAccordingToWikipedia/TheTruthAccordingToWikipedia.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-truth-according-to-wikipedia"
+      }
+    }
+  ]
+}

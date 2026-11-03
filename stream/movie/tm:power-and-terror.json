@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Power and Terror: Noam Chomsky in Our Times",
+      "url": "https://cdn-su-603008nd.thoughtmay.be/0/items/s2_PowerAndTerror/PowerAndTerror.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:power-and-terror"
+      }
+    }
+  ]
+}

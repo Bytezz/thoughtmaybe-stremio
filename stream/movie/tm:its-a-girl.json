@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "It’s a Girl",
+      "url": "https://cdn-su-702106nd.thoughtmay.be/0/items/s_ItsAGirl/ItsAGirl.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:its-a-girl"
+      }
+    }
+  ]
+}

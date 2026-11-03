@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Tales From The G20",
+      "url": "https://cdn-su-902008nd.thoughtmay.be/0/items/s1_TalesFromTheG20/TalesFromTheG20.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:tales-from-the-g20"
+      }
+    }
+  ]
+}

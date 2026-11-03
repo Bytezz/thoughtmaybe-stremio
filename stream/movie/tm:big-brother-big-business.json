@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Big Brother, Big Business",
+      "url": "https://cdn-su-506006ai.thoughtmay.be/21/items/s2_BigBrotherBigBusiness/BigBrotherBigBusiness.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:big-brother-big-business"
+      }
+    }
+  ]
+}

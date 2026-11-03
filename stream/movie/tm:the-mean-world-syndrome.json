@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Mean-World Syndrome",
+      "url": "https://cdn-su-103008nd.thoughtmay.be/0/items/s_TheMeanWorldSyndrome/TheMeanWorldSyndrome.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-mean-world-syndrome"
+      }
+    }
+  ]
+}

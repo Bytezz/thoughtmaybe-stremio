@@ -1,0 +1,30 @@
+{
+  "id": "page.codeberg.bytez.thoughtmaybe",
+  "version": "1.0.0",
+  "name": "Thought Maybe Library",
+  "description": "A collection of documentary films about society, politics, and culture from thoughtmaybe.com",
+  "types": [
+    "movie",
+    "series"
+  ],
+  "resources": [
+    "catalog",
+    "meta",
+    "stream"
+  ],
+  "idPrefixes": [
+    "tm:"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "top",
+      "name": "Thought Maybe Top Docs"
+    },
+    {
+      "type": "series",
+      "id": "top",
+      "name": "Thought Maybe Top Series"
+    }
+  ]
+}

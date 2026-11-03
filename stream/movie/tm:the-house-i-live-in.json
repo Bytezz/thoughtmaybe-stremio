@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The House I Live In",
+      "url": "https://cdn-su-002108nd.thoughtmay.be/0/items/s_TheHouseILiveIn/TheHouseILiveIn.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-house-i-live-in"
+      }
+    }
+  ]
+}

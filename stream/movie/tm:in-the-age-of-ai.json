@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "In the Age of AI",
+      "url": "https://cdn-su-403008nd.thoughtmay.be/0/items/s1_InTheAgeOfAI/InTheAgeOfAI.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:in-the-age-of-ai"
+      }
+    }
+  ]
+}

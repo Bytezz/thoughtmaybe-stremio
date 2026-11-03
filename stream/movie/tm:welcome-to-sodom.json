@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Welcome to Sodom",
+      "url": "https://cdn-su-903006nd.thoughtmay.be/0/items/s_WelcomeToSodom/WelcomeToSodom.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:welcome-to-sodom"
+      }
+    }
+  ]
+}

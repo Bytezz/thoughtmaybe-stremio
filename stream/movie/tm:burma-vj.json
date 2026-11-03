@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Burma VJ",
+      "url": "https://cdn-su-902108nd.thoughtmay.be/0/items/s2_BurmaVJ/BurmaVJ.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:burma-vj"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Trinity and Beyond: The Atomic Bomb Movie",
+      "url": "https://cdn-su-603008nd.thoughtmay.be/0/items/s1_TrinityAndBeyond/TrinityAndBeyond.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:trinity-and-beyond"
+      }
+    }
+  ]
+}

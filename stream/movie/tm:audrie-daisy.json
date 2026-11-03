@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Audrie & Daisy",
+      "url": "https://cdn-su-902006nd.thoughtmay.be/0/items/s_AudrieAndDaisy/AudrieAndDaisy.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:audrie-daisy"
+      }
+    }
+  ]
+}

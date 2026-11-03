@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Great White Hoax",
+      "url": "https://cdn-su-903006nd.thoughtmay.be/0/items/s_TheGreatWhiteHoax/TheGreatWhiteHoax.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-great-white-hoax"
+      }
+    }
+  ]
+}

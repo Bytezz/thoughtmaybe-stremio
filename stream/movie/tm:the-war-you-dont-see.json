@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The War You Don’t See",
+      "url": "https://cdn-su-202008nd.thoughtmay.be/0/items/s1_TheWarYouDontSee/TheWarYouDontSee.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-war-you-dont-see"
+      }
+    }
+  ]
+}

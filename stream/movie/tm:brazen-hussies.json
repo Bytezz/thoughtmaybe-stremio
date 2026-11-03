@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Brazen Hussies",
+      "url": "https://cdn-su-502006nd.thoughtmay.be/0/items/s_BrazenHussies/BrazenHussies.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:brazen-hussies"
+      }
+    }
+  ]
+}

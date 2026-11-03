@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Beyond Treason",
+      "url": "https://cdn-su-801308ai.thoughtmay.be/16/items/s2_BeyondTreason/BeyondTreason.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:beyond-treason"
+      }
+    }
+  ]
+}

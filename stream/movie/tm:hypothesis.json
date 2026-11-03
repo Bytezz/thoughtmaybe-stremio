@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Hypothesis",
+      "url": "https://cdn-su-103006nd.thoughtmay.be/0/items/s1_Hypothesis/Hypothesis.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:hypothesis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Bombing of Wall Street",
+      "url": "https://cdn-su-702106nd.thoughtmay.be/0/items/s_TheBombingOfWallStreet/TheBombingOfWallStreet.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-bombing-of-wall-street"
+      }
+    }
+  ]
+}

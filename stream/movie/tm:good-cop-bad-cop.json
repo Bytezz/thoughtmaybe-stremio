@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Good Cop, Bad Cop",
+      "url": "https://cdn-su-902106nd.thoughtmay.be/0/items/s1_GoodCopBadCop/GoodCopBadCop.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:good-cop-bad-cop"
+      }
+    }
+  ]
+}

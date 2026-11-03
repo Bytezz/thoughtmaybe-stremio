@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Plastic Wars",
+      "url": "https://cdn-su-802106nd.thoughtmay.be/0/items/s_PlasticWars/PlasticWars.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:plastic-wars"
+      }
+    }
+  ]
+}

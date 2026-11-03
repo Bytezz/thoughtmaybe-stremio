@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "9/11: I Was There",
+      "url": "https://cdn-su-402008nd.thoughtmay.be/0/items/s_911-IWasThere/911-IWasThere.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:911-i-was-there"
+      }
+    }
+  ]
+}

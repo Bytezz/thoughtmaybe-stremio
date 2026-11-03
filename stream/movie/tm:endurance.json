@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Endurance",
+      "url": "https://cdn-su-503008nd.thoughtmay.be/0/items/s_Endurance/Endurance.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:endurance"
+      }
+    }
+  ]
+}

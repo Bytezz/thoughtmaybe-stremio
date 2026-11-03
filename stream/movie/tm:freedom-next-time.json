@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Freedom Next Time",
+      "url": "https://cdn-su-703008nd.thoughtmay.be/0/items/s1_FreedomNextTime/FreedomNextTime.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:freedom-next-time"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Business of Disaster",
+      "url": "https://cdn-su-301309ai.thoughtmay.be/0/items/s_BusinessOfDisaster/BusinessOfDisaster.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:business-of-disaster"
+      }
+    }
+  ]
+}

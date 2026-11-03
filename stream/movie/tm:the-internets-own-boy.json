@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Internet’s Own Boy",
+      "url": "https://cdn-su-602108nd.thoughtmay.be/0/items/s1_TheInternetsOwnBoy/TheInternetsOwnBoy.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-internets-own-boy"
+      }
+    }
+  ]
+}

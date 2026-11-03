@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Sugar Coated",
+      "url": "https://cdn-su-202106nd.thoughtmay.be/0/items/s_SugarCoated/SugarCoated.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:sugar-coated"
+      }
+    }
+  ]
+}

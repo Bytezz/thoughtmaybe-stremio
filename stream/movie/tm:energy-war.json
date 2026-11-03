@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Energy War",
+      "url": "https://cdn-su-203006nd.thoughtmay.be/0/items/s2_EnergyWar/EnergyWar.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:energy-war"
+      }
+    }
+  ]
+}

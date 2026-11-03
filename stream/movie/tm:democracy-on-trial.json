@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Democracy on Trial",
+      "url": "https://cdn-su-901008ai.thoughtmay.be/3/items/s_DemocracyOnTrial/DemocracyOnTrial.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:democracy-on-trial"
+      }
+    }
+  ]
+}

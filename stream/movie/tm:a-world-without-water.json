@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "A World Without Water",
+      "url": "https://cdn-su-100108ai.thoughtmay.be/3/items/s2_AWorldWithoutWater/AWorldWithoutWater.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:a-world-without-water"
+      }
+    }
+  ]
+}

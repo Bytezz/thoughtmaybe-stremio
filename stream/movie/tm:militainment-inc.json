@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Militainment Inc.",
+      "url": "https://cdn-su-502008nd.thoughtmay.be/0/items/s1_MilitainmentInc/MilitainmentInc.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:militainment-inc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Poison Squad",
+      "url": "https://cdn-su-503008nd.thoughtmay.be/0/items/s_ThePoisonSquad/ThePoisonSquad.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-poison-squad"
+      }
+    }
+  ]
+}

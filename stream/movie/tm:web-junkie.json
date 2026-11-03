@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Web Junkie",
+      "url": "https://cdn-su-908106ai.thoughtmay.be/13/items/s1_WebJunkie/WebJunkie.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:web-junkie"
+      }
+    }
+  ]
+}

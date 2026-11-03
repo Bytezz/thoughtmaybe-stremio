@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Janes",
+      "url": "https://cdn-su-706006ai.thoughtmay.be/26/items/s2_TheJanes/TheJanes.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-janes"
+      }
+    }
+  ]
+}

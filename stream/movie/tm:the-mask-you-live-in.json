@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Mask You Live In",
+      "url": "https://cdn-su-702006nd.thoughtmay.be/0/items/s_TheMaskYouLiveIn/TheMaskYouLiveIn.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-mask-you-live-in"
+      }
+    }
+  ]
+}

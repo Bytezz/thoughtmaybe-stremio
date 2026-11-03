@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Killing Screens",
+      "url": "https://cdn-su-403008nd.thoughtmay.be/0/items/s_TheKillingScreens/TheKillingScreens.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-killing-screens"
+      }
+    }
+  ]
+}

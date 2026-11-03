@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Rise of Jordan Peterson",
+      "url": "https://cdn-su-102008nd.thoughtmay.be/0/items/s_TheRiseOfJordanPeterson/TheRiseOfJordanPeterson.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-rise-of-jordan-peterson"
+      }
+    }
+  ]
+}

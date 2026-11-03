@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Dirty Energy",
+      "url": "https://cdn-su-903008nd.thoughtmay.be/0/items/s_DirtyEnergy/DirtyEnergy.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:dirty-energy"
+      }
+    }
+  ]
+}

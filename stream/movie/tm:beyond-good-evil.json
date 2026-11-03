@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Beyond Good & Evil",
+      "url": "https://cdn-su-403008nd.thoughtmay.be/0/items/s_BeyondGoodAndEvil/BeyondGoodAndEvil.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:beyond-good-evil"
+      }
+    }
+  ]
+}

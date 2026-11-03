@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "War Made Easy",
+      "url": "https://cdn-su-002106nd.thoughtmay.be/0/items/s1_WarMadeEasy/WarMadeEasy.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:war-made-easy"
+      }
+    }
+  ]
+}

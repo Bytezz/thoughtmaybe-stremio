@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "9/11 — Ten Years Later",
+      "url": "https://cdn-su-600108ai.thoughtmay.be/11/items/s2_911-10YearsLater/9-11_10YearsLater.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:911-ten-years-later"
+      }
+    }
+  ]
+}

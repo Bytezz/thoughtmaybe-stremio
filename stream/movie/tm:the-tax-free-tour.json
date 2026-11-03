@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Tax Free Tour",
+      "url": "https://cdn-su-503006nd.thoughtmay.be/0/items/s1_TheTaxFreeTour/TheTaxFreeTour.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-tax-free-tour"
+      }
+    }
+  ]
+}

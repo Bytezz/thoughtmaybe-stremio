@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "What Would Jesus Buy",
+      "url": "https://cdn-su-202106nd.thoughtmay.be/0/items/s1_WhatWouldJesusBuy/WhatWouldJesusBuy.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:what-would-jesus-buy"
+      }
+    }
+  ]
+}

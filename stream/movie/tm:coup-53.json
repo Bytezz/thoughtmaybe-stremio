@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Coup 53",
+      "url": "https://cdn-su-002108nd.thoughtmay.be/0/items/s_Coup53/Coup53.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:coup-53"
+      }
+    }
+  ]
+}

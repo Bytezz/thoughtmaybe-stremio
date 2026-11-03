@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Spitting Game",
+      "url": "https://cdn-su-403008nd.thoughtmay.be/0/items/s_SpittingGame/SpittingGame.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:spitting-game"
+      }
+    }
+  ]
+}

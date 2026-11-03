@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Bombies: The Secret War",
+      "url": "https://cdn-su-908006ai.thoughtmay.be/34/items/s2_Bombies/Bombies.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:bombies"
+      }
+    }
+  ]
+}

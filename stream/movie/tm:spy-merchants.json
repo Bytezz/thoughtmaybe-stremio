@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Spy Merchants",
+      "url": "https://cdn-su-202008nd.thoughtmay.be/0/items/s_SpyMerchants/SpyMerchants.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:spy-merchants"
+      }
+    }
+  ]
+}

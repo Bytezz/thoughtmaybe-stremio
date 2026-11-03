@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Sky Is Pink",
+      "url": "https://cdn-su-502006nd.thoughtmay.be/0/items/s1_TheSkyIsPink/TheSkyIsPink.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-sky-is-pink"
+      }
+    }
+  ]
+}

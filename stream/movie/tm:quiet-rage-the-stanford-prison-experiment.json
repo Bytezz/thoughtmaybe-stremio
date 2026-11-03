@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Quiet Rage: The Stanford Prison Experiment",
+      "url": "https://cdn-su-802106nd.thoughtmay.be/0/items/s2_QuietRage-TheStanfordPrisonStudy/QuietRage-TheStanfordPrisonStudy.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:quiet-rage-the-stanford-prison-experiment"
+      }
+    }
+  ]
+}

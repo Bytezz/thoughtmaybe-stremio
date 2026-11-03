@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Returning Fire",
+      "url": "https://cdn-su-303006nd.thoughtmay.be/0/items/s_ReturningFire/ReturningFire.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:returning-fire"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Burn with Us",
+      "url": "https://cdn-su-603008nd.thoughtmay.be/0/items/s_BurnWithUs/BurnWithUs.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:burn-with-us"
+      }
+    }
+  ]
+}

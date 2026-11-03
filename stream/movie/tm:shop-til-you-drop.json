@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Shop Til You Drop",
+      "url": "https://cdn-su-302106nd.thoughtmay.be/0/items/s_ShopTilYouDrop/ShopTilYouDrop.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:shop-til-you-drop"
+      }
+    }
+  ]
+}

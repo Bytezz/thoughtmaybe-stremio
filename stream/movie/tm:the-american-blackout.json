@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The American Blackout",
+      "url": "https://cdn-su-603006nd.thoughtmay.be/0/items/s1_TheAmericanBlackout/TheAmericanBlackout.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-american-blackout"
+      }
+    }
+  ]
+}

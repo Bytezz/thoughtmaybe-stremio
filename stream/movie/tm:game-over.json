@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Game Over",
+      "url": "https://cdn-su-303006nd.thoughtmay.be/0/items/s_GameOver/GameOver.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:game-over"
+      }
+    }
+  ]
+}

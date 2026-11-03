@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Children of War",
+      "url": "https://cdn-su-002108nd.thoughtmay.be/0/items/s_ChildrenOfWar/ChildrenOfWar.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:children-of-war"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The End of The Line",
+      "url": "https://cdn-su-103006nd.thoughtmay.be/0/items/s1_TheEndOfTheLine/TheEndOfTheLine.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-end-of-the-line"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Bro Code",
+      "url": "https://cdn-su-903008nd.thoughtmay.be/0/items/s_TheBroCode/TheBroCode.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-bro-code"
+      }
+    }
+  ]
+}

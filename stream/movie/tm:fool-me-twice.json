@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Fool Me Twice",
+      "url": "https://cdn-su-802008nd.thoughtmay.be/0/items/s1_FoolMeTwice/FoolMeTwice.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:fool-me-twice"
+      }
+    }
+  ]
+}

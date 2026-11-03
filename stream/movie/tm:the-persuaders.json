@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Persuaders",
+      "url": "https://cdn-su-002006nd.thoughtmay.be/0/items/s1_ThePersuaders/ThePersuaders.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-persuaders"
+      }
+    }
+  ]
+}

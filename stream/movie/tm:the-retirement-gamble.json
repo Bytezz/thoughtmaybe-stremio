@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Retirement Gamble",
+      "url": "https://cdn-su-402108nd.thoughtmay.be/0/items/s_TheRetirementGamble/TheRetirementGamble.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-retirement-gamble"
+      }
+    }
+  ]
+}

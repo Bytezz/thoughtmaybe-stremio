@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Suspect Nation",
+      "url": "https://cdn-su-302008nd.thoughtmay.be/0/items/s1_SuspectNation/SuspectNation.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:suspect-nation"
+      }
+    }
+  ]
+}

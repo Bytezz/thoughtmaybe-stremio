@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Attack of The Drones",
+      "url": "https://cdn-su-508006ai.thoughtmay.be/8/items/s2_AttackOfTheDrones/AttackOfTheDrones.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:attack-of-the-drones"
+      }
+    }
+  ]
+}

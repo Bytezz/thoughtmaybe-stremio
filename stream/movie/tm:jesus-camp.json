@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Jesus Camp",
+      "url": "https://cdn-su-502006nd.thoughtmay.be/0/items/s1_JesusCamp/JesusCamp.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:jesus-camp"
+      }
+    }
+  ]
+}

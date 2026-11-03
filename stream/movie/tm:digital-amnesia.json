@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Digital Amnesia",
+      "url": "https://cdn-su-003008nd.thoughtmay.be/0/items/s1_DigitalAmnesia/DigitalAmnesia.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:digital-amnesia"
+      }
+    }
+  ]
+}

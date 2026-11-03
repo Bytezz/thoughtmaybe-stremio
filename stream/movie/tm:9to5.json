@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "9to5",
+      "url": "https://cdn-su-802006nd.thoughtmay.be/0/items/s_9To5/9to5.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:9to5"
+      }
+    }
+  ]
+}

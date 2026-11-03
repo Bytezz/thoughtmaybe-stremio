@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "This Is Not a Movie",
+      "url": "https://cdn-su-103008nd.thoughtmay.be/0/items/s_ThisIsNotAMovie/ThisIsNotAMovie.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:this-is-not-a-movie"
+      }
+    }
+  ]
+}

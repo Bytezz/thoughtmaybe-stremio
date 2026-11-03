@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Street Politics 101",
+      "url": "https://cdn-su-702008nd.thoughtmay.be/0/items/s1_StreetPolitics/StreetPolitics.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:street-politics-101"
+      }
+    }
+  ]
+}

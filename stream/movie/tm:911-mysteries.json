@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "9/11 Mysteries",
+      "url": "https://cdn-su-704006ai.thoughtmay.be/35/items/s2_911Mysteries/911-Mysteries.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:911-mysteries"
+      }
+    }
+  ]
+}

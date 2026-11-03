@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Blackout",
+      "url": "https://cdn-su-406006ai.thoughtmay.be/7/items/s_Blackout/Blackout.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:blackout"
+      }
+    }
+  ]
+}

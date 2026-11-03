@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Santa’s Workshop",
+      "url": "https://cdn-su-503006nd.thoughtmay.be/0/items/s1_SantasWorkshop/SantasWorkshop.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:santas-workshop"
+      }
+    }
+  ]
+}

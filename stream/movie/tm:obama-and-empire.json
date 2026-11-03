@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Obama and Empire",
+      "url": "https://cdn-su-703006nd.thoughtmay.be/0/items/s1_ObamaAndEmpire/ObamaAndEmpire.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:obama-and-empire"
+      }
+    }
+  ]
+}

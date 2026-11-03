@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Overspent American",
+      "url": "https://cdn-su-502006nd.thoughtmay.be/0/items/s_TheOverspentAmerican/TheOverspentAmerican.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-overspent-american"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Let It Fall",
+      "url": "https://cdn-su-803008nd.thoughtmay.be/0/items/s_LetItFall/LetItFall.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:let-it-fall"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Grasp the Nettle",
+      "url": "https://cdn-su-602006nd.thoughtmay.be/0/items/s_GraspTheNettle/GraspTheNettle.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:grasp-the-nettle"
+      }
+    }
+  ]
+}

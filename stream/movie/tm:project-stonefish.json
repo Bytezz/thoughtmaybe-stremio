@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Project Stonefish",
+      "url": "https://cdn-su-703008nd.thoughtmay.be/0/items/s_ProjectStonefish/ProjectStonefish.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:project-stonefish"
+      }
+    }
+  ]
+}

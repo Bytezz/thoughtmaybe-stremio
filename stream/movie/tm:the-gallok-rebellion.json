@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The GÃ¡llok Rebellion",
+      "url": "https://cdn-su-403008nd.thoughtmay.be/0/items/s1_TheGallokRebellion/TheGallokRebellion.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-gallok-rebellion"
+      }
+    }
+  ]
+}

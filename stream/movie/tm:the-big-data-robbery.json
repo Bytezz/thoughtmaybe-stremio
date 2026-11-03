@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Big Data Robbery",
+      "url": "https://cdn-su-803006nd.thoughtmay.be/0/items/s_TheBigDataRobbery/TheBigDataRobbery.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-big-data-robbery"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "The Real Dirt On Farmer John",
+      "url": "https://cdn-su-403006nd.thoughtmay.be/0/items/s1_TheRealDirtOnFarmerJohn/TheRealDirtOnFarmerJohn.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:the-real-dirt-on-farmer-john"
+      }
+    }
+  ]
+}

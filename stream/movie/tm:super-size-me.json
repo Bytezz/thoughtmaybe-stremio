@@ -1,0 +1,11 @@
+{
+  "streams": [
+    {
+      "title": "Super Size Me",
+      "url": "https://cdn-su-402108nd.thoughtmay.be/0/items/s1_SuperSizeMe/SuperSizeMe.mp4",
+      "behaviorHints": {
+        "bingeGroup": "page.codeberg.bytez.thoughtmaybe-tm:super-size-me"
+      }
+    }
+  ]
+}
